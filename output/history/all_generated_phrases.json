@@ -34,7 +34,42 @@
       "transliteration": "Oon pahs, pe ruhnd.",
       "category": "Patience",
       "generated_at": "2026-06-15T22:31:23.937767"
+    },
+    {
+      "english": "One, two, ready, go!",
+      "romanian": "Unu, doi, pregătit, pleacă!",
+      "transliteration": "Oo-noo, doy, preh-gah-teed, pleh-kah!",
+      "category": "Numbers",
+      "generated_at": "2026-06-15T22:35:11.980358"
+    },
+    {
+      "english": "Ten, nine, eight, down.",
+      "romanian": "Zece, nouă, opt, jos.",
+      "transliteration": "Zeh-cheh, noy-ah, opt, zhohs.",
+      "category": "Numbers",
+      "generated_at": "2026-06-15T22:35:11.980368"
+    },
+    {
+      "english": "Just one more, please.",
+      "romanian": "Doar încă unul, te rog.",
+      "transliteration": "Dwar een-kuh oo-noo, teh rohg.",
+      "category": "Numbers",
+      "generated_at": "2026-06-15T22:35:11.980369"
+    },
+    {
+      "english": "Three, that's enough.",
+      "romanian": "Trei, e destul.",
+      "transliteration": "Trey, eh des-tool.",
+      "category": "Numbers",
+      "generated_at": "2026-06-15T22:35:11.980370"
+    },
+    {
+      "english": "Fifteen, a good number.",
+      "romanian": "Cincisprezece, un număr bun.",
+      "transliteration": "Cheen-s-preh-zeh-cheh, oon noo-mur boon.",
+      "category": "Numbers",
+      "generated_at": "2026-06-15T22:35:11.980372"
     }
   ],
-  "last_updated": "2026-06-15T22:31:23.937769"
+  "last_updated": "2026-06-15T22:35:11.980373"
 }
