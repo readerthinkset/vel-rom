@@ -104,7 +104,42 @@
       "transliteration": "Bi-ne ai ve-nit, in-tra.",
       "category": "Greetings",
       "generated_at": "2026-06-16T02:45:47.619785"
+    },
+    {
+      "english": "I forgive you, truly.",
+      "romanian": "Te iert, cu adevărat.",
+      "transliteration": "Te yert, koo ah-deh-vah-raht.",
+      "category": "Forgiveness",
+      "generated_at": "2026-06-16T12:31:28.511851"
+    },
+    {
+      "english": "Let's move past this.",
+      "romanian": "Să trecem peste asta.",
+      "transliteration": "Suh treh-chem peh-steh ahs-tah.",
+      "category": "Forgiveness",
+      "generated_at": "2026-06-16T12:31:28.511858"
+    },
+    {
+      "english": "It's forgotten now.",
+      "romanian": "E uitat acum.",
+      "transliteration": "Eh oo-ee-taht ah-koom.",
+      "category": "Forgiveness",
+      "generated_at": "2026-06-16T12:31:28.511870"
+    },
+    {
+      "english": "Peace is important.",
+      "romanian": "Pacea e importantă.",
+      "transliteration": "Pah-cheh eh eem-por-tahn-tuh.",
+      "category": "Forgiveness",
+      "generated_at": "2026-06-16T12:31:28.511871"
+    },
+    {
+      "english": "I release the anger.",
+      "romanian": "Eliberez mânia.",
+      "transliteration": "Eh-lee-beh-rez muh-nee-ah.",
+      "category": "Forgiveness",
+      "generated_at": "2026-06-16T12:31:28.511872"
     }
   ],
-  "last_updated": "2026-06-16T02:45:47.619786"
+  "last_updated": "2026-06-16T12:31:28.511874"
 }
