@@ -139,7 +139,42 @@
       "transliteration": "Eh-lee-beh-rez muh-nee-ah.",
       "category": "Forgiveness",
       "generated_at": "2026-06-16T12:31:28.511872"
+    },
+    {
+      "english": "My dear mother, I love you.",
+      "romanian": "Mamă dragă, te iubesc.",
+      "transliteration": "MAH-muh DRAH-guh, teh yoo-BESK.",
+      "category": "Family Terms",
+      "generated_at": "2026-06-16T16:48:46.332716"
+    },
+    {
+      "english": "Father, how are you?",
+      "romanian": "Tată, ce mai faci?",
+      "transliteration": "TAH-tuh, cheh my FAHCH?",
+      "category": "Family Terms",
+      "generated_at": "2026-06-16T16:48:46.332725"
+    },
+    {
+      "english": "Sister, let's go play.",
+      "romanian": "Soră, hai să ne jucăm.",
+      "transliteration": "SOH-ruh, HY sah neh yoo-KUM.",
+      "category": "Family Terms",
+      "generated_at": "2026-06-16T16:48:46.332726"
+    },
+    {
+      "english": "Brother, can you help?",
+      "romanian": "Frate, poți să ajuți?",
+      "transliteration": "FRAH-teh, POH-ts' sah ah-YOOTS?",
+      "category": "Family Terms",
+      "generated_at": "2026-06-16T16:48:46.332728"
+    },
+    {
+      "english": "Grandma, tell me a story.",
+      "romanian": "Bunică, spune-mi o poveste.",
+      "transliteration": "BOO-nee-kuh, SPOO-neh-mee oh poh-VES-teh.",
+      "category": "Family Terms",
+      "generated_at": "2026-06-16T16:48:46.332729"
     }
   ],
-  "last_updated": "2026-06-16T12:31:28.511874"
+  "last_updated": "2026-06-16T16:48:46.332731"
 }
