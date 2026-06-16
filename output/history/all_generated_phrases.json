@@ -174,7 +174,42 @@
       "transliteration": "BOO-nee-kuh, SPOO-neh-mee oh poh-VES-teh.",
       "category": "Family Terms",
       "generated_at": "2026-06-16T16:48:46.332729"
+    },
+    {
+      "english": "Hello, how are you?",
+      "romanian": "Salut, ce mai faci?",
+      "transliteration": "Sah-loot, cheh my fatch?",
+      "category": "Basic Phrases",
+      "generated_at": "2026-06-16T18:26:47.721505"
+    },
+    {
+      "english": "Thank you, very much.",
+      "romanian": "Mulțumesc, mult.",
+      "transliteration": "Mool-tzoo-mesk, moolt.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-06-16T18:26:47.721516"
+    },
+    {
+      "english": "My name is, Maria.",
+      "romanian": "Numele meu, e Maria.",
+      "transliteration": "Noo-meh-leh me-oo, eh Mah-ree-ah.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-06-16T18:26:47.721522"
+    },
+    {
+      "english": "Yes, please.",
+      "romanian": "Da, te rog.",
+      "transliteration": "Dah, teh rog.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-06-16T18:26:47.721523"
+    },
+    {
+      "english": "No, thank you.",
+      "romanian": "Nu, mulțumesc.",
+      "transliteration": "Noo, mool-tzoo-mesk.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-06-16T18:26:47.721524"
     }
   ],
-  "last_updated": "2026-06-16T16:48:46.332731"
+  "last_updated": "2026-06-16T18:26:47.721526"
 }
