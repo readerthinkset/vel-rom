@@ -69,7 +69,42 @@
       "transliteration": "Cheen-s-preh-zeh-cheh, oon noo-mur boon.",
       "category": "Numbers",
       "generated_at": "2026-06-15T22:35:11.980372"
+    },
+    {
+      "english": "Hello, friend, how are you?",
+      "romanian": "Salut, prietene, ce mai faci?",
+      "transliteration": "Salu-t, pri-e-te-ne, che mai fa-chi?",
+      "category": "Greetings",
+      "generated_at": "2026-06-16T02:45:47.619773"
+    },
+    {
+      "english": "Good morning, to you.",
+      "romanian": "Bună dimineața, ție.",
+      "transliteration": "Bu-na di-mi-nea-tha, thi-e.",
+      "category": "Greetings",
+      "generated_at": "2026-06-16T02:45:47.619781"
+    },
+    {
+      "english": "Good day, sir.",
+      "romanian": "Bună ziua, domnule.",
+      "transliteration": "Bu-na zi-wa, dom-nu-le.",
+      "category": "Greetings",
+      "generated_at": "2026-06-16T02:45:47.619782"
+    },
+    {
+      "english": "Hi there, what's new?",
+      "romanian": "Salutare, ce-i nou?",
+      "transliteration": "Salu-ta-re, che-i nou?",
+      "category": "Greetings",
+      "generated_at": "2026-06-16T02:45:47.619784"
+    },
+    {
+      "english": "Welcome, please come in.",
+      "romanian": "Bine ai venit, intră.",
+      "transliteration": "Bi-ne ai ve-nit, in-tra.",
+      "category": "Greetings",
+      "generated_at": "2026-06-16T02:45:47.619785"
     }
   ],
-  "last_updated": "2026-06-15T22:35:11.980373"
+  "last_updated": "2026-06-16T02:45:47.619786"
 }
