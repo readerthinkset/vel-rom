@@ -384,7 +384,42 @@
       "transliteration": "Fee boon, koo tee-neh.",
       "category": "Self Improvement",
       "generated_at": "2026-06-17T16:56:39.346966"
+    },
+    {
+      "english": "Where is the nearest store?",
+      "romanian": "Unde este cel mai apropiat magazin?",
+      "transliteration": "Oon-deh es-teh chehl mai a-pro-pee-aht ma-ga-zeen?",
+      "category": "Shopping",
+      "generated_at": "2026-06-17T21:59:32.643188"
+    },
+    {
+      "english": "How much does this cost?",
+      "romanian": "Cât costă asta?",
+      "transliteration": "Koot kos-tah as-tah?",
+      "category": "Shopping",
+      "generated_at": "2026-06-17T21:59:32.643198"
+    },
+    {
+      "english": "I am looking for a souvenir.",
+      "romanian": "Caut un suvenir.",
+      "transliteration": "Kowt oon soo-veh-neer.",
+      "category": "Shopping",
+      "generated_at": "2026-06-17T21:59:32.643199"
+    },
+    {
+      "english": "Can I try this on?",
+      "romanian": "Pot să probez asta?",
+      "transliteration": "Pot sah pro-bez as-tah?",
+      "category": "Shopping",
+      "generated_at": "2026-06-17T21:59:32.643201"
+    },
+    {
+      "english": "Do you have this in blue?",
+      "romanian": "Aveți asta pe albastru?",
+      "transliteration": "A-vets as-tah peh al-bas-troo?",
+      "category": "Shopping",
+      "generated_at": "2026-06-17T21:59:32.643202"
     }
   ],
-  "last_updated": "2026-06-17T16:56:39.346967"
+  "last_updated": "2026-06-17T21:59:32.643204"
 }
