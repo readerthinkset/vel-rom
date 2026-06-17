@@ -279,7 +279,42 @@
       "transliteration": "Voh-cha ta eh poo-ter-nee-kuh, las-oh suh seh ow-duh.",
       "category": "Confidence",
       "generated_at": "2026-06-16T22:09:41.846202"
+    },
+    {
+      "english": "Life is good, enjoy it.",
+      "romanian": "Viața e bună, bucură-te.",
+      "transliteration": "Vee-ah-tsah eh boon-uh, boo-koo-rah-teh.",
+      "category": "Joy",
+      "generated_at": "2026-06-17T02:42:53.683926"
+    },
+    {
+      "english": "Feeling happy, truly free.",
+      "romanian": "Mă simt fericit, cu adevărat liber.",
+      "transliteration": "Muh seent feh-ree-cheet, koo ah-deh-vah-raht lee-behr.",
+      "category": "Joy",
+      "generated_at": "2026-06-17T02:42:53.683934"
+    },
+    {
+      "english": "This moment, pure delight.",
+      "romanian": "Acest moment, o încântare pură.",
+      "transliteration": "Ah-chehst moh-mehnt, oh een-kun-tah-reh poor-uh.",
+      "category": "Joy",
+      "generated_at": "2026-06-17T02:42:53.683936"
+    },
+    {
+      "english": "Smiling often, spreads joy.",
+      "romanian": "Zâmbind des, răspândește bucurie.",
+      "transliteration": "Zum-beend dehs, ruhs-pun-desh-teh boo-koo-ree-eh.",
+      "category": "Joy",
+      "generated_at": "2026-06-17T02:42:53.683937"
+    },
+    {
+      "english": "Simple pleasures, make us glad.",
+      "romanian": "Plăceri simple, ne fac mulțumiți.",
+      "transliteration": "Pluh-chehr seem-pleh, neh fack mool-tzoo-meets.",
+      "category": "Joy",
+      "generated_at": "2026-06-17T02:42:53.683938"
     }
   ],
-  "last_updated": "2026-06-16T22:09:41.846204"
+  "last_updated": "2026-06-17T02:42:53.683940"
 }
