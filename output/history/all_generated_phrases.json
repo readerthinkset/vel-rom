@@ -594,7 +594,42 @@
       "transliteration": "Guh-shesh-teh boo-koo-ree-eh, look-roor seem-pleh.",
       "category": "Positive Life",
       "generated_at": "2026-06-18T22:07:47.343849"
+    },
+    {
+      "english": "A table for two, please.",
+      "romanian": "O masă pentru doi, vă rog.",
+      "transliteration": "O MAS-uh PER-too DOY, vuh ROG.",
+      "category": "Restaurant",
+      "generated_at": "2026-06-19T02:55:38.897779"
+    },
+    {
+      "english": "Can I see the menu?",
+      "romanian": "Pot vedea meniul?",
+      "transliteration": "POT VEH-DAY men-YOOL?",
+      "category": "Restaurant",
+      "generated_at": "2026-06-19T02:55:38.897791"
+    },
+    {
+      "english": "What do you recommend?",
+      "romanian": "Ce recomandați?",
+      "transliteration": "CHEh reh-ko-MAN-deets?",
+      "category": "Restaurant",
+      "generated_at": "2026-06-19T02:55:38.897793"
+    },
+    {
+      "english": "I'm vegetarian.",
+      "romanian": "Sunt vegetarian.",
+      "transliteration": "SOONT veh-heh-TAH-ree-AHN.",
+      "category": "Restaurant",
+      "generated_at": "2026-06-19T02:55:38.897794"
+    },
+    {
+      "english": "This looks delicious.",
+      "romanian": "Arată delicios.",
+      "transliteration": "Ah-RAH-tuh deh-lee-CHOHS.",
+      "category": "Restaurant",
+      "generated_at": "2026-06-19T02:55:38.897795"
     }
   ],
-  "last_updated": "2026-06-18T22:07:47.343850"
+  "last_updated": "2026-06-19T02:55:38.897800"
 }
