@@ -734,7 +734,42 @@
       "transliteration": "Ash doh-reer oh kah-fey-ah.",
       "category": "Travel",
       "generated_at": "2026-06-19T18:52:55.293110"
+    },
+    {
+      "english": "Breathe in, breathe out.",
+      "romanian": "Inspiră adânc, expiră lent.",
+      "transliteration": "Inspira adink, expira lent.",
+      "category": "Balance",
+      "generated_at": "2026-06-19T21:08:35.062217"
+    },
+    {
+      "english": "Stand tall, shoulders back.",
+      "romanian": "Stai drept, umerii înapoi.",
+      "transliteration": "Stai drept, umerii inapoi.",
+      "category": "Balance",
+      "generated_at": "2026-06-19T21:08:35.062230"
+    },
+    {
+      "english": "Find your center, feel calm.",
+      "romanian": "Găsește-ți centrul, simte-te liniștit.",
+      "transliteration": "Găsește-ți centrul, simte-te liniștit.",
+      "category": "Balance",
+      "generated_at": "2026-06-19T21:08:35.062232"
+    },
+    {
+      "english": "Ground yourself, stay steady.",
+      "romanian": "Ancorează-te, fii stabil.",
+      "transliteration": "Ancorează-te, fii stabil.",
+      "category": "Balance",
+      "generated_at": "2026-06-19T21:08:35.062233"
+    },
+    {
+      "english": "Move with grace, flow freely.",
+      "romanian": "Mișcă-te grațios, curge liber.",
+      "transliteration": "Mișcă-te grațios, curge liber.",
+      "category": "Balance",
+      "generated_at": "2026-06-19T21:08:35.062235"
     }
   ],
-  "last_updated": "2026-06-19T18:52:55.293112"
+  "last_updated": "2026-06-19T21:08:35.062237"
 }
