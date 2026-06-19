@@ -699,7 +699,42 @@
       "transliteration": "proh-VOH-kuh-teh, eks-TEEN-deh LOO-myah.",
       "category": "Growth",
       "generated_at": "2026-06-19T16:30:46.505484"
+    },
+    {
+      "english": "Where is the train station?",
+      "romanian": "Unde este gara?",
+      "transliteration": "Oondeh yes-teh gah-rah?",
+      "category": "Travel",
+      "generated_at": "2026-06-19T18:52:55.293095"
+    },
+    {
+      "english": "I need a taxi, please.",
+      "romanian": "Am nevoie de un taxi, vă rog.",
+      "transliteration": "Ahm neh-voh-yeh deh oon tahk-see, vuh rog.",
+      "category": "Travel",
+      "generated_at": "2026-06-19T18:52:55.293106"
+    },
+    {
+      "english": "Can I have the bill?",
+      "romanian": "Pot să am nota, vă rog?",
+      "transliteration": "Poht suh ahm noh-tah, vuh rog?",
+      "category": "Travel",
+      "generated_at": "2026-06-19T18:52:55.293108"
+    },
+    {
+      "english": "Do you speak English?",
+      "romanian": "Vorbiți engleză?",
+      "transliteration": "Vohr-beets ehn-gleh-zuh?",
+      "category": "Travel",
+      "generated_at": "2026-06-19T18:52:55.293109"
+    },
+    {
+      "english": "I would like a coffee.",
+      "romanian": "Aș dori o cafea.",
+      "transliteration": "Ash doh-reer oh kah-fey-ah.",
+      "category": "Travel",
+      "generated_at": "2026-06-19T18:52:55.293110"
     }
   ],
-  "last_updated": "2026-06-19T16:30:46.505485"
+  "last_updated": "2026-06-19T18:52:55.293112"
 }
