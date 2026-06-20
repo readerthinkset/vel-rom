@@ -804,7 +804,42 @@
       "transliteration": "Guhn-doo-ree-leh ta-leh, vor ploo-tee.",
       "category": "Mindfulness",
       "generated_at": "2026-06-20T02:28:29.175563"
+    },
+    {
+      "english": "Hello there, how are you?",
+      "romanian": "Bună ziua, ce mai faci?",
+      "transliteration": "Buna zee-vah, cheh my fatch?",
+      "category": "Common Expressions",
+      "generated_at": "2026-06-20T13:58:59.567690"
+    },
+    {
+      "english": "Excuse me, please.",
+      "romanian": "Scuzați-mă, vă rog.",
+      "transliteration": "Skzoo-tsatz-mă, vuh rog.",
+      "category": "Common Expressions",
+      "generated_at": "2026-06-20T13:58:59.567700"
+    },
+    {
+      "english": "No problem, at all.",
+      "romanian": "Nicio problemă, deloc.",
+      "transliteration": "Nee-cho pro-bleh-muh, deh lok.",
+      "category": "Common Expressions",
+      "generated_at": "2026-06-20T13:58:59.567702"
+    },
+    {
+      "english": "Nice to meet you.",
+      "romanian": "Îmi pare bine.",
+      "transliteration": "Eem pah-reh bee-neh.",
+      "category": "Common Expressions",
+      "generated_at": "2026-06-20T13:58:59.567704"
+    },
+    {
+      "english": "See you later, friend.",
+      "romanian": "Pe curând, prieten.",
+      "transliteration": "Peh koo-rund, pree-eh-ten.",
+      "category": "Common Expressions",
+      "generated_at": "2026-06-20T13:58:59.567705"
     }
   ],
-  "last_updated": "2026-06-20T02:28:29.175564"
+  "last_updated": "2026-06-20T13:58:59.567707"
 }
