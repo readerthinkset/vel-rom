@@ -839,7 +839,42 @@
       "transliteration": "Peh koo-rund, pree-eh-ten.",
       "category": "Common Expressions",
       "generated_at": "2026-06-20T13:58:59.567705"
+    },
+    {
+      "english": "Hey, what's going on?",
+      "romanian": "Hei, ce se întâmplă?",
+      "transliteration": "Hei, che se în-tâm-plă?",
+      "category": "Greetings",
+      "generated_at": "2026-06-20T15:44:15.092454"
+    },
+    {
+      "english": "How's your day going?",
+      "romanian": "Cum îți merge ziua?",
+      "transliteration": "Cum îți mer-ge zi-wa?",
+      "category": "Greetings",
+      "generated_at": "2026-06-20T15:44:15.092463"
+    },
+    {
+      "english": "Hello, nice to meet you.",
+      "romanian": "Salut, mi-e plăcere.",
+      "transliteration": "Salu-t, mi-e pla-che-re.",
+      "category": "Greetings",
+      "generated_at": "2026-06-20T15:44:15.092465"
+    },
+    {
+      "english": "Good evening, everyone.",
+      "romanian": "Bună seara, tuturor.",
+      "transliteration": "Bu-na sea-ra, tu-tu-ror.",
+      "category": "Greetings",
+      "generated_at": "2026-06-20T15:44:15.092466"
+    },
+    {
+      "english": "Greetings, from afar.",
+      "romanian": "Salutări, de departe.",
+      "transliteration": "Salu-tă-ri, de de-par-te.",
+      "category": "Greetings",
+      "generated_at": "2026-06-20T15:44:15.092467"
     }
   ],
-  "last_updated": "2026-06-20T13:58:59.567707"
+  "last_updated": "2026-06-20T15:44:15.092471"
 }
