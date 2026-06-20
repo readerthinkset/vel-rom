@@ -769,7 +769,42 @@
       "transliteration": "Mișcă-te grațios, curge liber.",
       "category": "Balance",
       "generated_at": "2026-06-19T21:08:35.062235"
+    },
+    {
+      "english": "Breathe in, breathe out, peace.",
+      "romanian": "Inspiră, expiră, pace.",
+      "transliteration": "In-spee-ra, ex-pee-ra, pa-che.",
+      "category": "Mindfulness",
+      "generated_at": "2026-06-20T02:28:29.175552"
+    },
+    {
+      "english": "Listen closely, to your heart.",
+      "romanian": "Ascultă atent, la inima ta.",
+      "transliteration": "As-kool-ta a-tent, la ee-nee-ma ta.",
+      "category": "Mindfulness",
+      "generated_at": "2026-06-20T02:28:29.175558"
+    },
+    {
+      "english": "Be present, right here, right now.",
+      "romanian": "Fii prezent, chiar aici, chiar acum.",
+      "transliteration": "Fee pre-zent, chee-ar a-yeetch, chee-ar a-koom.",
+      "category": "Mindfulness",
+      "generated_at": "2026-06-20T02:28:29.175560"
+    },
+    {
+      "english": "Feel the ground, beneath your feet.",
+      "romanian": "Simte pământul, sub picioarele tale.",
+      "transliteration": "Seem-te puh-munt-ool, soob pee-cho-a-reh-leh ta-leh.",
+      "category": "Mindfulness",
+      "generated_at": "2026-06-20T02:28:29.175561"
+    },
+    {
+      "english": "Your thoughts, will drift away.",
+      "romanian": "Gândurile tale, vor pluti.",
+      "transliteration": "Guhn-doo-ree-leh ta-leh, vor ploo-tee.",
+      "category": "Mindfulness",
+      "generated_at": "2026-06-20T02:28:29.175563"
     }
   ],
-  "last_updated": "2026-06-19T21:08:35.062237"
+  "last_updated": "2026-06-20T02:28:29.175564"
 }
