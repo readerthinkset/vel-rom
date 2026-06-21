@@ -1014,7 +1014,42 @@
       "transliteration": "Soon-tem sha-seh pehr-swah-neh ah-eech.",
       "category": "Numbers",
       "generated_at": "2026-06-21T14:06:39.921064"
+    },
+    {
+      "english": "Let's start, now.",
+      "romanian": "Să începem, acum.",
+      "transliteration": "Su in-che-pem, a-cum.",
+      "category": "Purpose",
+      "generated_at": "2026-06-21T15:49:18.962045"
+    },
+    {
+      "english": "We learn, together.",
+      "romanian": "Învățăm, împreună.",
+      "transliteration": "In-vuh-tsem, im-pre-oo-nuh.",
+      "category": "Purpose",
+      "generated_at": "2026-06-21T15:49:18.962053"
+    },
+    {
+      "english": "I want, to speak.",
+      "romanian": "Vreau, să vorbesc.",
+      "transliteration": "Vrau, su vor-besk.",
+      "category": "Purpose",
+      "generated_at": "2026-06-21T15:49:18.962054"
+    },
+    {
+      "english": "She lives, here.",
+      "romanian": "Ea locuiește, aici.",
+      "transliteration": "Ya lo-koo-ye-sh-te, a-yeetch.",
+      "category": "Purpose",
+      "generated_at": "2026-06-21T15:49:18.962055"
+    },
+    {
+      "english": "He reads, often.",
+      "romanian": "El citește, des.",
+      "transliteration": "El chee-tesh-te, des.",
+      "category": "Purpose",
+      "generated_at": "2026-06-21T15:49:18.962057"
     }
   ],
-  "last_updated": "2026-06-21T14:06:39.921066"
+  "last_updated": "2026-06-21T15:49:18.962058"
 }
