@@ -979,7 +979,42 @@
       "transliteration": "koo-RAHJ sah FEE dee-feh-REET, ehks-PREE-muh-teh.",
       "category": "Creativity",
       "generated_at": "2026-06-21T02:41:56.859567"
+    },
+    {
+      "english": "Maybe two times, yes.",
+      "romanian": "Poate de două ori, da.",
+      "transliteration": "Pwah-teh deh doh-oh or, dah.",
+      "category": "Numbers",
+      "generated_at": "2026-06-21T14:06:39.921050"
+    },
+    {
+      "english": "I need seven minutes.",
+      "romanian": "Am nevoie de șapte minute.",
+      "transliteration": "Am neh-voy-eh deh shap-teh mee-noo-teh.",
+      "category": "Numbers",
+      "generated_at": "2026-06-21T14:06:39.921060"
+    },
+    {
+      "english": "He counted to twenty.",
+      "romanian": "A numărat până la douăzeci.",
+      "transliteration": "Ah noo-mah-raht poon-uh lah doh-oh-zehch.",
+      "category": "Numbers",
+      "generated_at": "2026-06-21T14:06:39.921062"
+    },
+    {
+      "english": "Only four left now.",
+      "romanian": "Au rămas doar patru acum.",
+      "transliteration": "Ow ruh-mahs dwar pa-troo ah-koom.",
+      "category": "Numbers",
+      "generated_at": "2026-06-21T14:06:39.921063"
+    },
+    {
+      "english": "We are six people here.",
+      "romanian": "Suntem șase persoane aici.",
+      "transliteration": "Soon-tem sha-seh pehr-swah-neh ah-eech.",
+      "category": "Numbers",
+      "generated_at": "2026-06-21T14:06:39.921064"
     }
   ],
-  "last_updated": "2026-06-21T02:41:56.859569"
+  "last_updated": "2026-06-21T14:06:39.921066"
 }
