@@ -1259,7 +1259,42 @@
       "transliteration": "Ruh-my kon-chen-traht, kon-too-nyoo-ah sa em-peen-jee.",
       "category": "Perseverance",
       "generated_at": "2026-06-22T20:08:38.698519"
+    },
+    {
+      "english": "Grandpa, you are strong.",
+      "romanian": "Bunicule, ești puternic.",
+      "transliteration": "BOO-nee-koo-leh, YESHT' poo-TER-neek.",
+      "category": "Family Terms",
+      "generated_at": "2026-06-22T22:01:08.608315"
+    },
+    {
+      "english": "Aunt, thank you for the gift.",
+      "romanian": "Mătușă, mulțumesc pentru cadou.",
+      "transliteration": "MUH-too-shuh, mool-tzoo-MESK PEN-troo kah-DOH.",
+      "category": "Family Terms",
+      "generated_at": "2026-06-22T22:01:08.608325"
+    },
+    {
+      "english": "Uncle, where did you go?",
+      "romanian": "Unchiule, unde ai fost?",
+      "transliteration": "OON-kyoo-leh, OON-deh ahy FOOST?",
+      "category": "Family Terms",
+      "generated_at": "2026-06-22T22:01:08.608326"
+    },
+    {
+      "english": "Cousin, we are friends.",
+      "romanian": "Verișoară, suntem prieteni.",
+      "transliteration": "VEH-ree-shwa-ruh, SOON-tem pree-EH-ten.",
+      "category": "Family Terms",
+      "generated_at": "2026-06-22T22:01:08.608328"
+    },
+    {
+      "english": "My family, my home.",
+      "romanian": "Familia mea, casa mea.",
+      "transliteration": "fah-MEE-lee-ah MYEH, KAH-sah MYEH.",
+      "category": "Family Terms",
+      "generated_at": "2026-06-22T22:01:08.608329"
     }
   ],
-  "last_updated": "2026-06-22T20:08:38.698521"
+  "last_updated": "2026-06-22T22:01:08.608331"
 }
