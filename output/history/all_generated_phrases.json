@@ -1189,7 +1189,42 @@
       "transliteration": "Ah-vem, klee-peh fai-neh.",
       "category": "Friendship",
       "generated_at": "2026-06-22T16:53:33.081210"
+    },
+    {
+      "english": "Now, let's begin.",
+      "romanian": "Acum, să începem.",
+      "transliteration": "Ah-koom, sah sen-chep-em.",
+      "category": "Time",
+      "generated_at": "2026-06-22T18:12:05.500326"
+    },
+    {
+      "english": "Later, maybe, we can talk.",
+      "romanian": "Mai târziu, poate, vorbim.",
+      "transliteration": "My tuh-ree-oo, poh-teh, vor-beem.",
+      "category": "Time",
+      "generated_at": "2026-06-22T18:12:05.500335"
+    },
+    {
+      "english": "Soon, it will be time.",
+      "romanian": "Curând, va fi momentul.",
+      "transliteration": "Koo-roond, vah fee mo-men-tool.",
+      "category": "Time",
+      "generated_at": "2026-06-22T18:12:05.500337"
+    },
+    {
+      "english": "Today, we have to go.",
+      "romanian": "Azi, trebuie să plecăm.",
+      "transliteration": "Ah-zee, treh-boo-yeh sah pleh-kem.",
+      "category": "Time",
+      "generated_at": "2026-06-22T18:12:05.500338"
+    },
+    {
+      "english": "Yesterday, it was fun.",
+      "romanian": "Ieri, a fost amuzant.",
+      "transliteration": "Yehr, ah fost ah-moo-zahnt.",
+      "category": "Time",
+      "generated_at": "2026-06-22T18:12:05.500343"
     }
   ],
-  "last_updated": "2026-06-22T16:53:33.081211"
+  "last_updated": "2026-06-22T18:12:05.500345"
 }
