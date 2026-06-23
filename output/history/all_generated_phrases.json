@@ -1364,7 +1364,42 @@
       "transliteration": "Cheh jest, froo-mohs.",
       "category": "Gratitude",
       "generated_at": "2026-06-23T14:44:47.639286"
+    },
+    {
+      "english": "Where is, the bathroom?",
+      "romanian": "Unde e, toaleta?",
+      "transliteration": "Oon-deh eh, toh-ah-leh-tah?",
+      "category": "Basic Phrases",
+      "generated_at": "2026-06-23T19:11:52.879512"
+    },
+    {
+      "english": "I don't understand.",
+      "romanian": "Nu înțeleg.",
+      "transliteration": "Noo oon-tseh-leg.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-06-23T19:11:52.879522"
+    },
+    {
+      "english": "Can you help, me please?",
+      "romanian": "Mă poți ajuta, te rog?",
+      "transliteration": "Muh poh-ts ah-zoo-tah, teh rog?",
+      "category": "Basic Phrases",
+      "generated_at": "2026-06-23T19:11:52.879523"
+    },
+    {
+      "english": "Good morning, everyone.",
+      "romanian": "Bună dimineața, tuturor.",
+      "transliteration": "Boon-ah dee-mee-nah-tsah, too-too-ror.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-06-23T19:11:52.879525"
+    },
+    {
+      "english": "See you later.",
+      "romanian": "Pe curând.",
+      "transliteration": "Peh koo-roond.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-06-23T19:11:52.879526"
     }
   ],
-  "last_updated": "2026-06-23T14:44:47.639287"
+  "last_updated": "2026-06-23T19:11:52.879527"
 }
