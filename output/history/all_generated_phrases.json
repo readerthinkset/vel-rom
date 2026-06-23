@@ -1329,7 +1329,42 @@
       "transliteration": "Ak-chept-uh proh-voh-ka-rea, uhn-va-tsuh shee kreh-shteh.",
       "category": "Confidence",
       "generated_at": "2026-06-23T02:11:27.516588"
+    },
+    {
+      "english": "I appreciate, your help.",
+      "romanian": "Apreciez, ajutorul tău.",
+      "transliteration": "Ah-preh-chee-ez, ah-zhoo-tohr-ool toh-oo.",
+      "category": "Gratitude",
+      "generated_at": "2026-06-23T14:44:47.639274"
+    },
+    {
+      "english": "You are, so kind.",
+      "romanian": "Ești, atât de amabil.",
+      "transliteration": "Yesht, ah-tuhht deh ah-mah-beell.",
+      "category": "Gratitude",
+      "generated_at": "2026-06-23T14:44:47.639282"
+    },
+    {
+      "english": "This means, a lot.",
+      "romanian": "Înseamnă, enorm.",
+      "transliteration": "En-sahm-nah, eh-nohrm.",
+      "category": "Gratitude",
+      "generated_at": "2026-06-23T14:44:47.639284"
+    },
+    {
+      "english": "I am grateful, for this.",
+      "romanian": "Sunt recunoscător, pentru asta.",
+      "transliteration": "Soont reh-koo-nohs-ko-tohr, pen-troo ahs-tah.",
+      "category": "Gratitude",
+      "generated_at": "2026-06-23T14:44:47.639285"
+    },
+    {
+      "english": "What a nice, gesture.",
+      "romanian": "Ce gest, frumos.",
+      "transliteration": "Cheh jest, froo-mohs.",
+      "category": "Gratitude",
+      "generated_at": "2026-06-23T14:44:47.639286"
     }
   ],
-  "last_updated": "2026-06-23T02:11:27.516590"
+  "last_updated": "2026-06-23T14:44:47.639287"
 }
