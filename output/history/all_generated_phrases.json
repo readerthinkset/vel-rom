@@ -1434,7 +1434,42 @@
       "transliteration": "Fee bluhnd, koo pro-pree-a ta meen-te.",
       "category": "Mindfulness",
       "generated_at": "2026-06-24T02:12:44.367152"
+    },
+    {
+      "english": "Help, please. I need help.",
+      "romanian": "Ajutor, vă rog. Am nevoie de ajutor.",
+      "transliteration": "Ah-JOO-tor, vuh ROG. Ahm NEH-vo-yeh deh ah-JOO-tor.",
+      "category": "Emergency",
+      "generated_at": "2026-06-24T14:26:13.112727"
+    },
+    {
+      "english": "Call the police. Now.",
+      "romanian": "Chemați poliția. Acum.",
+      "transliteration": "Cheh-MAHTZ poh-LEE-tsee-yah. Ah-KOOM.",
+      "category": "Emergency",
+      "generated_at": "2026-06-24T14:26:13.112737"
+    },
+    {
+      "english": "I am lost. Can you help?",
+      "romanian": "M-am pierdut. Mă puteți ajuta?",
+      "transliteration": "M'ahm pehr-DOOT. Muh POO-tetz ah-JOO-tah?",
+      "category": "Emergency",
+      "generated_at": "2026-06-24T14:26:13.112738"
+    },
+    {
+      "english": "Where is the hospital?",
+      "romanian": "Unde este spitalul?",
+      "transliteration": "OON-deh YES-teh spee-TAH-tool?",
+      "category": "Emergency",
+      "generated_at": "2026-06-24T14:26:13.112740"
+    },
+    {
+      "english": "I need a doctor. Quickly.",
+      "romanian": "Am nevoie de un doctor. Repede.",
+      "transliteration": "Ahm NEH-vo-yeh deh oon DOK-tor. REH-peh-deh.",
+      "category": "Emergency",
+      "generated_at": "2026-06-24T14:26:13.112741"
     }
   ],
-  "last_updated": "2026-06-24T02:12:44.367154"
+  "last_updated": "2026-06-24T14:26:13.112743"
 }
