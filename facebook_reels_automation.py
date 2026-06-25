@@ -78,7 +78,27 @@ CATEGORIES_ENGLISH = [
     "Growth",
     "Purpose",
     "Mindfulness"
-]
+
+    "Daily Routine",
+    "Weather",
+    "Feelings",
+    "Food",
+    "Health",
+    "Work",
+    "Technology",
+    "Nature",
+    "Animals",
+    "Colors",
+    "Directions",
+    "Body Parts",
+    "Clothes",
+    "Music",
+    "Sports",
+    "Holidays",
+    "Education",
+    "Culture",
+    "Finance",
+    "Relationships",]
 
 CATEGORIES_NATIVE = {
     "Greetings": "Salutări",
@@ -123,7 +143,7 @@ NATIVE_VOICE = "ro-RO-EmilNeural"
 
 PHRASE_HISTORY_FILE = HISTORY_DIR / "all_generated_phrases.json"
 RECENT_CATEGORIES_FILE = HISTORY_DIR / "recent_categories.json"
-MAX_RECENT_CATEGORIES = 15
+MAX_RECENT_CATEGORIES = 25
 
 
 def load_phrase_history():
@@ -198,6 +218,10 @@ def get_available_category():
 def generate_phrases(category_english: str, num_phrases: int = 5) -> list:
     category_native = CATEGORIES_NATIVE[category_english]
     max_attempts = 3
+
+    history = load_phrase_history()
+    recent_english = [p["english"] for p in history.get("phrases", []) if p.get("category") == category_english][-30:]
+
     for attempt in range(max_attempts):
         try:
             import requests
@@ -207,7 +231,11 @@ def generate_phrases(category_english: str, num_phrases: int = 5) -> list:
                 "Content-Type": "application/json"
             }
 
-            prompt = f"""Create {num_phrases * 2} unique {category_english} phrases for English speakers learning Romanian.
+            avoid_text = ""
+            if recent_english:
+                avoid_text = "\nABSOLUTELY AVOID these already-used phrases:\n" + "\n".join(f"- {p}" for p in recent_english)
+
+            prompt = f"""Create {num_phrases * 6} unique and creative {category_english} phrases for English speakers learning Romanian.{avoid_text}
 
 IMPORTANT RULES FOR NATURAL SPEECH:
 1. Keep phrases SHORT (5-12 words max per language)
@@ -218,6 +246,7 @@ IMPORTANT RULES FOR NATURAL SPEECH:
 6. Romanian text should be CLEAN - use standard Romanian script
 7. Do NOT include multiple versions or slashes - just ONE clean Romanian translation
 8. Transliteration should be in Roman script for pronunciation
+9. BE CREATIVE AND VARIED - do NOT repeat themes from the avoid list
 
 For each phrase:
 1. English phrase (with commas for natural pauses)
@@ -233,10 +262,10 @@ IMPORTANT: Romanian text must be clean - no slashes, no multiple versions."""
             payload = {
                 "model": AI_MODEL,
                 "messages": [
-                    {"role": "system", "content": "You are a Romanian teacher. Create short, natural phrases with pauses."},
+                    {"role": "system", "content": "You are a Romanian teacher. Create short, natural phrases with pauses. Each generation must produce completely different, creative phrases."},
                     {"role": "user", "content": prompt}
                 ],
-                "temperature": 0.9
+                "temperature": min(0.95 + attempt * 0.03, 1.0)
             }
 
             response = requests.post(url, headers=headers, json=payload, timeout=60)
@@ -277,6 +306,11 @@ IMPORTANT: Romanian text must be clean - no slashes, no multiple versions."""
                 add_phrases_to_history(unique_phrases[:num_phrases], category_english)
                 return unique_phrases[:num_phrases]
 
+            print(f"[content] Attempt {attempt + 1}: API returned {len(phrases)} phrases, only {len(unique_phrases)} are new (need {num_phrases})")
+            for p in unique_phrases:
+                if p["english"] not in recent_english:
+                    recent_english.append(p["english"])
+
         except Exception as e:
             print(f"[content] Attempt {attempt + 1} failed: {e}")
 
@@ -288,22 +322,58 @@ IMPORTANT: Romanian text must be clean - no slashes, no multiple versions."""
 def get_fresh_fallback_phrases(category: str, num_phrases: int) -> list:
     """Return simple English fallback phrases when AI generation fails"""
     generic_fallbacks = [
-        {"english": "Hello, nice to meet you.", "romanian": "[RO] Hello", "transliteration": "hello"},
-        {"english": "Thank you very much.", "romanian": "[RO] Thank you", "transliteration": "thank you"},
-        {"english": "Good morning, have a great day.", "romanian": "[RO] Good morning", "transliteration": "good morning"},
-        {"english": "I love learning new languages.", "romanian": "[RO] Love learning", "transliteration": "love learning"},
-        {"english": "Never give up on your dreams.", "romanian": "[RO] Never give up", "transliteration": "never give up"},
-        {"english": "Every day is a fresh start.", "romanian": "[RO] Fresh start", "transliteration": "fresh start"},
-        {"english": "Believe in yourself always.", "romanian": "[RO] Believe", "transliteration": "believe"},
-        {"english": "Small steps lead to big changes.", "romanian": "[RO] Small steps", "transliteration": "small steps"},
-        {"english": "You are stronger than you think.", "romanian": "[RO] Stronger", "transliteration": "stronger"},
-        {"english": "Happiness is a choice, choose it.", "romanian": "[RO] Happiness", "transliteration": "happiness"},
+        {"english": "Hello, nice to meet you.", "romanian": "Bun\u0103, mi-a faci cuno\u0219tin\u021b\u0103.", "transliteration": "Buna, mi-a faci cunostinta."},
+        {"english": "Thank you very much.", "romanian": "Mul\u021bumesc foarte mult.", "transliteration": "Multumesc foarte mult."},
+        {"english": "Good morning, have a great day.", "romanian": "Bun\u0103 diminea\u021ba, o zi minunat\u0103.", "transliteration": "Buna dimineata, o zi minunata."},
+        {"english": "I love learning new languages.", "romanian": "\u00cemi place s\u0103 \u00eenv\u0103\u021b limbi noi.", "transliteration": "\u00cemi place sa \u00eenv\u0103\u021b limbi noi."},
+        {"english": "Never give up on your dreams.", "romanian": "Nu renun\u021ba niciodat\u0103 la visele tale.", "transliteration": "Nu renun\u021ba niciodat\u0103 la visele tale."},
+        {"english": "Every day is a fresh start.", "romanian": "Fiecare zi este un nou \u00eenceput.", "transliteration": "Fiecare zi este un nou \u00eenceput."},
+        {"english": "Believe in yourself always.", "romanian": "Crede \u00een tine \u00eentotdeauna.", "transliteration": "Crede \u00een tine \u00eentotdeauna."},
+        {"english": "Small steps lead to big changes.", "romanian": "Pa\u0219ii mici duc la schimb\u0103ri mari.", "transliteration": "Pa\u0219ii mici duc la schimb\u0103ri mari."},
+        {"english": "You are stronger than you think.", "romanian": "E\u0219ti mai puternic dec\u00e2t crezi.", "transliteration": "E\u0219ti mai puternic dec\u00e2t crezi."},
+        {"english": "Happiness is a choice, choose it.", "romanian": "Fericirea este o alegere, alege-o.", "transliteration": "Fericirea este o alegere, alege-o."},
+        {"english": "What time is it please.", "romanian": "Ce or\u0103 este, v\u0103 rog.", "transliteration": "Ce or\u0103 este, v\u0103 rog."},
+        {"english": "Where is the train station.", "romanian": "Unde este gara.", "transliteration": "Unde este gara."},
+        {"english": "How much does this cost.", "romanian": "C\u00e2t cost\u0103 asta.", "transliteration": "C\u00e2t cost\u0103 asta."},
+        {"english": "Can you help me please.", "romanian": "M\u0103 pute\u021bi ajuta, v\u0103 rog.", "transliteration": "M\u0103 pute\u021bi ajuta, v\u0103 rog."},
+        {"english": "I would like a coffee please.", "romanian": "A\u0219 dori o cafea, v\u0103 rog.", "transliteration": "A\u0219 dori o cafea, v\u0103 rog."},
+        {"english": "The food is delicious today.", "romanian": "M\u00e2ncarea este delicioas\u0103 ast\u0103zi.", "transliteration": "M\u00e2ncarea este delicioas\u0103 ast\u0103zi."},
+        {"english": "Have a wonderful weekend.", "romanian": "Un weekend minunat.", "transliteration": "Un weekend minunat."},
+        {"english": "Take care of yourself.", "romanian": "Ai grij\u0103 de tine.", "transliteration": "Ai grij\u0103 de tine."},
+        {"english": "See you tomorrow my friend.", "romanian": "Pe m\u00e2ine, prietene.", "transliteration": "Pe m\u00e2ine, prietene."},
+        {"english": "The weather is beautiful outside.", "romanian": "Vremea este frumoas\u0103 afar\u0103.", "transliteration": "Vremea este frumoas\u0103 afar\u0103."},
+        {"english": "I am very happy today.", "romanian": "Sunt foarte fericit ast\u0103zi.", "transliteration": "Sunt foarte fericit ast\u0103zi."},
+        {"english": "Learning a language opens new doors.", "romanian": "\u00cenv\u0103\u021barea unei limbi deschide noi u\u0219i.", "transliteration": "\u00cenv\u0103\u021barea unei limbi deschide noi u\u0219i."},
+        {"english": "Keep practicing every single day.", "romanian": "Continu\u0103 s\u0103 practici \u00een fiecare zi.", "transliteration": "Continu\u0103 s\u0103 practici \u00een fiecare zi."},
+        {"english": "You can achieve anything you want.", "romanian": "Po\u021bi realiza orice \u00ee\u021bi dore\u0219ti.", "transliteration": "Po\u021bi realiza orice \u00ee\u021bi dore\u0219ti."},
+        {"english": "Rest when you are tired.", "romanian": "Odihne\u0219te-te c\u00e2nd e\u0219ti obosit.", "transliteration": "Odihne\u0219te-te c\u00e2nd e\u0219ti obosit."},
+        {"english": "Focus on the positive things.", "romanian": "Concentreaz\u0103-te pe lucrurile pozitive.", "transliteration": "Concentreaz\u0103-te pe lucrurile pozitive."},
+        {"english": "Learn from your mistakes.", "romanian": "\u00cenva\u021b\u0103 din gre\u0219elile tale.", "transliteration": "\u00cenva\u021b\u0103 din gre\u0219elile tale."},
+        {"english": "Trust the process completely.", "romanian": "Ai \u00eencredere complet\u0103 \u00een proces.", "transliteration": "Ai \u00eencredere complet\u0103 \u00een proces."},
+        {"english": "Breathe deeply and stay calm.", "romanian": "Respir\u0103 ad\u00e2nc \u0219i r\u0103m\u00e2i calm.", "transliteration": "Respir\u0103 ad\u00e2nc \u0219i r\u0103m\u00e2i calm."},
+        {"english": "Enjoy the little moments in life.", "romanian": "Bucur\u0103-te de micile momente din via\u021b\u0103.", "transliteration": "Bucur\u0103-te de micile momente din via\u021b\u0103."},
+        {"english": "Smile more, worry less.", "romanian": "Z\u00e2mbe\u0219te mai mult, \u00eengrijoreaz\u0103-te mai pu\u021bin.", "transliteration": "Z\u00e2mbe\u0219te mai mult, \u00eengrijoreaz\u0103-te mai pu\u021bin."},
+        {"english": "Be kind to everyone you meet.", "romanian": "Fii amabil cu to\u021bi pe care \u00eei \u00eent\u00e2lne\u0219ti.", "transliteration": "Fii amabil cu to\u021bi pe care \u00eei \u00eent\u00e2lne\u0219ti."},
+        {"english": "Help others without expecting anything back.", "romanian": "Ajut\u0103-i pe al\u021bii f\u0103r\u0103 s\u0103 a\u0219tep\u021bi nimic \u00eenapoi.", "transliteration": "Ajut\u0103-i pe al\u021bii f\u0103r\u0103 s\u0103 a\u0219tep\u021bi nimic \u00eenapoi."},
+        {"english": "Forgive yourself and move forward.", "romanian": "Iart\u0103-te \u0219i mergi mai departe.", "transliteration": "Iart\u0103-te \u0219i mergi mai departe."},
+        {"english": "Stay strong in difficult times.", "romanian": "R\u0103m\u00e2i puternic \u00een momente dificile.", "transliteration": "R\u0103m\u00e2i puternic \u00een momente dificile."},
+        {"english": "Every moment is a new beginning.", "romanian": "Fiecare moment este un nou \u00eenceput.", "transliteration": "Fiecare moment este un nou \u00eenceput."},
+        {"english": "Listen to your heart always.", "romanian": "Ascult\u0103-\u021bi mereu inima.", "transliteration": "Ascult\u0103-\u021bi mereu inima."},
+        {"english": "Do what makes you happy.", "romanian": "F\u0103 ceea ce te face fericit.", "transliteration": "F\u0103 ceea ce te face fericit."},
+        {"english": "Your potential is unlimited.", "romanian": "Poten\u021bialul t\u0103u este nelimitat.", "transliteration": "Poten\u021bialul t\u0103u este nelimitat."},
+        {"english": "Be brave and take risks.", "romanian": "Fii curajos \u0219i asum\u0103-\u021bi riscuri.", "transliteration": "Fii curajos \u0219i asum\u0103-\u021bi riscuri."},
+        {"english": "Celebrate your progress every day.", "romanian": "S\u0103rb\u0103tore\u0219te-\u021bi progresul \u00een fiecare zi.", "transliteration": "S\u0103rb\u0103tore\u0219te-\u021bi progresul \u00een fiecare zi."},
+        {"english": "Surround yourself with good people.", "romanian": "\u00cenconjoar\u0103-te de oameni buni.", "transliteration": "\u00cenconjoar\u0103-te de oameni buni."},
+        {"english": "Read books and grow your mind.", "romanian": "Cite\u0219te c\u0103r\u021bi \u0219i-\u021bi dezvolt\u0103 mintea.", "transliteration": "Cite\u0219te c\u0103r\u021bi \u0219i-\u021bi dezvolt\u0103 mintea."},
+        {"english": "Travel and discover new places.", "romanian": "C\u0103l\u0103tore\u0219te \u0219i descoper\u0103 locuri noi.", "transliteration": "C\u0103l\u0103tore\u0219te \u0219i descoper\u0103 locuri noi."},
+        {"english": "Appreciate what you already have.", "romanian": "Apreciaz\u0103 ceea ce ai deja.", "transliteration": "Apreciaz\u0103 ceea ce ai deja."},
+        {"english": "Dance like nobody is watching.", "romanian": "Danseaz\u0103 ca \u0219i cum nimeni nu te-ar vedea.", "transliteration": "Danseaz\u0103 ca \u0219i cum nimeni nu te-ar vedea."},
+        {"english": "Sing from your heart out loud.", "romanian": "C\u00e2nt\u0103 din inim\u0103 tare.", "transliteration": "C\u00e2nt\u0103 din inim\u0103 tare."},
+        {"english": "Plant seeds of kindness everywhere.", "romanian": "Planteaz\u0103 semin\u021be de bun\u0103tate peste tot.", "transliteration": "Planteaz\u0103 semin\u021be de bun\u0103tate peste tot."},
+        {"english": "Let go of what you cannot control.", "romanian": "Las\u0103 din m\u00e2n\u0103 ceea ce nu po\u021bi controla.", "transliteration": "Las\u0103 din m\u00e2n\u0103 ceea ce nu po\u021bi controla."},
+        {"english": "Be present in the here and now.", "romanian": "Fii prezent \u00een aici \u0219i acum.", "transliteration": "Fii prezent \u00een aici \u0219i acum."}
     ]
     fresh = [p for p in generic_fallbacks if not is_phrase_used(p["english"])]
-    # Assign the right language key
-    lang_key = "romanian"
-    for p in fresh:
-        p[lang_key] = p.pop("romanian")
     return fresh[:num_phrases]
 async def generate_single_audio(text: str, voice: str, output_path: str):
     try:
@@ -1389,7 +1459,7 @@ def generate_complete_image(phrase_data: dict, category_english: str, output_pat
         b = draw.textbbox((0, 0), "Ag", font=font)
         return b[3] - b[1]
 
-    max_text_w = VIDEO_WIDTH - 180
+    max_text_w = VIDEO_WIDTH - 140
     cat_native = CATEGORIES_NATIVE.get(category_english, category_english)
 
     nat_font, nat_lines = pick_native_font(native, max_text_w - 40)
@@ -1426,7 +1496,7 @@ def generate_complete_image(phrase_data: dict, category_english: str, output_pat
     cy = start_y
 
     # Category bar (rounded)
-    cat_text = cat_native
+    cat_text = category_english
     cat_bb = draw.textbbox((0, 0), cat_text, font=font_category)
     cat_tw = cat_bb[2] - cat_bb[0]
     cat_th = cat_bb[3] - cat_bb[1]
@@ -1446,7 +1516,7 @@ def generate_complete_image(phrase_data: dict, category_english: str, output_pat
     cy += gap_cat_nat
 
     # English phrase (top)
-    en_margin = 50
+    en_margin = 60
     rounded_rect(draw, (en_margin, cy, VIDEO_WIDTH - en_margin, cy + en_box_h), 28,
                  fill=(20, 40, 100, 220))
     for i, line in enumerate(en_lines):
@@ -1458,7 +1528,7 @@ def generate_complete_image(phrase_data: dict, category_english: str, output_pat
     cy += en_box_h + gap_nat_en
 
     # Native phrase (below English)
-    nat_margin = 70
+    nat_margin = 50
     rounded_rect(draw, (nat_margin, cy, VIDEO_WIDTH - nat_margin, cy + nat_box_h), 24,
                  fill=(139, 0, 0, 220))
     for i, line in enumerate(nat_lines):
@@ -1471,7 +1541,7 @@ def generate_complete_image(phrase_data: dict, category_english: str, output_pat
 
     # Transliteration
     if trans_lines:
-        trans_margin = 90
+        trans_margin = 70
         rounded_rect(draw, (trans_margin, cy, VIDEO_WIDTH - trans_margin, cy + trans_box_h), 18,
                      fill=(40, 40, 40, 220))
         for i, line in enumerate(trans_lines):
