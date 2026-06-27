@@ -1609,7 +1609,42 @@
       "transliteration": "Res-PEHK-tuh TER-meh-neh, kon-STANT.",
       "category": "Work",
       "generated_at": "2026-06-27T15:13:35.051509"
+    },
+    {
+      "english": "We, are, quite, a pair.",
+      "romanian": "Noi, chiar, suntem, o pereche.",
+      "transliteration": "Noy, cheer, soontem, o periche.",
+      "category": "Relationships",
+      "generated_at": "2026-06-27T18:00:51.900560"
+    },
+    {
+      "english": "Love, grows, with, time.",
+      "romanian": "Dragostea, crește, în timp.",
+      "transliteration": "Dragostea, creshte, în timp.",
+      "category": "Relationships",
+      "generated_at": "2026-06-27T18:00:51.900570"
+    },
+    {
+      "english": "You, and, I, forever.",
+      "romanian": "Tu, și, eu, mereu.",
+      "transliteration": "Too, she, yew, mereu.",
+      "category": "Relationships",
+      "generated_at": "2026-06-27T18:00:51.900571"
+    },
+    {
+      "english": "My, best, friend, always.",
+      "romanian": "Prietenul, meu, cel, mai bun.",
+      "transliteration": "Prietenu, meu, chel, mai boon.",
+      "category": "Relationships",
+      "generated_at": "2026-06-27T18:00:51.900572"
+    },
+    {
+      "english": "We, are, family, now.",
+      "romanian": "Suntem, familie, acum.",
+      "transliteration": "Soontem, familie, acum.",
+      "category": "Relationships",
+      "generated_at": "2026-06-27T18:00:51.900573"
     }
   ],
-  "last_updated": "2026-06-27T15:13:35.051511"
+  "last_updated": "2026-06-27T18:00:51.900575"
 }
