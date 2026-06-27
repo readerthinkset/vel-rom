@@ -1539,7 +1539,42 @@
       "transliteration": "Ah-leg in-tseh-leh-geh-reh-ah.",
       "category": "Forgiveness",
       "generated_at": "2026-06-24T21:21:29.142152"
+    },
+    {
+      "english": "Listen closely, hear the melody.",
+      "romanian": "Ascultă atent, auzi melodia.",
+      "transliteration": "Asculta atent, auzi melodia.",
+      "category": "Music",
+      "generated_at": "2026-06-27T13:28:51.241066"
+    },
+    {
+      "english": "Sing it loud, with your heart.",
+      "romanian": "Cântă tare, din inimă.",
+      "transliteration": "Canta tare, din inima.",
+      "category": "Music",
+      "generated_at": "2026-06-27T13:28:51.241075"
+    },
+    {
+      "english": "Dance freely, to the rhythm.",
+      "romanian": "Dansează liber, pe ritm.",
+      "transliteration": "Danseaza liber, pe ritm.",
+      "category": "Music",
+      "generated_at": "2026-06-27T13:28:51.241076"
+    },
+    {
+      "english": "Play the notes, with passion.",
+      "romanian": "Cântă notele, cu pasiune.",
+      "transliteration": "Canta notel, cu pasiune.",
+      "category": "Music",
+      "generated_at": "2026-06-27T13:28:51.241077"
+    },
+    {
+      "english": "Feel the beat, move your feet.",
+      "romanian": "Simte bătaia, mișcă picioarele.",
+      "transliteration": "Simte bataia, misca picioarele.",
+      "category": "Music",
+      "generated_at": "2026-06-27T13:28:51.241079"
     }
   ],
-  "last_updated": "2026-06-24T21:21:29.142154"
+  "last_updated": "2026-06-27T13:28:51.241080"
 }
