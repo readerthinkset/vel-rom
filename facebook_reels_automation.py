@@ -77,8 +77,7 @@ CATEGORIES_ENGLISH = [
     "Balance",
     "Growth",
     "Purpose",
-    "Mindfulness"
-
+    "Mindfulness",
     "Daily Routine",
     "Weather",
     "Feelings",
@@ -135,7 +134,27 @@ CATEGORIES_NATIVE = {
     "Balance": "Echilibru",
     "Growth": "Creștere",
     "Purpose": "Scop",
-    "Mindfulness": "Mindfulness"
+    "Mindfulness": "Mindfulness",
+    "Daily Routine": "Rutina zilnică",
+    "Weather": "Vreme",
+    "Feelings": "Sentimente",
+    "Food": "Mâncare",
+    "Health": "Sănătate",
+    "Work": "Muncă",
+    "Technology": "Tehnologie",
+    "Nature": "Natură",
+    "Animals": "Animale",
+    "Colors": "Culori",
+    "Directions": "Direcții",
+    "Body Parts": "Părți ale corpului",
+    "Clothes": "Haine",
+    "Music": "Muzică",
+    "Sports": "Sport",
+    "Holidays": "Sărbători",
+    "Education": "Educație",
+    "Culture": "Cultură",
+    "Finance": "Finanțe",
+    "Relationships": "Relații"
 }
 
 ENGLISH_VOICE = "en-US-GuyNeural"
