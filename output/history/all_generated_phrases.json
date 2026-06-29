@@ -1994,7 +1994,42 @@
       "transliteration": "Pic-tea-ză cu sim-țiri, viu și cu-ra-jos.",
       "category": "Creativity",
       "generated_at": "2026-06-29T19:04:01.034001"
+    },
+    {
+      "english": "The cat sleeps, on the mat.",
+      "romanian": "Pisica doarme, pe preș.",
+      "transliteration": "Pee-sah-kah doh-air-meh, peh presh.",
+      "category": "Animals",
+      "generated_at": "2026-06-29T21:24:32.849204"
+    },
+    {
+      "english": "A dog barks, at the door.",
+      "romanian": "Un câine latră, la ușă.",
+      "transliteration": "Oon kineh lah-trah, lah oo-shuh.",
+      "category": "Animals",
+      "generated_at": "2026-06-29T21:24:32.849215"
+    },
+    {
+      "english": "Birds sing, in the trees.",
+      "romanian": "Păsările cântă, în copaci.",
+      "transliteration": "Pah-suh-ree-leh kin-tah, in koh-pach.",
+      "category": "Animals",
+      "generated_at": "2026-06-29T21:24:32.849216"
+    },
+    {
+      "english": "A fish swims, in the water.",
+      "romanian": "Un pește înoată, în apă.",
+      "transliteration": "Oon pesh-teh ee-no-ah-tah, in ah-pah.",
+      "category": "Animals",
+      "generated_at": "2026-06-29T21:24:32.849218"
+    },
+    {
+      "english": "The bee buzzes, near the flower.",
+      "romanian": "Albina bâzâie, lângă floare.",
+      "transliteration": "Al-bee-nah buz-zuh-yeh, lin-guh flo-ah-reh.",
+      "category": "Animals",
+      "generated_at": "2026-06-29T21:24:32.849219"
     }
   ],
-  "last_updated": "2026-06-29T19:04:01.034002"
+  "last_updated": "2026-06-29T21:24:32.849221"
 }
