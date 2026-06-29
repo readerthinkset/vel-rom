@@ -1854,7 +1854,42 @@
       "transliteration": "Des-koh-peh-reetz Roh-moo-nee-ah, koo-vuhnt koo koo-vuhnt.",
       "category": "Growth",
       "generated_at": "2026-06-28T20:59:31.826821"
+    },
+    {
+      "english": "Listen carefully, then repeat.",
+      "romanian": "Ascultă atent, apoi repetă.",
+      "transliteration": "Ahs-kool-tah ah-tent, pow-ee reh-pet-ah.",
+      "category": "Directions",
+      "generated_at": "2026-06-29T02:31:44.255458"
+    },
+    {
+      "english": "Try to pronounce, slowly.",
+      "romanian": "Încearcă să pronunți, încet.",
+      "transliteration": "In-che-ar-kah sah pro-noon-t's, in-chet.",
+      "category": "Directions",
+      "generated_at": "2026-06-29T02:31:44.255469"
+    },
+    {
+      "english": "Speak louder, please.",
+      "romanian": "Vorbește mai tare, te rog.",
+      "transliteration": "Vor-besh-te my tah-reh, teh rog.",
+      "category": "Directions",
+      "generated_at": "2026-06-29T02:31:44.255471"
+    },
+    {
+      "english": "Read the sentence, out loud.",
+      "romanian": "Citește propoziția, cu voce tare.",
+      "transliteration": "Chee-tesh-te pro-po-zee-tsee-ah, koo vo-cheh tah-reh.",
+      "category": "Directions",
+      "generated_at": "2026-06-29T02:31:44.255472"
+    },
+    {
+      "english": "Write it down, now.",
+      "romanian": "Scrie asta, acum.",
+      "transliteration": "Skree-eh ahs-tah, ah-koom.",
+      "category": "Directions",
+      "generated_at": "2026-06-29T02:31:44.255474"
     }
   ],
-  "last_updated": "2026-06-28T20:59:31.826823"
+  "last_updated": "2026-06-29T02:31:44.255476"
 }
