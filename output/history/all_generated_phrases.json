@@ -2029,7 +2029,42 @@
       "transliteration": "Al-bee-nah buz-zuh-yeh, lin-guh flo-ah-reh.",
       "category": "Animals",
       "generated_at": "2026-06-29T21:24:32.849219"
+    },
+    {
+      "english": "My hand, it waves hello.",
+      "romanian": "Mâna mea, salută.",
+      "transliteration": "Moo-nah meh-ah, sah-loo-tah.",
+      "category": "Body Parts",
+      "generated_at": "2026-06-30T02:15:45.538319"
+    },
+    {
+      "english": "Your eye, it sees clearly.",
+      "romanian": "Ochiul tău, vede clar.",
+      "transliteration": "Oh-kyool tow, veh-deh klahr.",
+      "category": "Body Parts",
+      "generated_at": "2026-06-30T02:15:45.538329"
+    },
+    {
+      "english": "A strong leg, for walking.",
+      "romanian": "Un picior, puternic pentru mers.",
+      "transliteration": "Oon pee-chohr, poh-tehr-neek pehn-troo mers.",
+      "category": "Body Parts",
+      "generated_at": "2026-06-30T02:15:45.538331"
+    },
+    {
+      "english": "This mouth, sings a song.",
+      "romanian": "Gura aceasta, cântă o melodie.",
+      "transliteration": "Goo-rah ah-ches-tah, koon-tah oh meh-loh-dee-eh.",
+      "category": "Body Parts",
+      "generated_at": "2026-06-30T02:15:45.538332"
+    },
+    {
+      "english": "My nose, smells the flowers.",
+      "romanian": "Nasul meu, miroase florile.",
+      "transliteration": "Nah-sool mew, mee-roh-ah-seh floh-ree-leh.",
+      "category": "Body Parts",
+      "generated_at": "2026-06-30T02:15:45.538333"
     }
   ],
-  "last_updated": "2026-06-29T21:24:32.849221"
+  "last_updated": "2026-06-30T02:15:45.538335"
 }
