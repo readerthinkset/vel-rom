@@ -2449,7 +2449,42 @@
       "transliteration": "In-cheer-kuh breen-zah, eh lo-cah-luh.",
       "category": "Food",
       "generated_at": "2026-07-02T13:55:14.472288"
+    },
+    {
+      "english": "Winter magic, awaits you.",
+      "romanian": "Magia iernii, te așteaptă.",
+      "transliteration": "Ma-gi-a yer-nee, te aș-teap-tă.",
+      "category": "Holidays",
+      "generated_at": "2026-07-02T16:03:33.604613"
+    },
+    {
+      "english": "Summer sun, feels so good.",
+      "romanian": "Soarele verii, se simte bine.",
+      "transliteration": "Soa-re-le ve-ree, se sim-te bee-ne.",
+      "category": "Holidays",
+      "generated_at": "2026-07-02T16:03:33.604626"
+    },
+    {
+      "english": "Spring blossoms, bring joy.",
+      "romanian": "Florile primăverii, aduc bucurie.",
+      "transliteration": "Flo-ri-le pri-mă-ve-ree, a-duc bu-cu-ree.",
+      "category": "Holidays",
+      "generated_at": "2026-07-02T16:03:33.604628"
+    },
+    {
+      "english": "Autumn leaves, dance freely.",
+      "romanian": "Frunzele toamnei, dansează liber.",
+      "transliteration": "Frun-ze-le toam-nei, dan-sea-ză lee-ber.",
+      "category": "Holidays",
+      "generated_at": "2026-07-02T16:03:33.604629"
+    },
+    {
+      "english": "Holiday cheer, fills the air.",
+      "romanian": "Veselia sărbătorilor, umple aerul.",
+      "transliteration": "Ve-se-li-a sârb-ă-to-ri-lor, um-ple ae-re-ul.",
+      "category": "Holidays",
+      "generated_at": "2026-07-02T16:03:33.604630"
     }
   ],
-  "last_updated": "2026-07-02T13:55:14.472290"
+  "last_updated": "2026-07-02T16:03:33.604632"
 }
