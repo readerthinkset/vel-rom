@@ -2414,7 +2414,42 @@
       "transliteration": "Cheh-rool seh deh-skee-deh, shan-seh ah-par.",
       "category": "Hope",
       "generated_at": "2026-07-02T02:12:18.519189"
+    },
+    {
+      "english": "Taste this, it's amazing.",
+      "romanian": "Gustă asta, e grozav.",
+      "transliteration": "Goo-stah ah-stah, eh gro-zahv.",
+      "category": "Food",
+      "generated_at": "2026-07-02T13:55:14.472272"
+    },
+    {
+      "english": "Fresh bread, warm and soft.",
+      "romanian": "Pâine proaspătă, caldă și moale.",
+      "transliteration": "Pee-neh pro-as-pet-uh, cal-duh shee mo-ah-leh.",
+      "category": "Food",
+      "generated_at": "2026-07-02T13:55:14.472284"
+    },
+    {
+      "english": "Sweet berries, a real treat.",
+      "romanian": "Fructe de pădure dulci, o adevărată plăcere.",
+      "transliteration": "Froo-kteh deh puh-doo-reh dool-chee, oh ah-deh-vuh-rah-tuh pluh-cheh-reh.",
+      "category": "Food",
+      "generated_at": "2026-07-02T13:55:14.472286"
+    },
+    {
+      "english": "Spicy soup, warms you up.",
+      "romanian": "Supă picantă, te încălzește.",
+      "transliteration": "Soo-puh pee-kan-tuh, teh in-kuhl-zheh-shteh.",
+      "category": "Food",
+      "generated_at": "2026-07-02T13:55:14.472287"
+    },
+    {
+      "english": "Try the cheese, it's local.",
+      "romanian": "Încearcă brânza, e locală.",
+      "transliteration": "In-cheer-kuh breen-zah, eh lo-cah-luh.",
+      "category": "Food",
+      "generated_at": "2026-07-02T13:55:14.472288"
     }
   ],
-  "last_updated": "2026-07-02T02:12:18.519190"
+  "last_updated": "2026-07-02T13:55:14.472290"
 }
