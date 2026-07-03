@@ -2554,7 +2554,42 @@
       "transliteration": "Ah-ra-tuh em-pa-tee-eh, seen-cher.",
       "category": "Kindness",
       "generated_at": "2026-07-02T21:02:56.348337"
+    },
+    {
+      "english": "My wallet, it's gone.",
+      "romanian": "Portofelul meu, a dispărut.",
+      "transliteration": "Porto-FE-lul meu, ah dis-pa-ROOT.",
+      "category": "Emergency",
+      "generated_at": "2026-07-03T01:56:02.332029"
+    },
+    {
+      "english": "I think I'm ill.",
+      "romanian": "Cred că sunt bolnav.",
+      "transliteration": "Cred că sunt bol-NAHV.",
+      "category": "Emergency",
+      "generated_at": "2026-07-03T01:56:02.332038"
+    },
+    {
+      "english": "Can you guide me, please?",
+      "romanian": "Mă poți ghida, te rog?",
+      "transliteration": "Mă poți GHI-da, te ROG?",
+      "category": "Emergency",
+      "generated_at": "2026-07-03T01:56:02.332040"
+    },
+    {
+      "english": "This is an emergency.",
+      "romanian": "Aceasta este o urgență.",
+      "transliteration": "A-CEAS-ta es-te o ur-GEN-ță.",
+      "category": "Emergency",
+      "generated_at": "2026-07-03T01:56:02.332042"
+    },
+    {
+      "english": "I need water, urgently.",
+      "romanian": "Am nevoie de apă, urgent.",
+      "transliteration": "Am ne-VO-ie de A-pă, ur-GENT.",
+      "category": "Emergency",
+      "generated_at": "2026-07-03T01:56:02.332043"
     }
   ],
-  "last_updated": "2026-07-02T21:02:56.348338"
+  "last_updated": "2026-07-03T01:56:02.332045"
 }
