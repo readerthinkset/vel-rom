@@ -2624,7 +2624,42 @@
       "transliteration": "Pahn-tah-loh-nee ush-tyah, ow neh-voh-yeh deh kuh-lkaht.",
       "category": "Clothes",
       "generated_at": "2026-07-03T15:51:22.544333"
+    },
+    {
+      "english": "My pleasure, truly.",
+      "romanian": "Îmi face plăcere, chiar.",
+      "transliteration": "Eem fa-che plah-che-reh, cheer.",
+      "category": "Common Expressions",
+      "generated_at": "2026-07-03T18:12:17.897417"
+    },
+    {
+      "english": "Let's go, then.",
+      "romanian": "Hai să mergem, deci.",
+      "transliteration": "Hai sah mer-jem, deci.",
+      "category": "Common Expressions",
+      "generated_at": "2026-07-03T18:12:17.897426"
+    },
+    {
+      "english": "What a surprise!",
+      "romanian": "Ce surpriză!",
+      "transliteration": "Che sur-pree-zah!",
+      "category": "Common Expressions",
+      "generated_at": "2026-07-03T18:12:17.897428"
+    },
+    {
+      "english": "Take care, always.",
+      "romanian": "Ai grijă, mereu.",
+      "transliteration": "Ai gee-zhah, meh-rev.",
+      "category": "Common Expressions",
+      "generated_at": "2026-07-03T18:12:17.897429"
+    },
+    {
+      "english": "Sounds good, yes.",
+      "romanian": "Sună bine, da.",
+      "transliteration": "Soo-nah bee-neh, dah.",
+      "category": "Common Expressions",
+      "generated_at": "2026-07-03T18:12:17.897430"
     }
   ],
-  "last_updated": "2026-07-03T15:51:22.544335"
+  "last_updated": "2026-07-03T18:12:17.897432"
 }
