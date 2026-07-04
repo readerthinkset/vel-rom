@@ -2694,7 +2694,42 @@
       "transliteration": "Oh ah-deh-vah-rahtuh, ko-moa-ruh deh pree-eh-ten.",
       "category": "Friendship",
       "generated_at": "2026-07-03T21:02:28.134660"
+    },
+    {
+      "english": "Just one, to start.",
+      "romanian": "Doar una, pentru început.",
+      "transliteration": "Doar oo-nah, pehn-troo en-cheh-poot.",
+      "category": "Restaurant",
+      "generated_at": "2026-07-04T01:55:00.276154"
+    },
+    {
+      "english": "Could we have, a corner seat?",
+      "romanian": "Putem să luăm, un loc la colț?",
+      "transliteration": "Poo-tehm sah loo-ohm, oon lohk lah kohlts?",
+      "category": "Restaurant",
+      "generated_at": "2026-07-04T01:55:00.276163"
+    },
+    {
+      "english": "Something, light, perhaps?",
+      "romanian": "Ceva, ușor, poate?",
+      "transliteration": "Cheh-vah, oo-shohr, pow-teh?",
+      "category": "Restaurant",
+      "generated_at": "2026-07-04T01:55:00.276164"
+    },
+    {
+      "english": "Is this, spicy, at all?",
+      "romanian": "Este asta, picant, deloc?",
+      "transliteration": "Eh-steh ahs-tah, pee-kahnt, deh-lohk?",
+      "category": "Restaurant",
+      "generated_at": "2026-07-04T01:55:00.276166"
+    },
+    {
+      "english": "We're ready, to order now.",
+      "romanian": "Suntem gata, să comandăm acum.",
+      "transliteration": "Soon-tehm gah-tah, sah koh-mahn-dahm ah-koom.",
+      "category": "Restaurant",
+      "generated_at": "2026-07-04T01:55:00.276167"
     }
   ],
-  "last_updated": "2026-07-03T21:02:28.134662"
+  "last_updated": "2026-07-04T01:55:00.276169"
 }
