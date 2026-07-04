@@ -2764,7 +2764,42 @@
       "transliteration": "Vo-cha tah, ga-shesh-tay mooz-ee-kah no-oo-ah.",
       "category": "Motivation",
       "generated_at": "2026-07-04T13:21:06.742550"
+    },
+    {
+      "english": "The sky is blue, today.",
+      "romanian": "Cerul e albastru, azi.",
+      "transliteration": "Cher-ool eh al-bas-troo, ahz.",
+      "category": "Weather",
+      "generated_at": "2026-07-04T15:02:16.650040"
+    },
+    {
+      "english": "It's raining, lightly.",
+      "romanian": "Plouă, ușor.",
+      "transliteration": "Ploo-ah, oo-shor.",
+      "category": "Weather",
+      "generated_at": "2026-07-04T15:02:16.650052"
+    },
+    {
+      "english": "The sun is shining, brightly.",
+      "romanian": "Soarele strălucește, tare.",
+      "transliteration": "So-ah-reh-leh streh-loo-cheh-steh, tah-reh.",
+      "category": "Weather",
+      "generated_at": "2026-07-04T15:02:16.650054"
+    },
+    {
+      "english": "Clouds are gathering, slowly.",
+      "romanian": "Nori se adună, încet.",
+      "transliteration": "Nor se ah-doo-nah, en-chet.",
+      "category": "Weather",
+      "generated_at": "2026-07-04T15:02:16.650055"
+    },
+    {
+      "english": "A strong wind, blows.",
+      "romanian": "Un vânt puternic, bate.",
+      "transliteration": "Oon vant poo-ter-neek, bah-teh.",
+      "category": "Weather",
+      "generated_at": "2026-07-04T15:02:16.650056"
     }
   ],
-  "last_updated": "2026-07-04T13:21:06.742552"
+  "last_updated": "2026-07-04T15:02:16.650058"
 }
