@@ -2939,7 +2939,42 @@
       "transliteration": "Deh-skee-deh-tsuh vo-chah, ehn roh-moo-nah.",
       "category": "Growth",
       "generated_at": "2026-07-05T13:26:52.109050"
+    },
+    {
+      "english": "This looks delicious, I'll take it.",
+      "romanian": "Arată delicios, îl iau.",
+      "transliteration": "Ah-rah-tuh deh-lee-chohs, eel yah-oom.",
+      "category": "Shopping",
+      "generated_at": "2026-07-05T15:10:27.428882"
+    },
+    {
+      "english": "Do you accept cards, or just cash?",
+      "romanian": "Acceptați carduri, sau doar cash?",
+      "transliteration": "Ahk-chep-tahtz kahr-door, saow do-ahr kesh?",
+      "category": "Shopping",
+      "generated_at": "2026-07-05T15:10:27.428893"
+    },
+    {
+      "english": "I need something for the kitchen.",
+      "romanian": "Am nevoie de ceva pentru bucătărie.",
+      "transliteration": "Ahm neh-voh-yeh deh cheh-vah pehn-troo boo-kuh-tuh-ree-yeh.",
+      "category": "Shopping",
+      "generated_at": "2026-07-05T15:10:27.428894"
+    },
+    {
+      "english": "Could you wrap this nicely, please?",
+      "romanian": "Puteți împacheta asta frumos, vă rog?",
+      "transliteration": "Poo-tetz em-pah-keh-tah ahs-tah froo-mohs, vuh rog?",
+      "category": "Shopping",
+      "generated_at": "2026-07-05T15:10:27.428895"
+    },
+    {
+      "english": "Where can I find local crafts?",
+      "romanian": "Unde găsesc meșteșuguri locale?",
+      "transliteration": "Oon-deh guh-sesk mesh-teh-shoog-oor loh-kah-leh?",
+      "category": "Shopping",
+      "generated_at": "2026-07-05T15:10:27.428896"
     }
   ],
-  "last_updated": "2026-07-05T13:26:52.109052"
+  "last_updated": "2026-07-05T15:10:27.428898"
 }
