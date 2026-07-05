@@ -2974,7 +2974,42 @@
       "transliteration": "Oon-deh guh-sesk mesh-teh-shoog-oor loh-kah-leh?",
       "category": "Shopping",
       "generated_at": "2026-07-05T15:10:27.428896"
+    },
+    {
+      "english": "You really, came through, for me.",
+      "romanian": "Chiar ai sărit, în ajutor, la nevoie.",
+      "transliteration": "Cheer ah-ee sah-reet, in ah-zhoo-tohr, la neh-voy-eh.",
+      "category": "Gratitude",
+      "generated_at": "2026-07-05T18:00:36.390611"
+    },
+    {
+      "english": "This, was unexpected, and wonderful.",
+      "romanian": "Asta, a fost neașteptat, și minunat.",
+      "transliteration": "Ah-stah, ah foast neh-ash-tehp-taht, shee mee-noo-naht.",
+      "category": "Gratitude",
+      "generated_at": "2026-07-05T18:00:36.390621"
+    },
+    {
+      "english": "Your support, makes all the difference.",
+      "romanian": "Sprijinul tău, face toată, diferența.",
+      "transliteration": "Spree-zheen-ool tow, fah-cheh toh-tah, dee-feh-rent-sah.",
+      "category": "Gratitude",
+      "generated_at": "2026-07-05T18:00:36.390623"
+    },
+    {
+      "english": "I’m touched, by your generosity.",
+      "romanian": "Sunt impresionat, de generozitatea ta.",
+      "transliteration": "Soont eem-preh-see-oh-naht, deh geh-neh-roh-zee-tah-teh tah.",
+      "category": "Gratitude",
+      "generated_at": "2026-07-05T18:00:36.390624"
+    },
+    {
+      "english": "Such a, thoughtful act, thank you.",
+      "romanian": "Un gest, atât de atent, mulțumesc.",
+      "transliteration": "Oon ghest, ah-toot deh ah-tehnt, mool-tzoo-mesk.",
+      "category": "Gratitude",
+      "generated_at": "2026-07-05T18:00:36.390626"
     }
   ],
-  "last_updated": "2026-07-05T15:10:27.428898"
+  "last_updated": "2026-07-05T18:00:36.390627"
 }
