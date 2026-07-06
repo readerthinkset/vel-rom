@@ -3044,7 +3044,42 @@
       "transliteration": "Koo-veen-teh bluhn-deh, ruh-soo-nah deh-par-teh.",
       "category": "Positive Life",
       "generated_at": "2026-07-05T20:57:11.356045"
+    },
+    {
+      "english": "Morning light, awakens the day.",
+      "romanian": "Lumina dimineții, trezește ziua.",
+      "transliteration": "Loo-mee-nah dee-mee-NYEH-tsee, tre-ZHEH-shteh ZHOO-ah.",
+      "category": "Time",
+      "generated_at": "2026-07-06T02:08:21.652768"
+    },
+    {
+      "english": "Midnight hour, silence reigns.",
+      "romanian": "Ora miezului nopții, domnește liniștea.",
+      "transliteration": "OH-rah MYEH-zoo-loo NOP-tsee, doh-MNESH-teh LEE-neesh-tyah.",
+      "category": "Time",
+      "generated_at": "2026-07-06T02:08:21.652776"
+    },
+    {
+      "english": "A moment's peace, is precious.",
+      "romanian": "Un moment de pace, este prețios.",
+      "transliteration": "Oon moh-MENTH deh PAH-cheh, es-teh preh-tsee-OS.",
+      "category": "Time",
+      "generated_at": "2026-07-06T02:08:21.652778"
+    },
+    {
+      "english": "The clock ticks, time flies.",
+      "romanian": "Ceasul bate, timpul zboară.",
+      "transliteration": "CHEH-as-ool BAH-teh, TEEM-pool ZWOH-rah.",
+      "category": "Time",
+      "generated_at": "2026-07-06T02:08:21.652779"
+    },
+    {
+      "english": "Past shadows, future bright.",
+      "romanian": "Umbrele trecute, viitorul luminos.",
+      "transliteration": "OOM-breh-leh treh-KOO-teh, vee-ee-TOH-rool loo-mee-NOS.",
+      "category": "Time",
+      "generated_at": "2026-07-06T02:08:21.652781"
     }
   ],
-  "last_updated": "2026-07-05T20:57:11.356046"
+  "last_updated": "2026-07-06T02:08:21.652782"
 }
