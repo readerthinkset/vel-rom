@@ -3254,7 +3254,42 @@
       "transliteration": "Imbrățișează călătoria, bucură-te.",
       "category": "Strength",
       "generated_at": "2026-07-07T02:03:27.549693"
+    },
+    {
+      "english": "Your Romanian is blooming, nurture it.",
+      "romanian": "Româna ta înflorește, îngrijește-o.",
+      "transliteration": "Ro-ma-na ta în-flo-reș-te, în-gi-ji-reș-te-o.",
+      "category": "Confidence",
+      "generated_at": "2026-07-07T14:28:57.920291"
+    },
+    {
+      "english": "Each phrase, a step forward.",
+      "romanian": "Fiecare frază, un pas înainte.",
+      "transliteration": "Fi-e-ca-re fra-ză, un pas în-ai-nain-te.",
+      "category": "Confidence",
+      "generated_at": "2026-07-07T14:28:57.920300"
+    },
+    {
+      "english": "Listen closely, then reply.",
+      "romanian": "Ascultă atent, apoi răspunde.",
+      "transliteration": "As-cult-ă a-tent, a-poi răsp-un-de.",
+      "category": "Confidence",
+      "generated_at": "2026-07-07T14:28:57.920302"
+    },
+    {
+      "english": "Your effort shines, keep going.",
+      "romanian": "Efortul tău strălucește, continuă.",
+      "transliteration": "E-fort-ul tău stră-lu-ceș-te, con-ti-nu-ă.",
+      "category": "Confidence",
+      "generated_at": "2026-07-07T14:28:57.920306"
+    },
+    {
+      "english": "Discover the rhythm, speak it.",
+      "romanian": "Descoperă ritmul, rostește-l.",
+      "transliteration": "De-sco-pe-re rit-mul, ros-teș-te-l.",
+      "category": "Confidence",
+      "generated_at": "2026-07-07T14:28:57.920308"
     }
   ],
-  "last_updated": "2026-07-07T02:03:27.549695"
+  "last_updated": "2026-07-07T14:28:57.920309"
 }
