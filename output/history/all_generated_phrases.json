@@ -3604,7 +3604,42 @@
       "transliteration": "Greh-she-lee-leh soont pash-ee, noo zee-door-oo.",
       "category": "Perseverance",
       "generated_at": "2026-07-09T16:25:44.333518"
+    },
+    {
+      "english": "Foggy morning, cool air.",
+      "romanian": "Dimineață cețoasă, aer rece.",
+      "transliteration": "Dimin-e-a-tza che-tzo-sa, aer re-che.",
+      "category": "Weather",
+      "generated_at": "2026-07-09T18:48:56.265329"
+    },
+    {
+      "english": "Storm brewing, thunder rumbles.",
+      "romanian": "Furtună se apropie, tunetul bubuie.",
+      "transliteration": "Fur-to-na se a-pro-pi-e, tu-ne-tul bu-bu-ie.",
+      "category": "Weather",
+      "generated_at": "2026-07-09T18:48:56.265339"
+    },
+    {
+      "english": "Gentle breeze, rustles leaves.",
+      "romanian": "Adiere ușoară, foșnește frunzele.",
+      "transliteration": "A-di-e-re u-sho-a-ra, foș-neș-te frun-zle-le.",
+      "category": "Weather",
+      "generated_at": "2026-07-09T18:48:56.265340"
+    },
+    {
+      "english": "Hot sun, shade needed.",
+      "romanian": "Soare arzător, umbră e bună.",
+      "transliteration": "So-a-re ar-zâ-tor, um-bră e bu-na.",
+      "category": "Weather",
+      "generated_at": "2026-07-09T18:48:56.265342"
+    },
+    {
+      "english": "Drizzling softly, plants drink.",
+      "romanian": "Ploaie măruntă, plantele beau.",
+      "transliteration": "Plo-a-ie mâ-run-tă, plan-te-le beau.",
+      "category": "Weather",
+      "generated_at": "2026-07-09T18:48:56.265343"
     }
   ],
-  "last_updated": "2026-07-09T16:25:44.333520"
+  "last_updated": "2026-07-09T18:48:56.265345"
 }
