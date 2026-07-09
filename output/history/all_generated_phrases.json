@@ -3639,7 +3639,42 @@
       "transliteration": "Plo-a-ie mâ-run-tă, plan-te-le beau.",
       "category": "Weather",
       "generated_at": "2026-07-09T18:48:56.265343"
+    },
+    {
+      "english": "Picture the word, then say it.",
+      "romanian": "Imaginează-ți cuvântul, apoi spune-l.",
+      "transliteration": "Imaginati-va cuvântul, apoi spuneti-l.",
+      "category": "Directions",
+      "generated_at": "2026-07-09T21:21:29.800928"
+    },
+    {
+      "english": "Hear the sound, try to match.",
+      "romanian": "Auzi sunetul, încearcă să potrivești.",
+      "transliteration": "Auzi sunetul, încercati sa potriviti.",
+      "category": "Directions",
+      "generated_at": "2026-07-09T21:21:29.800936"
+    },
+    {
+      "english": "Focus on your tongue, position it.",
+      "romanian": "Concentrează-te pe limbă, poziționeaz-o.",
+      "transliteration": "Concentrati-va pe limbă, pozitionati-o.",
+      "category": "Directions",
+      "generated_at": "2026-07-09T21:21:29.800938"
+    },
+    {
+      "english": "Let the syllables flow, naturally.",
+      "romanian": "Lasă silabele să curgă, natural.",
+      "transliteration": "Lasati silabele sa curgă, natural.",
+      "category": "Directions",
+      "generated_at": "2026-07-09T21:21:29.800940"
+    },
+    {
+      "english": "Mimic the native speaker, closely.",
+      "romanian": "Imită vorbitorul nativ, atent.",
+      "transliteration": "Imitati vorbitorul nativ, atent.",
+      "category": "Directions",
+      "generated_at": "2026-07-09T21:21:29.800941"
     }
   ],
-  "last_updated": "2026-07-09T18:48:56.265345"
+  "last_updated": "2026-07-09T21:21:29.800943"
 }
