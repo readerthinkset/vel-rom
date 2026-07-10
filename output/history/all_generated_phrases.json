@@ -3709,7 +3709,42 @@
       "transliteration": "Deh-geh-tool mew meek, ah-rah-tuh droo-mool.",
       "category": "Body Parts",
       "generated_at": "2026-07-10T01:54:12.420058"
+    },
+    {
+      "english": "A delicious plum, plucked right now.",
+      "romanian": "O prună delicioasă, culeasă acum.",
+      "transliteration": "O pruna delitsioasa, kuleasa akum.",
+      "category": "Food",
+      "generated_at": "2026-07-10T14:21:33.814547"
+    },
+    {
+      "english": "This rich honey, so golden.",
+      "romanian": "Acest miere bogată, atât de aurie.",
+      "transliteration": "Atsest miere bogata, atat de aurie.",
+      "category": "Food",
+      "generated_at": "2026-07-10T14:21:33.814554"
+    },
+    {
+      "english": "A vibrant beet, for the salad.",
+      "romanian": "O sfeclă vibrantă, pentru salată.",
+      "transliteration": "O sfekla vibranta, pentru salata.",
+      "category": "Food",
+      "generated_at": "2026-07-10T14:21:33.814556"
+    },
+    {
+      "english": "Crispy apples, a healthy snack.",
+      "romanian": "Mere crocante, o gustare sănătoasă.",
+      "transliteration": "Mere krokeante, o gustare sanatoasa.",
+      "category": "Food",
+      "generated_at": "2026-07-10T14:21:33.814557"
+    },
+    {
+      "english": "Smooth yogurt, very creamy.",
+      "romanian": "Iaurt fin, foarte cremos.",
+      "transliteration": "Yagurt fin, foarte kremos.",
+      "category": "Food",
+      "generated_at": "2026-07-10T14:21:33.814558"
     }
   ],
-  "last_updated": "2026-07-10T01:54:12.420060"
+  "last_updated": "2026-07-10T14:21:33.814560"
 }
