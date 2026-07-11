@@ -3989,7 +3989,42 @@
       "transliteration": "Skim-bah-ree-ah ah-no-teem-poo-loo, ah-doo-cheh speh-rahn-tseh no-ee.",
       "category": "Time",
       "generated_at": "2026-07-11T17:53:25.518947"
+    },
+    {
+      "english": "Code flows, ideas grow.",
+      "romanian": "Codul curge, ideile cresc.",
+      "transliteration": "Koh-dool koor-geh, ee-deh-yeh krehsk.",
+      "category": "Technology",
+      "generated_at": "2026-07-11T20:43:49.304756"
+    },
+    {
+      "english": "AI learns, we discern.",
+      "romanian": "AI-ul învață, noi discernem.",
+      "transliteration": "Ah-ee-ool in-vah-tsuh, noy dees-cherr-nem.",
+      "category": "Technology",
+      "generated_at": "2026-07-11T20:43:49.304766"
+    },
+    {
+      "english": "Data streams, future gleams.",
+      "romanian": "Fluxuri de date, viitor strălucind.",
+      "transliteration": "Floo-ksoor deh dah-teh, vee-ee-tor struh-loo-cheend.",
+      "category": "Technology",
+      "generated_at": "2026-07-11T20:43:49.304767"
+    },
+    {
+      "english": "Virtual reality, pure fantasy.",
+      "romanian": "Realitate virtuală, fantezie pură.",
+      "transliteration": "Reh-ah-lee-tah-teh veer-too-ah-luh, fan-teh-zee poo-ruh.",
+      "category": "Technology",
+      "generated_at": "2026-07-11T20:43:49.304768"
+    },
+    {
+      "english": "Cyber security, our duty.",
+      "romanian": "Securitate cibernetică, datoria noastră.",
+      "transliteration": "Seh-koo-ree-tah-teh chee-ber-neh-tee-kuh, dah-toh-ree-ah noh-ah-struh.",
+      "category": "Technology",
+      "generated_at": "2026-07-11T20:43:49.304769"
     }
   ],
-  "last_updated": "2026-07-11T17:53:25.518948"
+  "last_updated": "2026-07-11T20:43:49.304771"
 }
