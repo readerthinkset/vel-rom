@@ -4164,7 +4164,42 @@
       "transliteration": "Merj leen-guh uh-puh, lee-nee-sh-tyuh co-bo-uh-ruh.",
       "category": "Happiness",
       "generated_at": "2026-07-12T17:58:06.983480"
+    },
+    {
+      "english": "My phone, it has no signal.",
+      "romanian": "Telefonul meu, fără semnal.",
+      "transliteration": "Tel-eh-foh-noo meh-oo, fuh-ruh sem-nal.",
+      "category": "Emergency",
+      "generated_at": "2026-07-12T20:42:04.597368"
+    },
+    {
+      "english": "I can't find my way back.",
+      "romanian": "Nu găsesc drumul, înapoi.",
+      "transliteration": "Noo guh-sesk droom-ool, ee-nah-poy.",
+      "category": "Emergency",
+      "generated_at": "2026-07-12T20:42:04.597376"
+    },
+    {
+      "english": "There's a strange noise, outside.",
+      "romanian": "E un zgomot ciudat, afară.",
+      "transliteration": "Eh oon zgo-mot choo-dat, ah-fah-ruh.",
+      "category": "Emergency",
+      "generated_at": "2026-07-12T20:42:04.597378"
+    },
+    {
+      "english": "I need assistance, urgently.",
+      "romanian": "Am nevoie de ajutor, repede.",
+      "transliteration": "Am ne-vo-yeh deh ah-joo-tor, reh-peh-deh.",
+      "category": "Emergency",
+      "generated_at": "2026-07-12T20:42:04.597379"
+    },
+    {
+      "english": "Someone is following me.",
+      "romanian": "Cineva mă urmărește, sigur.",
+      "transliteration": "Chee-neh-vah muh oo-muh-resh-teh, see-goor.",
+      "category": "Emergency",
+      "generated_at": "2026-07-12T20:42:04.597380"
     }
   ],
-  "last_updated": "2026-07-12T17:58:06.983482"
+  "last_updated": "2026-07-12T20:42:04.597382"
 }
