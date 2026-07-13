@@ -4199,7 +4199,42 @@
       "transliteration": "Chee-neh-vah muh oo-muh-resh-teh, see-goor.",
       "category": "Emergency",
       "generated_at": "2026-07-12T20:42:04.597380"
+    },
+    {
+      "english": "A single red rose.",
+      "romanian": "O singură trandafir roșu.",
+      "transliteration": "O singură trandafir roșu.",
+      "category": "Numbers",
+      "generated_at": "2026-07-13T01:48:26.322274"
+    },
+    {
+      "english": "Two small birds sang.",
+      "romanian": "Doi păsărele au cântat.",
+      "transliteration": "Doi păsărele au cântat.",
+      "category": "Numbers",
+      "generated_at": "2026-07-13T01:48:26.322282"
+    },
+    {
+      "english": "Three wishes, granted.",
+      "romanian": "Trei dorințe, îndeplinite.",
+      "transliteration": "Trei dorințe, îndeplinite.",
+      "category": "Numbers",
+      "generated_at": "2026-07-13T01:48:26.322284"
+    },
+    {
+      "english": "Four seasons, changing.",
+      "romanian": "Patru anotimpuri, se schimbă.",
+      "transliteration": "Patru anotimpuri, se schimbă.",
+      "category": "Numbers",
+      "generated_at": "2026-07-13T01:48:26.322285"
+    },
+    {
+      "english": "Five fingers, on my hand.",
+      "romanian": "Cinci degete, la mână.",
+      "transliteration": "Cinci degete, la mână.",
+      "category": "Numbers",
+      "generated_at": "2026-07-13T01:48:26.322286"
     }
   ],
-  "last_updated": "2026-07-12T20:42:04.597382"
+  "last_updated": "2026-07-13T01:48:26.322288"
 }
