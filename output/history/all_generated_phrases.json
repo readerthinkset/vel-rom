@@ -4339,7 +4339,42 @@
       "transliteration": "Oon peek neh-lee-neesh-teet, poh-teh.",
       "category": "Feelings",
       "generated_at": "2026-07-13T18:43:03.206015"
+    },
+    {
+      "english": "The owl, watches the night.",
+      "romanian": "Bufnița, veghează noaptea.",
+      "transliteration": "Buf-nee-tsa, veh-yeh-zah no-ah-p-tyah.",
+      "category": "Animals",
+      "generated_at": "2026-07-13T20:55:33.017396"
+    },
+    {
+      "english": "A fox, sneaks through the grass.",
+      "romanian": "Un vulpoi, furișează prin iarbă.",
+      "transliteration": "Oon vool-poy, foo-ree-shah-zah preen yahr-bah.",
+      "category": "Animals",
+      "generated_at": "2026-07-13T20:55:33.017407"
+    },
+    {
+      "english": "The elephant, sprays water happily.",
+      "romanian": "Elefantul, stropește apă vesel.",
+      "transliteration": "Eh-leh-fahn-tool, stroh-pehsh-teh ah-pah veh-sehl.",
+      "category": "Animals",
+      "generated_at": "2026-07-13T20:55:33.017408"
+    },
+    {
+      "english": "A bear, ambles in the forest.",
+      "romanian": "Un urs, hoinărește prin pădure.",
+      "transliteration": "Oon oors, hoy-nah-rehsh-teh preen pah-doo-reh.",
+      "category": "Animals",
+      "generated_at": "2026-07-13T20:55:33.017409"
+    },
+    {
+      "english": "The rabbit, nibbles a carrot.",
+      "romanian": "Iepurele, ronțăie un morcov.",
+      "transliteration": "Yeh-poo-reh-leh, ron-tsay-eh oon mor-cov.",
+      "category": "Animals",
+      "generated_at": "2026-07-13T20:55:33.017410"
     }
   ],
-  "last_updated": "2026-07-13T18:43:03.206016"
+  "last_updated": "2026-07-13T20:55:33.017412"
 }
