@@ -4304,7 +4304,42 @@
       "transliteration": "Shop-TEHSH-teh roh-moo-NESH-teh, SEEM-teh mah-JEE-ah.",
       "category": "Growth",
       "generated_at": "2026-07-13T16:27:51.317255"
+    },
+    {
+      "english": "Happy, but thoughtful.",
+      "romanian": "Fericit, dar gânditor.",
+      "transliteration": "Feh-ree-cheet, dar ghn-dee-tohr.",
+      "category": "Feelings",
+      "generated_at": "2026-07-13T18:43:03.206000"
+    },
+    {
+      "english": "A little tired, you know?",
+      "romanian": "Puțin obosit, știi?",
+      "transliteration": "Poo-tseen oh-boh-seet, shtee?",
+      "category": "Feelings",
+      "generated_at": "2026-07-13T18:43:03.206011"
+    },
+    {
+      "english": "Feeling hopeful, always.",
+      "romanian": "Speranță, mereu.",
+      "transliteration": "Speh-rahn-tsa, meh-reoo.",
+      "category": "Feelings",
+      "generated_at": "2026-07-13T18:43:03.206013"
+    },
+    {
+      "english": "Surprised, pleasantly so.",
+      "romanian": "Surprins, plăcut.",
+      "transliteration": "Soor-preens, plah-coot.",
+      "category": "Feelings",
+      "generated_at": "2026-07-13T18:43:03.206014"
+    },
+    {
+      "english": "A bit nervous, maybe.",
+      "romanian": "Un pic neliniștit, poate.",
+      "transliteration": "Oon peek neh-lee-neesh-teet, poh-teh.",
+      "category": "Feelings",
+      "generated_at": "2026-07-13T18:43:03.206015"
     }
   ],
-  "last_updated": "2026-07-13T16:27:51.317257"
+  "last_updated": "2026-07-13T18:43:03.206016"
 }
