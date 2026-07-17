@@ -4969,7 +4969,42 @@
       "transliteration": "Pyehp-tool meh-oo, tee-neh koo-rahj.",
       "category": "Body Parts",
       "generated_at": "2026-07-17T15:10:44.668620"
+    },
+    {
+      "english": "Excuse me, can we get a window spot?",
+      "romanian": "Scuzați-mă, putem, o masă, lângă geam?",
+      "transliteration": "Sku-za-ti-muh, pu-tem, o ma-suh, lin-guh, gyahm?",
+      "category": "Restaurant",
+      "generated_at": "2026-07-17T20:52:08.111448"
+    },
+    {
+      "english": "This soup, it smells amazing.",
+      "romanian": "Supă asta, miroase, de minune.",
+      "transliteration": "Su-puh, ahs-tuh, mi-ro-suh, duh, mi-nu-neh.",
+      "category": "Restaurant",
+      "generated_at": "2026-07-17T20:52:08.111458"
+    },
+    {
+      "english": "Could I, have some water, please?",
+      "romanian": "Ați putea, să îmi aduceți, apă?",
+      "transliteration": "Aht-sy, pu-tyah, suh, eem, ah-du-chets, ah-puh?",
+      "category": "Restaurant",
+      "generated_at": "2026-07-17T20:52:08.111459"
+    },
+    {
+      "english": "What's, the special, today?",
+      "romanian": "Care, e oferta, zilei?",
+      "transliteration": "Cah-reh, eh, o-fer-tuh, zi-ley?",
+      "category": "Restaurant",
+      "generated_at": "2026-07-17T20:52:08.111460"
+    },
+    {
+      "english": "We'd like, to try that, dessert.",
+      "romanian": "Am vrea, să gustăm, prăjitura aia.",
+      "transliteration": "Ahm, vre-ah, suh, gus-tahm, pruh-zhi-tu-ruh, a-yah.",
+      "category": "Restaurant",
+      "generated_at": "2026-07-17T20:52:08.111461"
     }
   ],
-  "last_updated": "2026-07-17T15:10:44.668621"
+  "last_updated": "2026-07-17T20:52:08.111462"
 }
