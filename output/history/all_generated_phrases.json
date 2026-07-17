@@ -4934,7 +4934,42 @@
       "transliteration": "Gândește în română, simte limba.",
       "category": "Purpose",
       "generated_at": "2026-07-17T13:23:35.605936"
+    },
+    {
+      "english": "My head, thinks deeply.",
+      "romanian": "Capul meu, gândește adânc.",
+      "transliteration": "Kah-poo meh-oo, guhn-desh-teh ah-duhngk.",
+      "category": "Body Parts",
+      "generated_at": "2026-07-17T15:10:44.668607"
+    },
+    {
+      "english": "Your foot, steps lightly.",
+      "romanian": "Piciorul tău, pășește ușor.",
+      "transliteration": "Pee-choh-rool tow, puh-sheh-steh oo-shor.",
+      "category": "Body Parts",
+      "generated_at": "2026-07-17T15:10:44.668617"
+    },
+    {
+      "english": "A cool shoulder, to lean on.",
+      "romanian": "Un umăr rece, pentru sprijin.",
+      "transliteration": "Oon oo-mur reh-cheh, pehn-troo spree-jeen.",
+      "category": "Body Parts",
+      "generated_at": "2026-07-17T15:10:44.668618"
+    },
+    {
+      "english": "This tongue, tastes sweetness.",
+      "romanian": "Limba asta, gustă dulceața.",
+      "transliteration": "Leem-bah ahs-tah, goos-tah dool-chah-tzah.",
+      "category": "Body Parts",
+      "generated_at": "2026-07-17T15:10:44.668619"
+    },
+    {
+      "english": "My chest, holds courage.",
+      "romanian": "Pieptul meu, ține curaj.",
+      "transliteration": "Pyehp-tool meh-oo, tee-neh koo-rahj.",
+      "category": "Body Parts",
+      "generated_at": "2026-07-17T15:10:44.668620"
     }
   ],
-  "last_updated": "2026-07-17T13:23:35.605938"
+  "last_updated": "2026-07-17T15:10:44.668621"
 }
