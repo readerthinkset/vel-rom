@@ -5319,7 +5319,42 @@
       "transliteration": "Sim-te flu-xul, a-ces-tei lim-bi.",
       "category": "Confidence",
       "generated_at": "2026-07-19T17:57:35.279097"
+    },
+    {
+      "english": "This soup, it's hearty.",
+      "romanian": "Această supă, este consistentă.",
+      "transliteration": "Ah-chees-tah soo-pah, es-teh con-sis-tent-ah.",
+      "category": "Food",
+      "generated_at": "2026-07-19T20:43:06.903746"
+    },
+    {
+      "english": "A juicy peach, smells so good.",
+      "romanian": "O piersică zemoasă, miroase a bine.",
+      "transliteration": "Oh pee-er-see-kah zeh-moo-ah-sah, mee-ro-ah-seh ah bee-neh.",
+      "category": "Food",
+      "generated_at": "2026-07-19T20:43:06.903757"
+    },
+    {
+      "english": "These olives, slightly salty.",
+      "romanian": "Aceste măsline, puțin sărate.",
+      "transliteration": "Ah-ches-teh muhs-lee-neh, poo-tseen sah-rah-teh.",
+      "category": "Food",
+      "generated_at": "2026-07-19T20:43:06.903758"
+    },
+    {
+      "english": "A slice of cake, pure joy.",
+      "romanian": "O felie de tort, bucurie pură.",
+      "transliteration": "Oh feh-lee-eh deh tort, boo-koo-ree-eh poo-rah.",
+      "category": "Food",
+      "generated_at": "2026-07-19T20:43:06.903759"
+    },
+    {
+      "english": "The grilled fish, so tender.",
+      "romanian": "Peștele la grătar, atât de fraged.",
+      "transliteration": "Pesh-teh-leh lah grah-tar, ah-tud deh frah-jed.",
+      "category": "Food",
+      "generated_at": "2026-07-19T20:43:06.903760"
     }
   ],
-  "last_updated": "2026-07-19T17:57:35.279099"
+  "last_updated": "2026-07-19T20:43:06.903762"
 }
