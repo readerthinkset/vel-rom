@@ -5389,7 +5389,42 @@
       "transliteration": "Too, completezi imaginea mea.",
       "category": "Relationships",
       "generated_at": "2026-07-20T01:59:00.898114"
+    },
+    {
+      "english": "Winter's chill, bites hard.",
+      "romanian": "Gerul iernii, mușcă tare.",
+      "transliteration": "Gerul yerni, mushkah tare.",
+      "category": "Weather",
+      "generated_at": "2026-07-20T14:02:41.711335"
+    },
+    {
+      "english": "A sudden downpour, wets everything.",
+      "romanian": "O ploaie bruscă, udă totul.",
+      "transliteration": "O ploaie bruskhah, udah totul.",
+      "category": "Weather",
+      "generated_at": "2026-07-20T14:02:41.711345"
+    },
+    {
+      "english": "The air is crisp, smells of pine.",
+      "romanian": "Aerul e proaspăt, miroase a brad.",
+      "transliteration": "Aerul eh proashpet, miroaseh ah brad.",
+      "category": "Weather",
+      "generated_at": "2026-07-20T14:02:41.711347"
+    },
+    {
+      "english": "Golden light, fills the valley.",
+      "romanian": "Lumină aurie, umple valea.",
+      "transliteration": "Luminah auriyeh, umpleh valea.",
+      "category": "Weather",
+      "generated_at": "2026-07-20T14:02:41.711348"
+    },
+    {
+      "english": "Hailstones rattle, on the roof.",
+      "romanian": "Gheața bate, pe acoperiș.",
+      "transliteration": "Gheata bateh, peh akopperish.",
+      "category": "Weather",
+      "generated_at": "2026-07-20T14:02:41.711349"
     }
   ],
-  "last_updated": "2026-07-20T01:59:00.898115"
+  "last_updated": "2026-07-20T14:02:41.711350"
 }
