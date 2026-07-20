@@ -5424,7 +5424,42 @@
       "transliteration": "Gheata bateh, peh akopperish.",
       "category": "Weather",
       "generated_at": "2026-07-20T14:02:41.711349"
+    },
+    {
+      "english": "Sunrise paints the sky, beautifully.",
+      "romanian": "Răsăritul pictează cerul, frumos.",
+      "transliteration": "Ruh-suh-reet-oot peek-teh-zah cheh-rool, fruh-moos.",
+      "category": "Daily Routine",
+      "generated_at": "2026-07-20T15:48:41.432227"
+    },
+    {
+      "english": "Stretch limbs, greet the day.",
+      "romanian": "Întinde membrele, salută ziua.",
+      "transliteration": "En-teen-deh mem-breh-leh, sah-loo-tah zee-wah.",
+      "category": "Daily Routine",
+      "generated_at": "2026-07-20T15:48:41.432235"
+    },
+    {
+      "english": "Water bottle, always handy.",
+      "romanian": "Sticlă cu apă, mereu la îndemână.",
+      "transliteration": "Steek-klah koo ah-pah, meh-rev lah en-deh-muh-nah.",
+      "category": "Daily Routine",
+      "generated_at": "2026-07-20T15:48:41.432237"
+    },
+    {
+      "english": "Sunlight streams in, softly.",
+      "romanian": "Lumina soarelui intră, blând.",
+      "transliteration": "Loo-mee-nah soh-ah-reh-loo-ee een-trah, bluhnd.",
+      "category": "Daily Routine",
+      "generated_at": "2026-07-20T15:48:41.432238"
+    },
+    {
+      "english": "Hum a quiet tune, gently.",
+      "romanian": "Fredonează o melodie, ușor.",
+      "transliteration": "Freh-doh-neh-ah-zah oh meh-loh-dee-eh, oo-shor.",
+      "category": "Daily Routine",
+      "generated_at": "2026-07-20T15:48:41.432239"
     }
   ],
-  "last_updated": "2026-07-20T14:02:41.711350"
+  "last_updated": "2026-07-20T15:48:41.432241"
 }
