@@ -5634,7 +5634,42 @@
       "transliteration": "Reh-TSYA pu-TER-nee-kah, A-joongj mai deh-PAR-teh.",
       "category": "Technology",
       "generated_at": "2026-07-21T15:40:20.472634"
+    },
+    {
+      "english": "My dear mom, your hug feels warm.",
+      "romanian": "Mamă dragă, îmbrățișarea ta e caldă.",
+      "transliteration": "Ma-ma dra-ga, im-bri-tsa-rea ta e cal-da.",
+      "category": "Family Terms",
+      "generated_at": "2026-07-21T18:14:54.589523"
+    },
+    {
+      "english": "Dad, your advice, it helps me so much.",
+      "romanian": "Tată, sfatul tău, mă ajută mult.",
+      "transliteration": "Ta-ta, sfa-tul tau, ma a-ju-ta mult.",
+      "category": "Family Terms",
+      "generated_at": "2026-07-21T18:14:54.589533"
+    },
+    {
+      "english": "Sister, let's share secrets later.",
+      "romanian": "Soră, să ne spunem secrete mai târziu.",
+      "transliteration": "Soa-ra, sa ne spun-em se-cre-te mai tir-ziu.",
+      "category": "Family Terms",
+      "generated_at": "2026-07-21T18:14:54.589535"
+    },
+    {
+      "english": "Brother, you're my best companion.",
+      "romanian": "Frate, ești cel mai bun tovarăș.",
+      "transliteration": "Fra-te, esti cel mai bun to-va-rash.",
+      "category": "Family Terms",
+      "generated_at": "2026-07-21T18:14:54.589537"
+    },
+    {
+      "english": "Grandma, your smile, it brightens everything.",
+      "romanian": "Bunică, zâmbetul tău, luminează tot.",
+      "transliteration": "Bu-ni-ca, zam-be-tul tau, lu-mi-nea-za tot.",
+      "category": "Family Terms",
+      "generated_at": "2026-07-21T18:14:54.589538"
     }
   ],
-  "last_updated": "2026-07-21T15:40:20.472636"
+  "last_updated": "2026-07-21T18:14:54.589540"
 }
