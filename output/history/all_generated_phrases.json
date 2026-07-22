@@ -5809,7 +5809,42 @@
       "transliteration": "Oon koo-vuhnt bluhnd, veen-deh-kuh.",
       "category": "Kindness",
       "generated_at": "2026-07-22T18:06:33.826645"
+    },
+    {
+      "english": "A dozen eggs, for breakfast.",
+      "romanian": "Unsprezece ouă, pentru micul dejun.",
+      "transliteration": "Oon-sprez-e-che o-oo-ah, per-troo meek-ool dey-zhn.",
+      "category": "Numbers",
+      "generated_at": "2026-07-22T21:03:55.653284"
+    },
+    {
+      "english": "My first try, felt good.",
+      "romanian": "Prima mea încercare, a fost bună.",
+      "transliteration": "Pree-mah meh-ah in-cher-kah-reh, ah fost boon-ah.",
+      "category": "Numbers",
+      "generated_at": "2026-07-22T21:03:55.653294"
+    },
+    {
+      "english": "Half a loaf, is better.",
+      "romanian": "Jumătate de pâine, e mai bine.",
+      "transliteration": "Zhoo-mah-tah-teh deh pu-ee-neh, eh my bee-neh.",
+      "category": "Numbers",
+      "generated_at": "2026-07-22T21:03:55.653295"
+    },
+    {
+      "english": "After eleven, comes twelve.",
+      "romanian": "După unsprezece, vine doisprezece.",
+      "transliteration": "Doo-pah oon-sprez-e-che, vee-neh doy-sprez-e-che.",
+      "category": "Numbers",
+      "generated_at": "2026-07-22T21:03:55.653297"
+    },
+    {
+      "english": "A hundred reasons, to smile.",
+      "romanian": "O sută de motive, să zâmbești.",
+      "transliteration": "O soo-tah deh mo-tee-veh, sah zum-besht.",
+      "category": "Numbers",
+      "generated_at": "2026-07-22T21:03:55.653298"
     }
   ],
-  "last_updated": "2026-07-22T18:06:33.826646"
+  "last_updated": "2026-07-22T21:03:55.653300"
 }
