@@ -5914,7 +5914,42 @@
       "transliteration": "Ka-PEE-toe-lool meh-oo pre-fe-RAHT, YESHT too.",
       "category": "Love",
       "generated_at": "2026-07-23T09:28:01.989305"
+    },
+    {
+      "english": "This street, smells amazing.",
+      "romanian": "Strada asta, miroase minunat.",
+      "transliteration": "Stra-da as-ta, miro-a-se mi-nu-nat.",
+      "category": "Travel",
+      "generated_at": "2026-07-23T10:35:51.426446"
+    },
+    {
+      "english": "Can I try this, on?",
+      "romanian": "Pot să probez asta, vă rog?",
+      "transliteration": "Pot să pro-bez as-ta, vo-rog?",
+      "category": "Travel",
+      "generated_at": "2026-07-23T10:35:51.426461"
+    },
+    {
+      "english": "Where can I find, local wine?",
+      "romanian": "Unde găsesc, vin local?",
+      "transliteration": "Un-de gă-sesc, vin lo-cal?",
+      "category": "Travel",
+      "generated_at": "2026-07-23T10:35:51.426464"
+    },
+    {
+      "english": "This view, takes my breath.",
+      "romanian": "Priveliștea asta, îmi taie respirația.",
+      "transliteration": "Pri-ve-lăș-tea as-ta, îmi ta-ie res-pi-ra-ți-a.",
+      "category": "Travel",
+      "generated_at": "2026-07-23T10:35:51.426466"
+    },
+    {
+      "english": "Is there, a market nearby?",
+      "romanian": "E vreun târg, prin apropiere?",
+      "transliteration": "E vre-un tîrg, prin a-pro-pie-re?",
+      "category": "Travel",
+      "generated_at": "2026-07-23T10:35:51.426468"
     }
   ],
-  "last_updated": "2026-07-23T09:28:01.989307"
+  "last_updated": "2026-07-23T10:35:51.426470"
 }
