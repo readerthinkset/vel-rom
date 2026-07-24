@@ -6159,7 +6159,42 @@
       "transliteration": "Oor-meh-zuh shoh-ahp-tuh, ah cheh ahr poo-tyah fee.",
       "category": "Creativity",
       "generated_at": "2026-07-24T07:19:11.629004"
+    },
+    {
+      "english": "A table, by the window, please.",
+      "romanian": "O masă, lângă fereastră, vă rog.",
+      "transliteration": "O masă, lîngă fereastră, vă rog.",
+      "category": "Restaurant",
+      "generated_at": "2026-07-24T13:40:59.008195"
+    },
+    {
+      "english": "Could we, have a quieter table?",
+      "romanian": "Am putea, să avem o masă mai retrasă?",
+      "transliteration": "Am putea, să avem o masă mai retrasă?",
+      "category": "Restaurant",
+      "generated_at": "2026-07-24T13:40:59.008204"
+    },
+    {
+      "english": "What's, the catch of the day?",
+      "romanian": "Ce pește, prindeți astăzi?",
+      "transliteration": "Ce pește, prindeți astăzi?",
+      "category": "Restaurant",
+      "generated_at": "2026-07-24T13:40:59.008206"
+    },
+    {
+      "english": "Do you have, any local wines?",
+      "romanian": "Aveți, vinuri locale?",
+      "transliteration": "Aveți, vinuri locale?",
+      "category": "Restaurant",
+      "generated_at": "2026-07-24T13:40:59.008207"
+    },
+    {
+      "english": "This smells, really good.",
+      "romanian": "Miroase, tare bine.",
+      "transliteration": "Miroase, tare bine.",
+      "category": "Restaurant",
+      "generated_at": "2026-07-24T13:40:59.008208"
     }
   ],
-  "last_updated": "2026-07-24T07:19:11.629005"
+  "last_updated": "2026-07-24T13:40:59.008210"
 }
