@@ -6369,7 +6369,42 @@
       "transliteration": "Soo-nah, bee-neh.",
       "category": "Basic Phrases",
       "generated_at": "2026-07-25T17:56:37.616164"
+    },
+    {
+      "english": "Let the Romanian, fill your ears.",
+      "romanian": "Lasă româna, să-ți umple urechile.",
+      "transliteration": "La-sa ro-mâ-na, să-ți um-ple u-re-chi-le.",
+      "category": "Confidence",
+      "generated_at": "2026-07-25T20:48:14.928999"
+    },
+    {
+      "english": "Breathe in Romanian, exhale fluency.",
+      "romanian": "Inspiră românește, expiră cursivitate.",
+      "transliteration": "In-spi-ră ro-mâ-neș-te, ex-pi-ră cur-si-vi-ta-te.",
+      "category": "Confidence",
+      "generated_at": "2026-07-25T20:48:14.929008"
+    },
+    {
+      "english": "Your Romanian, is taking shape.",
+      "romanian": "Româna ta, prinde contur.",
+      "transliteration": "Ro-mâ-na ta, prin-de con-tur.",
+      "category": "Confidence",
+      "generated_at": "2026-07-25T20:48:14.929009"
+    },
+    {
+      "english": "Don't be shy, just try.",
+      "romanian": "Nu-ți fie teamă, doar încearcă.",
+      "transliteration": "Nu-ți fi-e te-a-mă, doar în-cear-că.",
+      "category": "Confidence",
+      "generated_at": "2026-07-25T20:48:14.929011"
+    },
+    {
+      "english": "Sound it out, slowly.",
+      "romanian": "Rostește-o, încet.",
+      "transliteration": "Roș-teș-te-o, în-cet.",
+      "category": "Confidence",
+      "generated_at": "2026-07-25T20:48:14.929012"
     }
   ],
-  "last_updated": "2026-07-25T17:56:37.616166"
+  "last_updated": "2026-07-25T20:48:14.929014"
 }
