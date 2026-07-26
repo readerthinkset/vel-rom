@@ -6439,7 +6439,42 @@
       "transliteration": "Pleem-bah-teh peh strAH-zee-leh pyet-roo-ee-teh, seem-teh treh-koo-tool.",
       "category": "Culture",
       "generated_at": "2026-07-26T01:48:57.139598"
+    },
+    {
+      "english": "Sun, setting low, paints the hills.",
+      "romanian": "Soare, apunând jos, pictează dealurile.",
+      "transliteration": "So-reh, ah-poon-ind zhohs, peek-teh-zah deh-oo-ri-luh.",
+      "category": "Weather",
+      "generated_at": "2026-07-26T13:18:04.290912"
+    },
+    {
+      "english": "Misty veil, over the lake.",
+      "romanian": "Văl de ceață, peste lac.",
+      "transliteration": "Vuhl deh chah-tsuh, peh-steh lahk.",
+      "category": "Weather",
+      "generated_at": "2026-07-26T13:18:04.290922"
+    },
+    {
+      "english": "Air, thick with humidity.",
+      "romanian": "Aer, dens de umiditate.",
+      "transliteration": "Ah-ehr, dehnz deh oo-mee-dee-tah-teh.",
+      "category": "Weather",
+      "generated_at": "2026-07-26T13:18:04.290924"
+    },
+    {
+      "english": "Frost, glitters, on cold branches.",
+      "romanian": "Brume, scânteiază, pe ramuri reci.",
+      "transliteration": "Broo-meh, skuhn-teh-yah-zuh, peh rah-moor reech.",
+      "category": "Weather",
+      "generated_at": "2026-07-26T13:18:04.290929"
+    },
+    {
+      "english": "Gusts, of wind, tease the trees.",
+      "romanian": "Rafale, de vânt, gâdilă copacii.",
+      "transliteration": "Rah-fah-leh, deh vuhnt, guh-dee-luh ko-pah-cheey.",
+      "category": "Weather",
+      "generated_at": "2026-07-26T13:18:04.290930"
     }
   ],
-  "last_updated": "2026-07-26T01:48:57.139599"
+  "last_updated": "2026-07-26T13:18:04.290932"
 }
