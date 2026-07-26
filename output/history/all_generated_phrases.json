@@ -6544,7 +6544,42 @@
       "transliteration": "STR'uh-loo-CHESHT'-ee-TSEE loo-MEE-nah, koo-rah-ZHOHS.",
       "category": "Courage",
       "generated_at": "2026-07-26T18:00:26.143473"
+    },
+    {
+      "english": "Oh, what a lovely aroma,",
+      "romanian": "Ce aromă minunată,",
+      "transliteration": "Cheh ah-ROH-mah mee-noo-NAH-tah,",
+      "category": "Food",
+      "generated_at": "2026-07-26T20:55:28.804637"
+    },
+    {
+      "english": "This stew, deeply savory, is perfect.",
+      "romanian": "Tocănița asta, profundă, e perfectă.",
+      "transliteration": "Toh-keh-NEE-tsah AH-stah, proh-FOON-dah, eh pehr-FEHK-tah.",
+      "category": "Food",
+      "generated_at": "2026-07-26T20:55:28.804647"
+    },
+    {
+      "english": "A sip of wine, quite refreshing.",
+      "romanian": "O gură de vin, destul de răcoritoare.",
+      "transliteration": "O GOO-rah deh veen, des-TOOL deh rah-koh-ree-TWAH-rah-reh.",
+      "category": "Food",
+      "generated_at": "2026-07-26T20:55:28.804649"
+    },
+    {
+      "english": "These mushrooms, earthy and rich.",
+      "romanian": "Ciupercile astea, pământene și bogate.",
+      "transliteration": "Choo-PEHR-chee-leh AH-steh, puh-mun-TEH-neh shee boh-GAH-teh.",
+      "category": "Food",
+      "generated_at": "2026-07-26T20:55:28.804650"
+    },
+    {
+      "english": "I love this sauce, a bit tangy.",
+      "romanian": "Îmi place sosul ăsta, un pic acrișor.",
+      "transliteration": "Eem PLAH-cheh SOH-sool AH-stah, oon peek ah-kree-SHOHR.",
+      "category": "Food",
+      "generated_at": "2026-07-26T20:55:28.804651"
     }
   ],
-  "last_updated": "2026-07-26T18:00:26.143475"
+  "last_updated": "2026-07-26T20:55:28.804653"
 }
