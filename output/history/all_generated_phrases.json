@@ -6404,7 +6404,42 @@
       "transliteration": "Roș-teș-te-o, în-cet.",
       "category": "Confidence",
       "generated_at": "2026-07-25T20:48:14.929012"
+    },
+    {
+      "english": "Find the heart, of Bucharest.",
+      "romanian": "Găsește inima, Bucureștiului.",
+      "transliteration": "Guh-sehsh-teh ee-nee-mah, Boo-koo-resh-tyool-ee.",
+      "category": "Culture",
+      "generated_at": "2026-07-26T01:48:57.139583"
+    },
+    {
+      "english": "Breathe the mountain air, pure and free.",
+      "romanian": "Respiră aerul de munte, curat și liber.",
+      "transliteration": "Res-peer ah-eh-rool deh moon-teh, koo-raht shee lee-ber.",
+      "category": "Culture",
+      "generated_at": "2026-07-26T01:48:57.139593"
+    },
+    {
+      "english": "Sip țuică, with a smile.",
+      "romanian": "Savurează țuică, cu un zâmbet.",
+      "transliteration": "Sah-voo-ryah-zah tsoo-ee-kah, koo oon zum-bet.",
+      "category": "Culture",
+      "generated_at": "2026-07-26T01:48:57.139595"
+    },
+    {
+      "english": "Admire the painted monasteries, ancient art.",
+      "romanian": "Admiră mănăstirile pictate, artă veche.",
+      "transliteration": "Ad-meer-ah muh-nuhs-tee-ree-leh peek-tah-teh, ar-tuh veh-kyeh.",
+      "category": "Culture",
+      "generated_at": "2026-07-26T01:48:57.139596"
+    },
+    {
+      "english": "Walk the cobblestone streets, feel the past.",
+      "romanian": "Plimbă-te pe străzile pietruite, simte trecutul.",
+      "transliteration": "Pleem-bah-teh peh strAH-zee-leh pyet-roo-ee-teh, seem-teh treh-koo-tool.",
+      "category": "Culture",
+      "generated_at": "2026-07-26T01:48:57.139598"
     }
   ],
-  "last_updated": "2026-07-25T20:48:14.929014"
+  "last_updated": "2026-07-26T01:48:57.139599"
 }
