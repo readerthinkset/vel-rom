@@ -6824,7 +6824,42 @@
       "transliteration": "In-cher-kah-ts, preh-zhee-too-rah lo-kah-lah.",
       "category": "Travel",
       "generated_at": "2026-07-29T18:04:38.414217"
+    },
+    {
+      "english": "My leg, it's broken.",
+      "romanian": "Piciorul meu, e rupt.",
+      "transliteration": "Peet-see-oh-loor meh-oo, eh root.",
+      "category": "Emergency",
+      "generated_at": "2026-07-29T20:53:13.755045"
+    },
+    {
+      "english": "Someone collapsed, over there.",
+      "romanian": "Cineva s-a prăbușit, acolo.",
+      "transliteration": "Chee-neh-vah sah prah-boo-sheet, ah-koh-loh.",
+      "category": "Emergency",
+      "generated_at": "2026-07-29T20:53:13.755057"
+    },
+    {
+      "english": "Fire! Quickly, everyone out!",
+      "romanian": "Foc! Repede, toți afară!",
+      "transliteration": "Fohk! Reh-peh-deh, tot-s ah-fah-rah!",
+      "category": "Emergency",
+      "generated_at": "2026-07-29T20:53:13.755059"
+    },
+    {
+      "english": "I think I'm choking.",
+      "romanian": "Cred că mă sufoc.",
+      "transliteration": "Kred kah mah soo-fohk.",
+      "category": "Emergency",
+      "generated_at": "2026-07-29T20:53:13.755060"
+    },
+    {
+      "english": "The child is not breathing.",
+      "romanian": "Copilul nu respiră.",
+      "transliteration": "Koh-pee-lool noo res-pee-rah.",
+      "category": "Emergency",
+      "generated_at": "2026-07-29T20:53:13.755061"
     }
   ],
-  "last_updated": "2026-07-29T18:04:38.414218"
+  "last_updated": "2026-07-29T20:53:13.755063"
 }
