@@ -6754,7 +6754,42 @@
       "transliteration": "Kon-stroo-YEHSH-tuh poon-tsee, coo lo-CAL-neech-ee, unn ro-MOO-nah.",
       "category": "Purpose",
       "generated_at": "2026-07-29T14:06:13.823751"
+    },
+    {
+      "english": "Just a moment, please.",
+      "romanian": "Un moment, te rog.",
+      "transliteration": "Oon mo-ment, te rog.",
+      "category": "Numbers",
+      "generated_at": "2026-07-29T17:38:45.819142"
+    },
+    {
+      "english": "After sunset, stars appear.",
+      "romanian": "După apus, apar stelele.",
+      "transliteration": "Doop-uh ah-poos, ah-par steh-leh-leh.",
+      "category": "Numbers",
+      "generated_at": "2026-07-29T17:38:45.819155"
+    },
+    {
+      "english": "We waited hours, for news.",
+      "romanian": "Am așteptat ore, pentru vești.",
+      "transliteration": "Am ahsh-tehp-taht oh-reh, pehn-troo veshti.",
+      "category": "Numbers",
+      "generated_at": "2026-07-29T17:38:45.819157"
+    },
+    {
+      "english": "Only one chance, left.",
+      "romanian": "Doar o șansă, rămasă.",
+      "transliteration": "Doar oh shahn-sah, ruh-mah-sah.",
+      "category": "Numbers",
+      "generated_at": "2026-07-29T17:38:45.819158"
+    },
+    {
+      "english": "He ate three bites, then stopped.",
+      "romanian": "A mâncat trei înghițituri, apoi s-a oprit.",
+      "transliteration": "Ah muhn-kaht trey uhng-gheet-oo-ree, ah-poy sah oh-preet.",
+      "category": "Numbers",
+      "generated_at": "2026-07-29T17:38:45.819160"
     }
   ],
-  "last_updated": "2026-07-29T14:06:13.823753"
+  "last_updated": "2026-07-29T17:38:45.819162"
 }
