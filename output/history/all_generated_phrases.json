@@ -7209,7 +7209,42 @@
       "transliteration": "La-să-ți spi-ri-tul, să se în-al-țe.",
       "category": "Hope",
       "generated_at": "2026-08-01T13:15:08.250594"
+    },
+    {
+      "english": "Sunrise, paints the sky.",
+      "romanian": "Răsăritul, pictează cerul.",
+      "transliteration": "Ruh-suh-reet-oot, peek-teh-zuh tseh-rool.",
+      "category": "Time",
+      "generated_at": "2026-08-01T14:57:11.174873"
+    },
+    {
+      "english": "Evening, brings quietude.",
+      "romanian": "Seara, aduce liniștea.",
+      "transliteration": "Seh-rah, ah-doo-cheh lee-neesh-teh-ah.",
+      "category": "Time",
+      "generated_at": "2026-08-01T14:57:11.174882"
+    },
+    {
+      "english": "Soon, the moon rises.",
+      "romanian": "Curând, luna răsare.",
+      "transliteration": "Koo-roond, loo-nah ruh-sah-reh.",
+      "category": "Time",
+      "generated_at": "2026-08-01T14:57:11.174884"
+    },
+    {
+      "english": "Yesterday's memory, lingers.",
+      "romanian": "Amintirea de ieri, persistă.",
+      "transliteration": "Ah-meen-tee-ree-ah deh yeer, pehr-sees-tuh.",
+      "category": "Time",
+      "generated_at": "2026-08-01T14:57:11.174885"
+    },
+    {
+      "english": "Tomorrow's promise, awaits.",
+      "romanian": "Promisiunea de mâine, așteaptă.",
+      "transliteration": "Proh-mees-ee-oo-nah deh muh-ee-neh, ahsh-teh-ap-tuh.",
+      "category": "Time",
+      "generated_at": "2026-08-01T14:57:11.174886"
     }
   ],
-  "last_updated": "2026-08-01T13:15:08.250608"
+  "last_updated": "2026-08-01T14:57:11.174888"
 }
