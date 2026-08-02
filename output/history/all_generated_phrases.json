@@ -7349,7 +7349,42 @@
       "transliteration": "Deh-sco-peh-ruh Ro-moo-nee-ah, oon coo-voont oh-dah-tuh.",
       "category": "Success",
       "generated_at": "2026-08-02T01:49:00.212870"
+    },
+    {
+      "english": "A warm, flaky pastry.",
+      "romanian": "O patiserie caldă, foietată.",
+      "transliteration": "O pa-ti-se-RI-e CAL-dă, fo-ie-TA-tă.",
+      "category": "Food",
+      "generated_at": "2026-08-02T13:16:08.949086"
+    },
+    {
+      "english": "Savory, slow-cooked lamb.",
+      "romanian": "Miel savuros, gătit lent.",
+      "transliteration": "MIEL sa-vo-ROS, gă-TIT lent.",
+      "category": "Food",
+      "generated_at": "2026-08-02T13:16:08.949096"
+    },
+    {
+      "english": "This tart lemonade, so zesty.",
+      "romanian": "Această lămâie acră, atât de citrică.",
+      "transliteration": "A-CEAS-tă lă-MÂ-ie A-cră, a-TÂT de ci-TRI-că.",
+      "category": "Food",
+      "generated_at": "2026-08-02T13:16:08.949097"
+    },
+    {
+      "english": "Sweet figs, from the garden.",
+      "romanian": "Smochine dulci, din grădină.",
+      "transliteration": "SMO-chi-ne DULCI, din gră-DI-nă.",
+      "category": "Food",
+      "generated_at": "2026-08-02T13:16:08.949099"
+    },
+    {
+      "english": "Aromatic roasted vegetables.",
+      "romanian": "Legume aromate, la cuptor.",
+      "transliteration": "Le-GU-me a-ro-MA-te, la CUP-tor.",
+      "category": "Food",
+      "generated_at": "2026-08-02T13:16:08.949100"
     }
   ],
-  "last_updated": "2026-08-02T01:49:00.212871"
+  "last_updated": "2026-08-02T13:16:08.949102"
 }
