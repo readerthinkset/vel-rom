@@ -7524,7 +7524,42 @@
       "transliteration": "Des-ko-pee-reend mee-noon, zeel-neek.",
       "category": "Joy",
       "generated_at": "2026-08-03T01:50:18.521355"
+    },
+    {
+      "english": "This scarf, adds such color.",
+      "romanian": "Eșarfa asta, adaugă atâta culoare.",
+      "transliteration": "Esh-ar-fa as-ta, ad-a-gă atân-ta culu-a-re.",
+      "category": "Clothes",
+      "generated_at": "2026-08-03T10:14:26.341786"
+    },
+    {
+      "english": "My favorite hat, is quite stylish.",
+      "romanian": "Pălăria mea preferată, e destul de elegantă.",
+      "transliteration": "Pă-lă-ri-a me-a pre-fe-ra-tă, e des-tul de e-le-gant-ă.",
+      "category": "Clothes",
+      "generated_at": "2026-08-03T10:14:26.341795"
+    },
+    {
+      "english": "These gloves, keep my hands warm.",
+      "romanian": "Mănușile astea, îmi țin mâinile calde.",
+      "transliteration": "Mă-nu-și-le as-te-a, îmi țin mâi-ni-le cal-de.",
+      "category": "Clothes",
+      "generated_at": "2026-08-03T10:14:26.341797"
+    },
+    {
+      "english": "Her sweater, feels very soft.",
+      "romanian": "Puloverul ei, se simte foarte moale.",
+      "transliteration": "Pu-lo-ve-rul ei, se sim-te foar-te mo-a-le.",
+      "category": "Clothes",
+      "generated_at": "2026-08-03T10:14:26.341798"
+    },
+    {
+      "english": "That jacket, looks quite durable.",
+      "romanian": "Geaca aia, pare destul de rezistentă.",
+      "transliteration": "Gea-ca a-ia, pa-re des-tul de re-zis-ten-tă.",
+      "category": "Clothes",
+      "generated_at": "2026-08-03T10:14:26.341799"
     }
   ],
-  "last_updated": "2026-08-03T01:50:18.521357"
+  "last_updated": "2026-08-03T10:14:26.341800"
 }
