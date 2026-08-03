@@ -7594,7 +7594,42 @@
       "transliteration": "Caută ințelegerea, nu doar răspunsuri.",
       "category": "Wisdom",
       "generated_at": "2026-08-03T14:34:23.063189"
+    },
+    {
+      "english": "Sky, turning grey, promises rain.",
+      "romanian": "Cerul, căpătând gri, promite ploaie.",
+      "transliteration": "Cheh-rool, kah-puh-tuhnd gree, proh-mee-teh ploh-yah.",
+      "category": "Weather",
+      "generated_at": "2026-08-03T16:19:23.419841"
+    },
+    {
+      "english": "A whisper of wind, through the grass.",
+      "romanian": "Un freamăt de vânt, prin iarbă.",
+      "transliteration": "Oon freh-muht deh vuhnt, preen yahr-bah.",
+      "category": "Weather",
+      "generated_at": "2026-08-03T16:19:23.419852"
+    },
+    {
+      "english": "Sunbeams, dancing, on the windowpane.",
+      "romanian": "Raze de soare, jucându-se, pe geam.",
+      "transliteration": "Rah-zeh deh soh-ah-reh, joo-kahn-doo-seh, peh jahm.",
+      "category": "Weather",
+      "generated_at": "2026-08-03T16:19:23.419854"
+    },
+    {
+      "english": "Heavy air, before the storm.",
+      "romanian": "Aer greu, dinaintea furtunii.",
+      "transliteration": "Ah-ehr greh-oo, dee-nah-een-tyah foor-too-nee.",
+      "category": "Weather",
+      "generated_at": "2026-08-03T16:19:23.419856"
+    },
+    {
+      "english": "Dewdrops, clinging, to spiderwebs.",
+      "romanian": "Picături de rouă, agățate, de pânze.",
+      "transliteration": "Pee-kuh-toor deh roh-oo-ah, ah-guh-tah-teh, deh puhn-zeh.",
+      "category": "Weather",
+      "generated_at": "2026-08-03T16:19:23.419857"
     }
   ],
-  "last_updated": "2026-08-03T14:34:23.063190"
+  "last_updated": "2026-08-03T16:19:23.419859"
 }
