@@ -8399,7 +8399,42 @@
       "transliteration": "Vo-cha tah, ysh guh-sesh-teh eh-coo-ool ro-muh-nesk.",
       "category": "Success",
       "generated_at": "2026-08-08T14:27:18.578556"
+    },
+    {
+      "english": "Could, I get, the bill, please?",
+      "romanian": "Pot, să primesc, nota, vă rog?",
+      "transliteration": "Pot, să primesc, nota, vă rog?",
+      "category": "Restaurant",
+      "generated_at": "2026-08-08T17:26:30.213964"
+    },
+    {
+      "english": "This, dish, is divine.",
+      "romanian": "Această, mâncare, e divină.",
+      "transliteration": "Această, mâncare, e divină.",
+      "category": "Restaurant",
+      "generated_at": "2026-08-08T17:26:30.213977"
+    },
+    {
+      "english": "We need, a moment, to decide.",
+      "romanian": "Avem, nevoie, de un moment, să ne gândim.",
+      "transliteration": "Avem, nevoie, de un moment, să ne gândim.",
+      "category": "Restaurant",
+      "generated_at": "2026-08-08T17:26:30.213979"
+    },
+    {
+      "english": "Is, there, a children's menu?",
+      "romanian": "Există, un meniu, pentru copii?",
+      "transliteration": "Există, un meniu, pentru copii?",
+      "category": "Restaurant",
+      "generated_at": "2026-08-08T17:26:30.213980"
+    },
+    {
+      "english": "A table, for four, inside.",
+      "romanian": "O masă, pentru patru, înăuntru.",
+      "transliteration": "O masă, pentru patru, înăuntru.",
+      "category": "Restaurant",
+      "generated_at": "2026-08-08T17:26:30.213981"
     }
   ],
-  "last_updated": "2026-08-08T14:27:18.578558"
+  "last_updated": "2026-08-08T17:26:30.213983"
 }
