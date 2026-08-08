@@ -8434,7 +8434,42 @@
       "transliteration": "O masă, pentru patru, înăuntru.",
       "category": "Restaurant",
       "generated_at": "2026-08-08T17:26:30.213981"
+    },
+    {
+      "english": "Travel far, explore more.",
+      "romanian": "Călătorește mult, explorează mai mult.",
+      "transliteration": "Calatoreste mult, exploreaza mai mult.",
+      "category": "Holidays",
+      "generated_at": "2026-08-08T20:25:20.529998"
+    },
+    {
+      "english": "Sun-kissed shores, await you.",
+      "romanian": "Plaje scăldate-n soare, te așteaptă.",
+      "transliteration": "Plaje scaldate-n soare, te asteapta.",
+      "category": "Holidays",
+      "generated_at": "2026-08-08T20:25:20.530008"
+    },
+    {
+      "english": "Ancient ruins, whisper tales.",
+      "romanian": "Ruine vechi, șoptesc povești.",
+      "transliteration": "Ruine vechi, soptesti povesti.",
+      "category": "Holidays",
+      "generated_at": "2026-08-08T20:25:20.530010"
+    },
+    {
+      "english": "Hidden valleys, peace found.",
+      "romanian": "Văi ascunse, pace găsită.",
+      "transliteration": "Vai ascunse, pace gasita.",
+      "category": "Holidays",
+      "generated_at": "2026-08-08T20:25:20.530011"
+    },
+    {
+      "english": "Taste the adventure, feel alive.",
+      "romanian": "Gustă aventura, simte-te viu.",
+      "transliteration": "Gust-a aventura, simte-te viu.",
+      "category": "Holidays",
+      "generated_at": "2026-08-08T20:25:20.530012"
     }
   ],
-  "last_updated": "2026-08-08T17:26:30.213983"
+  "last_updated": "2026-08-08T20:25:20.530014"
 }
