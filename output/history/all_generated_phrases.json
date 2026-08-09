@@ -8539,7 +8539,42 @@
       "transliteration": "Oh-keh-lah-ree mei, noo vohd bee-neh.",
       "category": "Emergency",
       "generated_at": "2026-08-09T12:44:22.952730"
+    },
+    {
+      "english": "My forehead, it wrinkles, when I concentrate.",
+      "romanian": "Fruntea mea, se încrețește, când mă concentrez.",
+      "transliteration": "Fron-te-a me-a, se în-cre-țeș-te, kând mă kon-tzen-trez.",
+      "category": "Body Parts",
+      "generated_at": "2026-08-09T14:29:53.057761"
+    },
+    {
+      "english": "Your chin, it rests, on your hand.",
+      "romanian": "Bărbia ta, se odihnește, pe mâna ta.",
+      "transliteration": "Băr-bi-a ta, se o-dih-neș-te, pe mâ-na ta.",
+      "category": "Body Parts",
+      "generated_at": "2026-08-09T14:29:53.057771"
+    },
+    {
+      "english": "These eyebrows, arch, in surprise.",
+      "romanian": "Sprâncenele astea, se arcuiesc, de uimire.",
+      "transliteration": "Sprân-tse-ne-le as-te-a, se ar-ku-yesk, de u-mi-re.",
+      "category": "Body Parts",
+      "generated_at": "2026-08-09T14:29:53.057773"
+    },
+    {
+      "english": "My cheek, it blushes, when embarrassed.",
+      "romanian": "Obrajii mei, se înroșesc, când mi-e rușine.",
+      "transliteration": "O-bra-jii mei, se în-ro-șesk, kând mi-e ru-și-ne.",
+      "category": "Body Parts",
+      "generated_at": "2026-08-09T14:29:53.057774"
+    },
+    {
+      "english": "Your lips, they smile, a secret.",
+      "romanian": "Buzele tale, zâmbesc, un secret.",
+      "transliteration": "Bu-ze-le ta-le, zâm-besk, un se-kret.",
+      "category": "Body Parts",
+      "generated_at": "2026-08-09T14:29:53.057775"
     }
   ],
-  "last_updated": "2026-08-09T12:44:22.952732"
+  "last_updated": "2026-08-09T14:29:53.057777"
 }
