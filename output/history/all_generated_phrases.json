@@ -8504,7 +8504,42 @@
       "transliteration": "O înțelegere tacită, între noi.",
       "category": "Friendship",
       "generated_at": "2026-08-09T00:55:17.833178"
+    },
+    {
+      "english": "My keys, they've vanished.",
+      "romanian": "Cheile mele, au dispărut.",
+      "transliteration": "Chei-leh meh-leh, ow dis-pah-root.",
+      "category": "Emergency",
+      "generated_at": "2026-08-09T12:44:22.952715"
+    },
+    {
+      "english": "The door, it's stuck.",
+      "romanian": "Ușa, a rămas blocată.",
+      "transliteration": "Oo-sha, ah rah-mass bloh-kah-tah.",
+      "category": "Emergency",
+      "generated_at": "2026-08-09T12:44:22.952726"
+    },
+    {
+      "english": "I've lost my footing.",
+      "romanian": "Mi-am pierdut echilibrul.",
+      "transliteration": "Mee-am pee-er-doot eh-kee-lee-brool.",
+      "category": "Emergency",
+      "generated_at": "2026-08-09T12:44:22.952727"
+    },
+    {
+      "english": "There's a leak, upstairs.",
+      "romanian": "Curge apă, la etaj.",
+      "transliteration": "Koor-jeh ah-pah, lah eh-tahzh.",
+      "category": "Emergency",
+      "generated_at": "2026-08-09T12:44:22.952729"
+    },
+    {
+      "english": "My glasses, I can't see.",
+      "romanian": "Ochelarii mei, nu văd bine.",
+      "transliteration": "Oh-keh-lah-ree mei, noo vohd bee-neh.",
+      "category": "Emergency",
+      "generated_at": "2026-08-09T12:44:22.952730"
     }
   ],
-  "last_updated": "2026-08-09T00:55:17.833179"
+  "last_updated": "2026-08-09T12:44:22.952732"
 }
