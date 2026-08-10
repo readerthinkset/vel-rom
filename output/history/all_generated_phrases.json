@@ -8714,7 +8714,42 @@
       "transliteration": "KOR-pool shop-TESH-teh, ahs-KOOL-tuh ah-TENT",
       "category": "Balance",
       "generated_at": "2026-08-10T13:01:59.290738"
+    },
+    {
+      "english": "Find your voice, in Romanian.",
+      "romanian": "Găsește-ți vocea, în română.",
+      "transliteration": "Guh-sehsh-teh-tsee vo-cha, uhn ro-muh-nuh.",
+      "category": "Confidence",
+      "generated_at": "2026-08-10T17:50:33.648648"
+    },
+    {
+      "english": "Speak it aloud, with joy.",
+      "romanian": "Spune-o tare, cu bucurie.",
+      "transliteration": "Spoo-neh-oh tah-reh, koo boo-koo-ree-eh.",
+      "category": "Confidence",
+      "generated_at": "2026-08-10T17:50:33.648659"
+    },
+    {
+      "english": "Each word, a small victory.",
+      "romanian": "Fiecare cuvânt, o mică victorie.",
+      "transliteration": "Fee-eh-kah-reh koo-vuhnt, oh mee-kuh veek-toh-ree-eh.",
+      "category": "Confidence",
+      "generated_at": "2026-08-10T17:50:33.648660"
+    },
+    {
+      "english": "Let the sounds, guide you.",
+      "romanian": "Lasă sunetele, să te ghideze.",
+      "transliteration": "Lah-suh soo-neh-teh-leh, suh teh ghee-deh-zeh.",
+      "category": "Confidence",
+      "generated_at": "2026-08-10T17:50:33.648662"
+    },
+    {
+      "english": "You're getting there, steadily.",
+      "romanian": "Te apropii, constant.",
+      "transliteration": "Teh ah-proh-pee-ee, kohn-stahnt.",
+      "category": "Confidence",
+      "generated_at": "2026-08-10T17:50:33.648662"
     }
   ],
-  "last_updated": "2026-08-10T13:01:59.290741"
+  "last_updated": "2026-08-10T17:50:33.648664"
 }
