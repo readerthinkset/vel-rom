@@ -8994,7 +8994,42 @@
       "transliteration": "O no-tă de ştrengă-ri-e, ju-cân-du-se.",
       "category": "Feelings",
       "generated_at": "2026-08-12T01:02:52.671051"
+    },
+    {
+      "english": "The tiny shrew, darts through the leaves.",
+      "romanian": "Chițcanul mic, aleargă printre frunze.",
+      "transliteration": "Kits-kan-ool meek, ah-lehr-gah print-reh froon-zeh.",
+      "category": "Animals",
+      "generated_at": "2026-08-12T13:04:02.134046"
+    },
+    {
+      "english": "A proud peacock, fans its tail feathers.",
+      "romanian": "Un păun mândru, își desface coada.",
+      "transliteration": "Oon pah-oon moond-roo, yeesh deh-sfah-cheh koh-dah.",
+      "category": "Animals",
+      "generated_at": "2026-08-12T13:04:02.134058"
+    },
+    {
+      "english": "The playful otter, slides down the bank.",
+      "romanian": "Vidra jucăușă, alunecă pe mal.",
+      "transliteration": "Vee-drah yoo-kah-oosh-ah, ah-loo-neh-kah peh mal.",
+      "category": "Animals",
+      "generated_at": "2026-08-12T13:04:02.134060"
+    },
+    {
+      "english": "A wise old tortoise, slowly crosses the path.",
+      "romanian": "Broasca țestoasă bătrână, traversează lent.",
+      "transliteration": "Broh-skah ts-teh-soh-ah bah-troo-nah, trah-vehr-sah-zah lent.",
+      "category": "Animals",
+      "generated_at": "2026-08-12T13:04:02.134062"
+    },
+    {
+      "english": "The busy squirrel, hoards its nuts.",
+      "romanian": "Veverița harnică, își ascunde nucile.",
+      "transliteration": "Veh-veh-reet-zah hahr-nee-kah, yeesh ahs-koon-deh noo-chee-leh.",
+      "category": "Animals",
+      "generated_at": "2026-08-12T13:04:02.134063"
     }
   ],
-  "last_updated": "2026-08-12T01:02:52.671053"
+  "last_updated": "2026-08-12T13:04:02.134065"
 }
