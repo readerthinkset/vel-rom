@@ -9414,7 +9414,42 @@
       "transliteration": "La-să Du-nă-rea, să-ți ghi-de-ze vor-be-le.",
       "category": "Education",
       "generated_at": "2026-08-14T17:49:57.855516"
+    },
+    {
+      "english": "My elbow, bumps the table, oops.",
+      "romanian": "Cotul meu, lovește masa, hopa.",
+      "transliteration": "Ko-tul meu, lo-veș-te ma-sa, ho-pa.",
+      "category": "Body Parts",
+      "generated_at": "2026-08-14T20:27:43.134603"
+    },
+    {
+      "english": "Your knee, bends, for a bow.",
+      "romanian": "Genunchiul tău, se-ndoaie, pentru o plecăciune.",
+      "transliteration": "Ge-nun-chiul tău, se-n-doa-ie, pen-tru o ple-că-ciu-ne.",
+      "category": "Body Parts",
+      "generated_at": "2026-08-14T20:27:43.134612"
+    },
+    {
+      "english": "These fingers, tap, a rhythm.",
+      "romanian": "Degetele astea, bat, un ritm.",
+      "transliteration": "De-ge-te-le as-tea, bat, un ritm.",
+      "category": "Body Parts",
+      "generated_at": "2026-08-14T20:27:43.134614"
+    },
+    {
+      "english": "My wrist, twists, the jar lid.",
+      "romanian": "Încheietura mea, răsucește, capacul borcanului.",
+      "transliteration": "În-che-ie-tu-ra mea, ră-su-ceș-te, ca-pa-cul bor-ca-nu-lui.",
+      "category": "Body Parts",
+      "generated_at": "2026-08-14T20:27:43.134615"
+    },
+    {
+      "english": "Your ankle, sprains, when running.",
+      "romanian": "Glezna ta, se-ntinde, la alergare.",
+      "transliteration": "Glez-na ta, se-n-tin-de, la a-le-ga-re.",
+      "category": "Body Parts",
+      "generated_at": "2026-08-14T20:27:43.134616"
     }
   ],
-  "last_updated": "2026-08-14T17:49:57.855518"
+  "last_updated": "2026-08-14T20:27:43.134618"
 }
