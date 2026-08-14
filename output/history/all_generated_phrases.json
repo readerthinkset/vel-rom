@@ -9309,7 +9309,42 @@
       "transliteration": "Goos-tuh frook-teh-leh deh pah-doo-reh, suh-roo-tah-teh deh soh-ah-reh.",
       "category": "Culture",
       "generated_at": "2026-08-14T01:03:41.922641"
+    },
+    {
+      "english": "A sun-kissed tomato, plump and red.",
+      "romanian": "O roșie coaptă, plină și roșie.",
+      "transliteration": "O ro-shee-eh koap-tuh, plee-nuh shee ro-shee-eh.",
+      "category": "Food",
+      "generated_at": "2026-08-14T13:01:08.731646"
+    },
+    {
+      "english": "Crunchy carrots, for good eyesight.",
+      "romanian": "Morcovi crocanți, pentru vedere bună.",
+      "transliteration": "Mor-kov-ee kro-kants, pen-troo veh-deh-reh boo-nuh.",
+      "category": "Food",
+      "generated_at": "2026-08-14T13:01:08.731654"
+    },
+    {
+      "english": "Creamy avocado, smooth and green.",
+      "romanian": "Avocado cremos, fin și verde.",
+      "transliteration": "A-vo-ka-do kre-mos, feen shee ver-deh.",
+      "category": "Food",
+      "generated_at": "2026-08-14T13:01:08.731656"
+    },
+    {
+      "english": "This juicy melon, so refreshing.",
+      "romanian": "Acest pepene zemos, atât de răcoritor.",
+      "transliteration": "A-chest pe-pe-neh ze-mos, a-tud de ruh-ko-ree-tor.",
+      "category": "Food",
+      "generated_at": "2026-08-14T13:01:08.731657"
+    },
+    {
+      "english": "Fluffy pancakes, drizzled with syrup.",
+      "romanian": "Clătite pufoase, stropite cu sirop.",
+      "transliteration": "Klah-tee-teh poo-fo-ah-seh, stro-pee-teh koo see-rop.",
+      "category": "Food",
+      "generated_at": "2026-08-14T13:01:08.731658"
     }
   ],
-  "last_updated": "2026-08-14T01:03:41.922644"
+  "last_updated": "2026-08-14T13:01:08.731660"
 }
