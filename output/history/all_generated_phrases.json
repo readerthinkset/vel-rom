@@ -9554,7 +9554,42 @@
       "transliteration": "Re-zis-ten-tsa ta, o ruh-duh-chee-nuh pu-ter-ni-kuh.",
       "category": "Strength",
       "generated_at": "2026-08-15T14:17:02.499321"
+    },
+    {
+      "english": "Forest whispers, secrets untold.",
+      "romanian": "Pădurea șoptește, secrete nevăzute.",
+      "transliteration": "Pah-doo-reh-ah shoh-pteh-shteht, seh-kreh-teh neh-veh-zoo-teh.",
+      "category": "Nature",
+      "generated_at": "2026-08-15T17:18:25.895645"
+    },
+    {
+      "english": "River bends, a silver ribbon.",
+      "romanian": "Râul se curbează, panglică argintie.",
+      "transliteration": "Ruh-ul seh koor-bah-zah, pahn-glee-kah ar-jeen-tee-eh.",
+      "category": "Nature",
+      "generated_at": "2026-08-15T17:18:25.895654"
+    },
+    {
+      "english": "Stars ignite, the velvet night.",
+      "romanian": "Stelele ard, cerul de catifea.",
+      "transliteration": "Steh-leh-leh ard, cheh-rul deh kah-tee-feh-ah.",
+      "category": "Nature",
+      "generated_at": "2026-08-15T17:18:25.895656"
+    },
+    {
+      "english": "Moss grows, on ancient stone.",
+      "romanian": "Mușchiul crește, pe piatră veche.",
+      "transliteration": "Moosh-koo-l kreh-shteht, peh pyah-truh veh-cheh.",
+      "category": "Nature",
+      "generated_at": "2026-08-15T17:18:25.895657"
+    },
+    {
+      "english": "Clouds drift, like painted ships.",
+      "romanian": "Norii plutesc, nave pictate.",
+      "transliteration": "Noh-ree ploo-tesk, nah-veh peek-tah-teh.",
+      "category": "Nature",
+      "generated_at": "2026-08-15T17:18:25.895658"
     }
   ],
-  "last_updated": "2026-08-15T14:17:02.499323"
+  "last_updated": "2026-08-15T17:18:25.895660"
 }
