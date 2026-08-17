@@ -9904,7 +9904,42 @@
       "transliteration": "Preh-zen-tsah seh ah-duhn-cheshteh, zee deh zee.",
       "category": "Inner Peace",
       "generated_at": "2026-08-17T14:21:52.459449"
+    },
+    {
+      "english": "Dream big, aim high.",
+      "romanian": "Visează mare, țintește sus.",
+      "transliteration": "Vi-ze-ază ma-re, țin-teș-te sus.",
+      "category": "Common Expressions",
+      "generated_at": "2026-08-17T20:22:35.579922"
+    },
+    {
+      "english": "Just breathe, in deeply.",
+      "romanian": "Respiră doar, adânc.",
+      "transliteration": "Res-pi-ră doar, a-dânc.",
+      "category": "Common Expressions",
+      "generated_at": "2026-08-17T20:22:35.579933"
+    },
+    {
+      "english": "Slow down, a little.",
+      "romanian": "Încetinește, puțin.",
+      "transliteration": "Înc-e-ti-neș-te, pu-țin.",
+      "category": "Common Expressions",
+      "generated_at": "2026-08-17T20:22:35.579935"
+    },
+    {
+      "english": "Everything's fine, really.",
+      "romanian": "Totul e bine, chiar.",
+      "transliteration": "To-tul e bi-ne, chiar.",
+      "category": "Common Expressions",
+      "generated_at": "2026-08-17T20:22:35.579936"
+    },
+    {
+      "english": "This is, quite good.",
+      "romanian": "Acesta e, destul de bun.",
+      "transliteration": "A-ces-ta e, des-tul de bun.",
+      "category": "Common Expressions",
+      "generated_at": "2026-08-17T20:22:35.579937"
     }
   ],
-  "last_updated": "2026-08-17T14:21:52.459451"
+  "last_updated": "2026-08-17T20:22:35.579939"
 }
