@@ -9974,7 +9974,42 @@
       "transliteration": "Fachi bi-ne-le, și mai bun.",
       "category": "Friendship",
       "generated_at": "2026-08-18T00:39:02.562576"
+    },
+    {
+      "english": "I've misplaced, my travel documents.",
+      "romanian": "Am rătăcit, actele mele de călătorie.",
+      "transliteration": "Am rătăcit, actele mele de călătorie.",
+      "category": "Emergency",
+      "generated_at": "2026-08-18T12:40:12.401769"
+    },
+    {
+      "english": "This area, is it safe?",
+      "romanian": "Această zonă, este sigură?",
+      "transliteration": "Această zonă, este sigură?",
+      "category": "Emergency",
+      "generated_at": "2026-08-18T12:40:12.401779"
+    },
+    {
+      "english": "My medication, it's finished.",
+      "romanian": "Medicamentele mele, s-au terminat.",
+      "transliteration": "Medicamentele mele, s-au terminat.",
+      "category": "Emergency",
+      "generated_at": "2026-08-18T12:40:12.401781"
+    },
+    {
+      "english": "I've had an accident, with my car.",
+      "romanian": "Am avut un accident, cu mașina.",
+      "transliteration": "Am avut un accident, cu mașina.",
+      "category": "Emergency",
+      "generated_at": "2026-08-18T12:40:12.401782"
+    },
+    {
+      "english": "Please, verify my identity.",
+      "romanian": "Vă rog, verificați-mi identitatea.",
+      "transliteration": "Vă rog, verificați-mi identitatea.",
+      "category": "Emergency",
+      "generated_at": "2026-08-18T12:40:12.401783"
     }
   ],
-  "last_updated": "2026-08-18T00:39:02.562578"
+  "last_updated": "2026-08-18T12:40:12.401785"
 }
