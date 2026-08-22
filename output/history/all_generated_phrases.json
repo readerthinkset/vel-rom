@@ -10604,7 +10604,42 @@
       "transliteration": "A-RO-ma AS-ta, e mi-nu-NA-ta.",
       "category": "Restaurant",
       "generated_at": "2026-08-21T20:22:06.577284"
+    },
+    {
+      "english": "This second, let's listen.",
+      "romanian": "Acest secunda, hai sa ascultam.",
+      "transliteration": "Ah-chest seh-KOON-dah, hai sah ahs-KOOL-taam.",
+      "category": "Time",
+      "generated_at": "2026-08-22T00:38:00.510370"
+    },
+    {
+      "english": "The hour approaches, slowly.",
+      "romanian": "Ora se apropie, incet.",
+      "transliteration": "OH-rah seh ah-PROH-pee-yeh, een-CHET.",
+      "category": "Time",
+      "generated_at": "2026-08-22T00:38:00.510381"
+    },
+    {
+      "english": "A short while, for thinking.",
+      "romanian": "Putina vreme, pentru gandit.",
+      "transliteration": "Poo-TZEE-nah VREH-meh, pehn-troo gahn-DEET.",
+      "category": "Time",
+      "generated_at": "2026-08-22T00:38:00.510383"
+    },
+    {
+      "english": "Always, be patient.",
+      "romanian": "Mereu, fii rabdator.",
+      "transliteration": "Meh-REH-oo, fee rahb-dah-TOR.",
+      "category": "Time",
+      "generated_at": "2026-08-22T00:38:00.510384"
+    },
+    {
+      "english": "Life moves, quickly.",
+      "romanian": "Viata trece, repede.",
+      "transliteration": "VEE-aht-sah TREH-cheh, reh-PEH-deh.",
+      "category": "Time",
+      "generated_at": "2026-08-22T00:38:00.510385"
     }
   ],
-  "last_updated": "2026-08-21T20:22:06.577287"
+  "last_updated": "2026-08-22T00:38:00.510387"
 }
