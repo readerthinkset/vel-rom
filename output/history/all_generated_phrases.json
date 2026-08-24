@@ -10954,7 +10954,42 @@
       "transliteration": "Fee-eh kah droom-ool tow, sə fee-eh lee-moo-nos.",
       "category": "Greetings",
       "generated_at": "2026-08-24T12:43:58.425726"
+    },
+    {
+      "english": "My brow, it furrows, in thought.",
+      "romanian": "Fruntea mea, se încruntă, gândind.",
+      "transliteration": "Fron-te-a me-a, se în-crûn-tă, gân-dind.",
+      "category": "Body Parts",
+      "generated_at": "2026-08-24T14:36:33.586446"
+    },
+    {
+      "english": "Your jaw, it clenches, with effort.",
+      "romanian": "Maxilarul tău, se strânge, cu efort.",
+      "transliteration": "Max-i-la-rul tău, se strân-ge, cu e-fort.",
+      "category": "Body Parts",
+      "generated_at": "2026-08-24T14:36:33.586457"
+    },
+    {
+      "english": "This neck, it cranes, to see.",
+      "romanian": "Gâtul acesta, se arcuiește, privind.",
+      "transliteration": "Gâ-tul a-ces-ta, se ar-cu-ieș-te, pri-vind.",
+      "category": "Body Parts",
+      "generated_at": "2026-08-24T14:36:33.586459"
+    },
+    {
+      "english": "My shoulder blade, it aches, slightly.",
+      "romanian": "Omoplatul meu, doare, puțin.",
+      "transliteration": "O-mo-pla-tul meu, do-a-re, pu-țin.",
+      "category": "Body Parts",
+      "generated_at": "2026-08-24T14:36:33.586461"
+    },
+    {
+      "english": "Your sternum, it guards, the core.",
+      "romanian": "Sternul tău, păzește, inima.",
+      "transliteration": "Ster-nul tău, pă-zeș-te, in-i-ma.",
+      "category": "Body Parts",
+      "generated_at": "2026-08-24T14:36:33.586462"
     }
   ],
-  "last_updated": "2026-08-24T12:43:58.425727"
+  "last_updated": "2026-08-24T14:36:33.586464"
 }
