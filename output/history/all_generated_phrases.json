@@ -10989,7 +10989,42 @@
       "transliteration": "Ster-nul tău, pă-zeș-te, in-i-ma.",
       "category": "Body Parts",
       "generated_at": "2026-08-24T14:36:33.586462"
+    },
+    {
+      "english": "This fragrant tea, so soothing.",
+      "romanian": "Acest ceai parfumat, atât de liniștitor.",
+      "transliteration": "Ah-cest chai par-foo-mat, sot-ee deh lee-neesh-to-reer.",
+      "category": "Food",
+      "generated_at": "2026-08-24T17:28:09.343131"
+    },
+    {
+      "english": "A crisp pear, a sweet bite.",
+      "romanian": "O pară crocantă, o mușcătură dulce.",
+      "transliteration": "Oh pa-ra kro-kan-tuh, oh moosh-kuh-too-ruh dool-cheh.",
+      "category": "Food",
+      "generated_at": "2026-08-24T17:28:09.343140"
+    },
+    {
+      "english": "Rich dark chocolate, melts slowly.",
+      "romanian": "Ciocolată neagră, bogată, se topește încet.",
+      "transliteration": "Chok-o-la-tuh ne-gra, bo-gha-tuh, seh to-peesh-teh in-chet.",
+      "category": "Food",
+      "generated_at": "2026-08-24T17:28:09.343142"
+    },
+    {
+      "english": "Our own garden herbs, so fresh.",
+      "romanian": "Ierburile noastre de grădină, atât de proaspete.",
+      "transliteration": "Yer-boo-ree-leh no-streh deh gra-dee-nuh, ah-tut deh pro-speh-teh.",
+      "category": "Food",
+      "generated_at": "2026-08-24T17:28:09.343143"
+    },
+    {
+      "english": "This warm soup, a comfort.",
+      "romanian": "Această supă caldă, o mângâiere.",
+      "transliteration": "Ah-ches-tuh soo-puh kahl-duh, oh mun-guh-yeh-reh.",
+      "category": "Food",
+      "generated_at": "2026-08-24T17:28:09.343144"
     }
   ],
-  "last_updated": "2026-08-24T14:36:33.586464"
+  "last_updated": "2026-08-24T17:28:09.343145"
 }
