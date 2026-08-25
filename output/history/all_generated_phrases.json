@@ -11094,7 +11094,42 @@
       "transliteration": "Tah-stah-too-ra bah-teh, ee-deh-eh-leh seh kon-too-rah-zah-zuh.",
       "category": "Technology",
       "generated_at": "2026-08-25T00:39:14.066791"
+    },
+    {
+      "english": "Leaves dance, on the wind.",
+      "romanian": "Frunzele dansează, în vânt.",
+      "transliteration": "FRUN-zeh leh dan-ZEH-sah, in VINT.",
+      "category": "Nature",
+      "generated_at": "2026-08-25T12:42:49.659018"
+    },
+    {
+      "english": "Raindrops patter, on the roof.",
+      "romanian": "Picăturile cad, pe acoperiș.",
+      "transliteration": "Pi-kuh-TOO-reh-leh KAD, peh a-koh-peh-REESH.",
+      "category": "Nature",
+      "generated_at": "2026-08-25T12:42:49.659027"
+    },
+    {
+      "english": "A quiet stream, babbles softly.",
+      "romanian": "Un pârâu liniștit, bolborosește blând.",
+      "transliteration": "OON puh-ROO lee-neesh-TEET, bol-boh-roh-SHESHTEH BLUND.",
+      "category": "Nature",
+      "generated_at": "2026-08-25T12:42:49.659028"
+    },
+    {
+      "english": "Deep woods, hold ancient roots.",
+      "romanian": "Păduri adânci, au rădăcini vechi.",
+      "transliteration": "Puh-DOOR-ee ah-DUNK, ow ruh-duh-CHEEN VEH-kee.",
+      "category": "Nature",
+      "generated_at": "2026-08-25T12:42:49.659030"
+    },
+    {
+      "english": "The moon, a silent watcher.",
+      "romanian": "Luna, o veghe tăcută.",
+      "transliteration": "LOO-nah, oh VEH-heh tuh-KOO-tuh.",
+      "category": "Nature",
+      "generated_at": "2026-08-25T12:42:49.659031"
     }
   ],
-  "last_updated": "2026-08-25T00:39:14.066793"
+  "last_updated": "2026-08-25T12:42:49.659033"
 }
