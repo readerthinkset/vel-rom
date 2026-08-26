@@ -11269,7 +11269,42 @@
       "transliteration": "Îm-bră-ți-șea-ză schim-ba-rea, cu de-schi-de-re.",
       "category": "Strength",
       "generated_at": "2026-08-26T00:39:53.180070"
+    },
+    {
+      "english": "Sky, painted with sunset hues.",
+      "romanian": "Cer, pictat cu nuanțe de apus.",
+      "transliteration": "Tser, peektat koo noon-ahntse deh ah-poos.",
+      "category": "Weather",
+      "generated_at": "2026-08-26T12:46:36.639800"
+    },
+    {
+      "english": "Air, carrying scent of rain.",
+      "romanian": "Aer, purtând miros de ploaie.",
+      "transliteration": "Aer, poor-toond mee-ros deh ploa-yeh.",
+      "category": "Weather",
+      "generated_at": "2026-08-26T12:46:36.639808"
+    },
+    {
+      "english": "Light drizzle, whispers on leaves.",
+      "romanian": "Burniță ușoară, șoptește pe frunze.",
+      "transliteration": "Boor-nee-tsa oo-shwa-ra, shop-tesh-teh peh froon-zeh.",
+      "category": "Weather",
+      "generated_at": "2026-08-26T12:46:36.639809"
+    },
+    {
+      "english": "Wind, rustling through tall grass.",
+      "romanian": "Vânt, foșnind prin iarbă înaltă.",
+      "transliteration": "Vuhnt, fosh-neend preen yar-ba uhn-al-ta.",
+      "category": "Weather",
+      "generated_at": "2026-08-26T12:46:36.639811"
+    },
+    {
+      "english": "Sun, peeking through the clouds.",
+      "romanian": "Soare, arătându-se printre nori.",
+      "transliteration": "Soa-reh, ah-ruh-toond-soo preen-treh nori.",
+      "category": "Weather",
+      "generated_at": "2026-08-26T12:46:36.639812"
     }
   ],
-  "last_updated": "2026-08-26T00:39:53.180072"
+  "last_updated": "2026-08-26T12:46:36.639814"
 }
