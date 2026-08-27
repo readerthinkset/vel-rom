@@ -11444,7 +11444,42 @@
       "transliteration": "As-kool-tah ah-tent, ab-sor-beh tot.",
       "category": "Perseverance",
       "generated_at": "2026-08-27T05:42:02.906407"
+    },
+    {
+      "english": "A single candle, lit the room.",
+      "romanian": "O singură lumânare, a luminat camera.",
+      "transliteration": "O singurə lumânarə, a luminat camera.",
+      "category": "Numbers",
+      "generated_at": "2026-08-27T21:51:41.202775"
+    },
+    {
+      "english": "Two paths diverged, in the wood.",
+      "romanian": "Două cărări se despărțeau, în pădure.",
+      "transliteration": "Douə kərari sə despərtsaw, în pădurə.",
+      "category": "Numbers",
+      "generated_at": "2026-08-27T21:51:41.202786"
+    },
+    {
+      "english": "Three cheers, for victory!",
+      "romanian": "Trei urale, pentru victorie!",
+      "transliteration": "Trei urale, pentru viktoriə!",
+      "category": "Numbers",
+      "generated_at": "2026-08-27T21:51:41.202788"
+    },
+    {
+      "english": "Four walls, held the secret.",
+      "romanian": "Patru pereți, au păstrat secretul.",
+      "transliteration": "Patru pereți, aw păstrat sekretul.",
+      "category": "Numbers",
+      "generated_at": "2026-08-27T21:51:41.202789"
+    },
+    {
+      "english": "Five senses, guide us daily.",
+      "romanian": "Cinci simțuri, ne ghidează zilnic.",
+      "transliteration": "Tshin simtsuri, nə ghidəza zilnik.",
+      "category": "Numbers",
+      "generated_at": "2026-08-27T21:51:41.202791"
     }
   ],
-  "last_updated": "2026-08-27T05:42:02.906408"
+  "last_updated": "2026-08-27T21:51:41.202793"
 }
