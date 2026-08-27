@@ -11479,7 +11479,42 @@
       "transliteration": "Tshin simtsuri, nə ghidəza zilnik.",
       "category": "Numbers",
       "generated_at": "2026-08-27T21:51:41.202791"
+    },
+    {
+      "english": "What's the tastiest, local dish?",
+      "romanian": "Care e, cea mai gustoasă, mâncare locală?",
+      "transliteration": "Kah-reh, tchey mah-ee goo-stoh-ah-suh, mehn-kah-reh loh-kah-luh?",
+      "category": "Restaurant",
+      "generated_at": "2026-08-27T23:30:11.630990"
+    },
+    {
+      "english": "We'd love, a recommendation, please.",
+      "romanian": "Am dori, o sugestie, vă rog.",
+      "transliteration": "Ahm doh-ree, oh soo-jhes-tee-eh, voh rog.",
+      "category": "Restaurant",
+      "generated_at": "2026-08-27T23:30:11.631000"
+    },
+    {
+      "english": "Is this, very rich, in flavor?",
+      "romanian": "Este, foarte bogat, în gust?",
+      "transliteration": "Es-teh, fwar-teh boh-gaht, in goost?",
+      "category": "Restaurant",
+      "generated_at": "2026-08-27T23:30:11.631001"
+    },
+    {
+      "english": "Could we, try that, starter?",
+      "romanian": "Am putea, încerca, aperitivul acela?",
+      "transliteration": "Ahm poo-teh-ah, een-cher-kah, ah-peh-ree-teev-ool ah-tche-lah?",
+      "category": "Restaurant",
+      "generated_at": "2026-08-27T23:30:11.631003"
+    },
+    {
+      "english": "Just a moment, to look.",
+      "romanian": "Doar o clipă, să ne uităm.",
+      "transliteration": "Dwar oh klee-puh, suh neh oo-ee-tahm.",
+      "category": "Restaurant",
+      "generated_at": "2026-08-27T23:30:11.631004"
     }
   ],
-  "last_updated": "2026-08-27T21:51:41.202793"
+  "last_updated": "2026-08-27T23:30:11.631006"
 }
