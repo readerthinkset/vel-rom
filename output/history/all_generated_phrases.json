@@ -11619,7 +11619,42 @@
       "transliteration": "Neh poh-tree-veem, kah pee-eh-seh-leh.",
       "category": "Relationships",
       "generated_at": "2026-08-28T07:50:30.947690"
+    },
+    {
+      "english": "Sound it out, gently.",
+      "romanian": "Sună-l, ușor.",
+      "transliteration": "Su-nuh-l, u-shor.",
+      "category": "Directions",
+      "generated_at": "2026-08-28T21:43:21.342318"
+    },
+    {
+      "english": "Trace the letters, with your mind.",
+      "romanian": "Desenează literele, în minte.",
+      "transliteration": "De-se-ne-a-za le-te-re-le, în min-te.",
+      "category": "Directions",
+      "generated_at": "2026-08-28T21:43:21.342329"
+    },
+    {
+      "english": "Feel the vibration, inside.",
+      "romanian": "Simte vibrația, pe dinăuntru.",
+      "transliteration": "Sim-te vib-ra-ți-a, pe di-nă-un-tru.",
+      "category": "Directions",
+      "generated_at": "2026-08-28T21:43:21.342331"
+    },
+    {
+      "english": "Let the air, move.",
+      "romanian": "Lasă aerul, să se miște.",
+      "transliteration": "La-să a-e-rul, să se miș-te.",
+      "category": "Directions",
+      "generated_at": "2026-08-28T21:43:21.342332"
+    },
+    {
+      "english": "Echo this sound, softly.",
+      "romanian": "Rezumă acest sunet, blând.",
+      "transliteration": "Re-zu-mă a-cest su-net, blând.",
+      "category": "Directions",
+      "generated_at": "2026-08-28T21:43:21.342334"
     }
   ],
-  "last_updated": "2026-08-28T07:50:30.947692"
+  "last_updated": "2026-08-28T21:43:21.342335"
 }
