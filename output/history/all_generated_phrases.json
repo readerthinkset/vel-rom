@@ -11689,7 +11689,42 @@
       "transliteration": "Un cu-vânt, a-poi al-tul, clă-deș-te ști-in-ță.",
       "category": "Patience",
       "generated_at": "2026-08-28T23:22:31.690945"
+    },
+    {
+      "english": "Something's wrong, here.",
+      "romanian": "Ceva, nu e în regulă, aici.",
+      "transliteration": "Tse-va, nu ye uhn reg-oo-la, a-yeetch.",
+      "category": "Emergency",
+      "generated_at": "2026-08-29T00:51:50.033717"
+    },
+    {
+      "english": "I need, immediate, attention.",
+      "romanian": "Am nevoie, de atenție, imediată.",
+      "transliteration": "Ahm nev-oy-eh, deh ah-ten-tsee-eh, ee-meh-dee-aht.",
+      "category": "Emergency",
+      "generated_at": "2026-08-29T00:51:50.033729"
+    },
+    {
+      "english": "There's a, medical, issue.",
+      "romanian": "Este o, problemă, medicală.",
+      "transliteration": "Yes-teh oh, pro-ble-mah, meh-dee-kah-lah.",
+      "category": "Emergency",
+      "generated_at": "2026-08-29T00:51:50.033731"
+    },
+    {
+      "english": "My belongings, are missing.",
+      "romanian": "Lucrurile, mele, lipsesc.",
+      "transliteration": "Loo-kroo-reel-eh, meh-leh, leep-esk.",
+      "category": "Emergency",
+      "generated_at": "2026-08-29T00:51:50.033733"
+    },
+    {
+      "english": "I feel faint, very soon.",
+      "romanian": "Mă simt, amețit, curând.",
+      "transliteration": "Mah simt, ah-meh-tseet, koo-ruhn.",
+      "category": "Emergency",
+      "generated_at": "2026-08-29T00:51:50.033734"
     }
   ],
-  "last_updated": "2026-08-28T23:22:31.690946"
+  "last_updated": "2026-08-29T00:51:50.033735"
 }
