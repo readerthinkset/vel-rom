@@ -11759,7 +11759,42 @@
       "transliteration": "Lee-neesh-tyah ahs-tuh, eh deh ow-oor.",
       "category": "Travel",
       "generated_at": "2026-08-29T02:40:55.029470"
+    },
+    {
+      "english": "Ah, I see, really.",
+      "romanian": "Aaa, înțeleg, pe bune.",
+      "transliteration": "Aaa, in-tse-leg, pe bu-ne.",
+      "category": "Common Expressions",
+      "generated_at": "2026-08-29T04:45:01.518858"
+    },
+    {
+      "english": "So that's it, then.",
+      "romanian": "Deci, asta e, gata.",
+      "transliteration": "De-tsi, as-ta e, ga-ta.",
+      "category": "Common Expressions",
+      "generated_at": "2026-08-29T04:45:01.518865"
+    },
+    {
+      "english": "Just a thought, perhaps.",
+      "romanian": "Doar o idee, poate.",
+      "transliteration": "Doar o i-dee, po-a-te.",
+      "category": "Common Expressions",
+      "generated_at": "2026-08-29T04:45:01.518867"
+    },
+    {
+      "english": "Well, this is new.",
+      "romanian": "Ei bine, asta-i nou.",
+      "transliteration": "Ei bi-ne, as-ta-i nou.",
+      "category": "Common Expressions",
+      "generated_at": "2026-08-29T04:45:01.518868"
+    },
+    {
+      "english": "It's quite lively, yes.",
+      "romanian": "E destul de viu, da.",
+      "transliteration": "E des-tul de viu, da.",
+      "category": "Common Expressions",
+      "generated_at": "2026-08-29T04:45:01.518870"
     }
   ],
-  "last_updated": "2026-08-29T02:40:55.029472"
+  "last_updated": "2026-08-29T04:45:01.518871"
 }
