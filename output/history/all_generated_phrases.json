@@ -12214,7 +12214,42 @@
       "transliteration": "Sohr-besh-teh eh-sen-tsah, poh-vesh-tee-lohr loh-kah-leh.",
       "category": "Purpose",
       "generated_at": "2026-08-31T21:44:14.275429"
+    },
+    {
+      "english": "My teeth, they chew food.",
+      "romanian": "Dinții mei, ei mestecă hrana.",
+      "transliteration": "DEEN-tsee MAY, ay MES-tekuh HRAH-nah.",
+      "category": "Body Parts",
+      "generated_at": "2026-08-31T23:36:40.565642"
+    },
+    {
+      "english": "Your hair, it flows, gently.",
+      "romanian": "Părul tău, el curge, lin.",
+      "transliteration": "PUH-rool TOW, el KOOR-jeh, leen.",
+      "category": "Body Parts",
+      "generated_at": "2026-08-31T23:36:40.565653"
+    },
+    {
+      "english": "These lips, they form words.",
+      "romanian": "Buzele acestea, ele spun vorbe.",
+      "transliteration": "BOO-zeh-leh esh-TEEYAH, EH-leh SPOON VOR-beh.",
+      "category": "Body Parts",
+      "generated_at": "2026-08-31T23:36:40.565654"
+    },
+    {
+      "english": "My stomach, it rumbles, softly.",
+      "romanian": "Stomacul meu, el mormăie, încet.",
+      "transliteration": "Sto-MAH-kool MAY-oo, el MOR-muh-yeh, en-CHET.",
+      "category": "Body Parts",
+      "generated_at": "2026-08-31T23:36:40.565656"
+    },
+    {
+      "english": "Your back, it supports weight.",
+      "romanian": "Spatele tău, el susține greutatea.",
+      "transliteration": "SPAH-teh-leh TOW, el soo-STEE-neh greh-oo-TAH-tyah.",
+      "category": "Body Parts",
+      "generated_at": "2026-08-31T23:36:40.565657"
     }
   ],
-  "last_updated": "2026-08-31T21:44:14.275431"
+  "last_updated": "2026-08-31T23:36:40.565659"
 }
