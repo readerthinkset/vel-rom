@@ -12144,7 +12144,42 @@
       "transliteration": "Amintírile, nóastre, sunt prețioáse.",
       "category": "Friendship",
       "generated_at": "2026-08-31T02:15:58.093864"
+    },
+    {
+      "english": "This tunic, has a unique weave.",
+      "romanian": "Tunica asta, are o țesătură aparte.",
+      "transliteration": "Too-nee-kah ahs-tah, ah-reh oh tseh-sah-too-rah ah-par-teh.",
+      "category": "Clothes",
+      "generated_at": "2026-08-31T19:48:37.214148"
+    },
+    {
+      "english": "My overalls, are quite practical.",
+      "romanian": "Salopeta mea, e destul de practică.",
+      "transliteration": "Sah-loh-peh-tah meh-ah, eh des-tool deh prac-tee-kah.",
+      "category": "Clothes",
+      "generated_at": "2026-08-31T19:48:37.214161"
+    },
+    {
+      "english": "Her sundress, is perfect for summer.",
+      "romanian": "Rochia ei de vară, e ideală pentru vară.",
+      "transliteration": "Roh-kee-ah aye deh vah-rah, eh ee-deh-ah-lah pen-troo vah-rah.",
+      "category": "Clothes",
+      "generated_at": "2026-08-31T19:48:37.214163"
+    },
+    {
+      "english": "These leggings, hug my legs.",
+      "romanian": "Colanții aceștia, îmi strâng picioarele.",
+      "transliteration": "Koh-lan-tsee ah-chesh-teeah, eem streng peet-choh-ah-reh-leh.",
+      "category": "Clothes",
+      "generated_at": "2026-08-31T19:48:37.214165"
+    },
+    {
+      "english": "Your vest, adds a touch of style.",
+      "romanian": "Vesta ta, adaugă un strop de stil.",
+      "transliteration": "Ves-tah tah, ah-dah-oo-gah oon strop deh steel.",
+      "category": "Clothes",
+      "generated_at": "2026-08-31T19:48:37.214166"
     }
   ],
-  "last_updated": "2026-08-31T02:15:58.093866"
+  "last_updated": "2026-08-31T19:48:37.214168"
 }
