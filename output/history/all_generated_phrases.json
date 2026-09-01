@@ -12249,7 +12249,42 @@
       "transliteration": "SPAH-teh-leh TOW, el soo-STEE-neh greh-oo-TAH-tyah.",
       "category": "Body Parts",
       "generated_at": "2026-08-31T23:36:40.565657"
+    },
+    {
+      "english": "The little mouse, squeaks softly.",
+      "romanian": "Șoricelul mic, scârțâie ușor.",
+      "transliteration": "Sho-ri-chel-ul meek, scurt-se-e oo-shor.",
+      "category": "Animals",
+      "generated_at": "2026-09-01T16:04:53.252624"
+    },
+    {
+      "english": "A proud eagle, soars high.",
+      "romanian": "Un vultur mândru, plutește sus.",
+      "transliteration": "Oon vool-tur moon-droo, ploo-teesh-te soos.",
+      "category": "Animals",
+      "generated_at": "2026-09-01T16:04:53.252632"
+    },
+    {
+      "english": "The clever fox, hides its tail.",
+      "romanian": "Vulpea isteață, își ascunde coada.",
+      "transliteration": "Vool-pea ees-tya-tsa, eesh as-koon-de koa-da.",
+      "category": "Animals",
+      "generated_at": "2026-09-01T16:04:53.252634"
+    },
+    {
+      "english": "A shy deer, watches from afar.",
+      "romanian": "O căprioară timidă, privește de departe.",
+      "transliteration": "O ka-pri-o-a-ra tee-mee-da, pree-vesh-te de de-par-te.",
+      "category": "Animals",
+      "generated_at": "2026-09-01T16:04:53.252635"
+    },
+    {
+      "english": "The playful dolphin, leaps joyfully.",
+      "romanian": "Delfinul jucăuș, sare bucuros.",
+      "transliteration": "Del-fee-nool joo-ka-oosh, sa-re boo-koo-ros.",
+      "category": "Animals",
+      "generated_at": "2026-09-01T16:04:53.252636"
     }
   ],
-  "last_updated": "2026-08-31T23:36:40.565659"
+  "last_updated": "2026-09-01T16:04:53.252638"
 }
