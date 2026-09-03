@@ -12669,7 +12669,42 @@
       "transliteration": "Pana unui păun, turcoaz irizat.",
       "category": "Colors",
       "generated_at": "2026-09-03T19:37:42.910157"
+    },
+    {
+      "english": "Right now, let's focus.",
+      "romanian": "Chiar acum, să ne concentrăm.",
+      "transliteration": "Chiar ak-oom, săh neh kon-chen-trum.",
+      "category": "Time",
+      "generated_at": "2026-09-03T22:15:13.858048"
+    },
+    {
+      "english": "A little later, perhaps.",
+      "romanian": "Puțin mai târziu, poate.",
+      "transliteration": "Poo-tsin mai târ-zee-oo, poh-teh.",
+      "category": "Time",
+      "generated_at": "2026-09-03T22:15:13.858060"
+    },
+    {
+      "english": "The time nears, we wait.",
+      "romanian": "Timpul se apropie, așteptăm.",
+      "transliteration": "Tim-pool seh ah-proh-pee-eh, ahsh-tehp-tum.",
+      "category": "Time",
+      "generated_at": "2026-09-03T22:15:13.858062"
+    },
+    {
+      "english": "This day, we achieve.",
+      "romanian": "Această zi, realizăm.",
+      "transliteration": "Ah-ches-tah zee, reh-ah-lee-zum.",
+      "category": "Time",
+      "generated_at": "2026-09-03T22:15:13.858064"
+    },
+    {
+      "english": "That day, a memory.",
+      "romanian": "Ziua aceea, o amintire.",
+      "transliteration": "Zee-oo-ah ah-cheh-ah, oh ah-meen-tee-reh.",
+      "category": "Time",
+      "generated_at": "2026-09-03T22:15:13.858065"
     }
   ],
-  "last_updated": "2026-09-03T19:37:42.910159"
+  "last_updated": "2026-09-03T22:15:13.858067"
 }
