@@ -12844,7 +12844,42 @@
       "transliteration": "Ga-zool, mee-ro-a-seh ta-reh.",
       "category": "Emergency",
       "generated_at": "2026-09-04T19:17:39.118510"
+    },
+    {
+      "english": "Sky, turning bruised, announces rain.",
+      "romanian": "Cerul, se înnegrește, anunță ploaie.",
+      "transliteration": "Che-rul, se ne-gre-she, a-nun-tsa ploa-ye.",
+      "category": "Weather",
+      "generated_at": "2026-09-04T22:05:12.960390"
+    },
+    {
+      "english": "Air, thickens, with coming thunder.",
+      "romanian": "Aerul, se îngroașă, cu tunet.",
+      "transliteration": "A-e-rul, se în-groa-shă, cu tu-net.",
+      "category": "Weather",
+      "generated_at": "2026-09-04T22:05:12.960403"
+    },
+    {
+      "english": "Sunbeams, pierce clouds, a brief warmth.",
+      "romanian": "Raze, străpung norii, o căldură.",
+      "transliteration": "Ra-ze, stră-pung nor-rii, o kăldu-ră.",
+      "category": "Weather",
+      "generated_at": "2026-09-04T22:05:12.960405"
+    },
+    {
+      "english": "Wind, sighs softly, through fields.",
+      "romanian": "Vântul, oftează lin, prin lanuri.",
+      "transliteration": "Vân-tul, of-tea-ză lin, prin lan-uri.",
+      "category": "Weather",
+      "generated_at": "2026-09-04T22:05:12.960407"
+    },
+    {
+      "english": "Clouds, gather like sheep, in the west.",
+      "romanian": "Nori, se adună ca oi, la apus.",
+      "transliteration": "Nori, se a-du-nă ca oi, la a-pus.",
+      "category": "Weather",
+      "generated_at": "2026-09-04T22:05:12.960408"
     }
   ],
-  "last_updated": "2026-09-04T19:17:39.118511"
+  "last_updated": "2026-09-04T22:05:12.960410"
 }
