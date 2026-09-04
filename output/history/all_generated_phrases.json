@@ -12809,7 +12809,42 @@
       "transliteration": "Cheench seemts-ur, uhn ar-moh-nee-eh.",
       "category": "Numbers",
       "generated_at": "2026-09-04T17:21:01.551146"
+    },
+    {
+      "english": "Help! A stranger, is here.",
+      "romanian": "Ajutor! Un străin, e aici.",
+      "transliteration": "A-joo-toor! Oon strayn, ay ee-che.",
+      "category": "Emergency",
+      "generated_at": "2026-09-04T19:17:39.118497"
+    },
+    {
+      "english": "I need, a doctor, now.",
+      "romanian": "Îmi trebuie, un doctor, acum.",
+      "transliteration": "Eem tre-bwee-yeh, oon doct-or, a-koom.",
+      "category": "Emergency",
+      "generated_at": "2026-09-04T19:17:39.118506"
+    },
+    {
+      "english": "My passport, it is lost.",
+      "romanian": "Pa-spo-ro-tul meu, s-a pierdut.",
+      "transliteration": "Pa-spo-ro-tool mey, sa pe-er-doot.",
+      "category": "Emergency",
+      "generated_at": "2026-09-04T19:17:39.118508"
+    },
+    {
+      "english": "Someone's trapped, inside.",
+      "romanian": "Cineva e prins, înăuntru.",
+      "transliteration": "Chee-neh-va ay preens, uh-naw-noo-troo.",
+      "category": "Emergency",
+      "generated_at": "2026-09-04T19:17:39.118509"
+    },
+    {
+      "english": "The gas, it smells strong.",
+      "romanian": "Gazul, miroase tare.",
+      "transliteration": "Ga-zool, mee-ro-a-seh ta-reh.",
+      "category": "Emergency",
+      "generated_at": "2026-09-04T19:17:39.118510"
     }
   ],
-  "last_updated": "2026-09-04T17:21:01.551147"
+  "last_updated": "2026-09-04T19:17:39.118511"
 }
