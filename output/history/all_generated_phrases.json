@@ -12879,7 +12879,42 @@
       "transliteration": "Nori, se a-du-nă ca oi, la a-pus.",
       "category": "Weather",
       "generated_at": "2026-09-04T22:05:12.960408"
+    },
+    {
+      "english": "A clear mind, a healthy heart.",
+      "romanian": "O minte limpede, o inimă sănătoasă.",
+      "transliteration": "O MEE-n-te LEEM-peh-deh, o EE-nee-mah sə-nə-TOA-sah.",
+      "category": "Health",
+      "generated_at": "2026-09-05T01:57:08.652113"
+    },
+    {
+      "english": "Find your balance, feel the calm.",
+      "romanian": "Găsește-ți echilibrul, simte-ți liniștea.",
+      "transliteration": "Guh-SHESH-teh-tsee EH-kee-LEE-broo-loo, SEEM-teh-tsee LEE-neesh-tyah.",
+      "category": "Health",
+      "generated_at": "2026-09-05T01:57:08.652124"
+    },
+    {
+      "english": "Gentle movement, strong spirit.",
+      "romanian": "Mișcare blândă, spirit puternic.",
+      "transliteration": "Meezh-KAH-reh BLUHN-dah, SPEE-reet poo-TER-neek.",
+      "category": "Health",
+      "generated_at": "2026-09-05T01:57:08.652126"
+    },
+    {
+      "english": "Sip slowly, savor the moment.",
+      "romanian": "Sorbește încet, savurează clipa.",
+      "transliteration": "Sor-BESH-teh-tsee en-CHET, sah-voo-REZ-ah KLEE-pah.",
+      "category": "Health",
+      "generated_at": "2026-09-05T01:57:08.652127"
+    },
+    {
+      "english": "A warm bath, melts the stress.",
+      "romanian": "O baie caldă, topește stresul.",
+      "transliteration": "O BAH-yeh KALD-dah, TOH-pesh-teh STRES-oo-loo.",
+      "category": "Health",
+      "generated_at": "2026-09-05T01:57:08.652129"
     }
   ],
-  "last_updated": "2026-09-04T22:05:12.960410"
+  "last_updated": "2026-09-05T01:57:08.652131"
 }
