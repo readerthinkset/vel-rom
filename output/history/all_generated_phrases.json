@@ -12949,7 +12949,42 @@
       "transliteration": "Fee-eh-kah-reh zee, oh deh-sko-peh-ree-reh roh-moo-yesh-kah.",
       "category": "Success",
       "generated_at": "2026-09-05T14:34:53.945863"
+    },
+    {
+      "english": "A roasted chicken, golden brown.",
+      "romanian": "O pui fript, auriu.",
+      "transliteration": "O pui frript, au-ri-yu.",
+      "category": "Food",
+      "generated_at": "2026-09-05T16:30:15.409441"
+    },
+    {
+      "english": "Freshly baked bread, still warm.",
+      "romanian": "Pâine proaspăt coaptă, caldă.",
+      "transliteration": "Pîi-neh pros-pesh kɔp-tah, kal-dah.",
+      "category": "Food",
+      "generated_at": "2026-09-05T16:30:15.409452"
+    },
+    {
+      "english": "Spicy peppers, a little heat.",
+      "romanian": "Ardei iuți, puțină iuțeală.",
+      "transliteration": "Ar-dei yu-ts, pu-tsiin-nah yu-tseh-ah-lah.",
+      "category": "Food",
+      "generated_at": "2026-09-05T16:30:15.409454"
+    },
+    {
+      "english": "Sweet berries, bursting flavor.",
+      "romanian": "Fructe de pădure dulci, pline de gust.",
+      "transliteration": "Fruk-te deh pah-doo-reh dul-ts, plee-neh deh gust.",
+      "category": "Food",
+      "generated_at": "2026-09-05T16:30:15.409456"
+    },
+    {
+      "english": "A creamy cheese, so mild.",
+      "romanian": "O brânză cremoasă, foarte blândă.",
+      "transliteration": "O br'uhn-zah kreh-mo-ah-sah, for-teh bl'uhn-dah.",
+      "category": "Food",
+      "generated_at": "2026-09-05T16:30:15.409457"
     }
   ],
-  "last_updated": "2026-09-05T14:34:53.945865"
+  "last_updated": "2026-09-05T16:30:15.409459"
 }
