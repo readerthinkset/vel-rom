@@ -13089,7 +13089,42 @@
       "transliteration": "Ahm ne-voh-yeh, deh oon poo-ee deh sohm-n.",
       "category": "Basic Phrases",
       "generated_at": "2026-09-06T14:55:20.774799"
+    },
+    {
+      "english": "Green grass, after the rain.",
+      "romanian": "Iarbă verde, după ploaie.",
+      "transliteration": "Yahr-bah vehr-deh, doo-pah ploh-yeh.",
+      "category": "Nature",
+      "generated_at": "2026-09-06T16:40:47.075072"
+    },
+    {
+      "english": "Birdsong greets, the morning light.",
+      "romanian": "Cântec de pasăre, lumina dimineții.",
+      "transliteration": "Kun-tek deh pah-sah-reh, loo-mee-nah dee-mee-nyet-see.",
+      "category": "Nature",
+      "generated_at": "2026-09-06T16:40:47.075084"
+    },
+    {
+      "english": "Rocky path, climbs upward.",
+      "romanian": "Cărare stâncoasă, urcă sus.",
+      "transliteration": "Kah-rah-reh stuhn-koh-ah-sah, oor-kah soos.",
+      "category": "Nature",
+      "generated_at": "2026-09-06T16:40:47.075087"
+    },
+    {
+      "english": "Dewdrops sparkle, on the spiderweb.",
+      "romanian": "Picături de rouă, pe pânza de păianjen.",
+      "transliteration": "Pee-kah-toor deh roh-oo-ah, pe puhn-zah deh pie-ahn-jen.",
+      "category": "Nature",
+      "generated_at": "2026-09-06T16:40:47.075088"
+    },
+    {
+      "english": "Ancient trees, touch the sky.",
+      "romanian": "Copaci bătrâni, ating cerul.",
+      "transliteration": "Koh-pahch buh-truhn, ah-teeng cheh-rool.",
+      "category": "Nature",
+      "generated_at": "2026-09-06T16:40:47.075089"
     }
   ],
-  "last_updated": "2026-09-06T14:55:20.774800"
+  "last_updated": "2026-09-06T16:40:47.075091"
 }
