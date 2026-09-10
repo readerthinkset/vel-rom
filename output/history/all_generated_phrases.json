@@ -13684,7 +13684,42 @@
       "transliteration": "Gea-ca mea, e sur-prin-za-tor de u-shoar-a.",
       "category": "Clothes",
       "generated_at": "2026-09-10T15:50:40.169101"
+    },
+    {
+      "english": "Now, a new chapter.",
+      "romanian": "Acum, un nou capitol.",
+      "transliteration": "Ah-koom, oon noo-oo kah-pee-tol.",
+      "category": "Time",
+      "generated_at": "2026-09-10T17:28:03.929257"
+    },
+    {
+      "english": "Soon, a gentle breeze.",
+      "romanian": "Curând, o adiere blândă.",
+      "transliteration": "Koor-oond, oh ah-dee-eh-reh bluhn-duh.",
+      "category": "Time",
+      "generated_at": "2026-09-10T17:28:03.929265"
+    },
+    {
+      "english": "At this point, we decide.",
+      "romanian": "În acest punct, decidem.",
+      "transliteration": "En ah-ches poonk-t, deh-chee-dem.",
+      "category": "Time",
+      "generated_at": "2026-09-10T17:28:03.929267"
+    },
+    {
+      "english": "For a moment, just breathe.",
+      "romanian": "Pentru o clipă, doar respiră.",
+      "transliteration": "Pen-troo oh klee-puh, door res-peer-uh.",
+      "category": "Time",
+      "generated_at": "2026-09-10T17:28:03.929268"
+    },
+    {
+      "english": "When twilight fades, stars gleam.",
+      "romanian": "Când amurgul dispare, stelele sclipesc.",
+      "transliteration": "Kuhnd ah-moor-goohl dees-pah-reh, steh-leh-leh sklee-pesk.",
+      "category": "Time",
+      "generated_at": "2026-09-10T17:28:03.929269"
     }
   ],
-  "last_updated": "2026-09-10T15:50:40.169103"
+  "last_updated": "2026-09-10T17:28:03.929271"
 }
