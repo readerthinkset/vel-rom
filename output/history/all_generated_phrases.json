@@ -13789,7 +13789,42 @@
       "transliteration": "Sim-te lim-ba, în a-dânc.",
       "category": "Patience",
       "generated_at": "2026-09-10T22:14:36.331791"
+    },
+    {
+      "english": "The owl, hunts at twilight.",
+      "romanian": "Bufnița, vânează la amurg.",
+      "transliteration": "Buf-nee-tsa, vuh-neh-zuh la uh-murg.",
+      "category": "Animals",
+      "generated_at": "2026-09-11T02:00:15.754250"
+    },
+    {
+      "english": "A wolf, howls at the moon.",
+      "romanian": "Un lup, urlă la lună.",
+      "transliteration": "Oon loop, oo-rluh la loo-nuh.",
+      "category": "Animals",
+      "generated_at": "2026-09-11T02:00:15.754262"
+    },
+    {
+      "english": "The bee, collects nectar.",
+      "romanian": "Albina, adună nectar.",
+      "transliteration": "Al-bee-nuh, uh-doo-nuh nek-tar.",
+      "category": "Animals",
+      "generated_at": "2026-09-11T02:00:15.754264"
+    },
+    {
+      "english": "A frog, croaks in the pond.",
+      "romanian": "O broască, behește în baltă.",
+      "transliteration": "O bro-as-kuh, beh-hesh-te en bal-tuh.",
+      "category": "Animals",
+      "generated_at": "2026-09-11T02:00:15.754266"
+    },
+    {
+      "english": "The fox, trots by the stream.",
+      "romanian": "Vulpea, aleargă pe lângă pârâu.",
+      "transliteration": "Vool-pyuh, uh-lehr-guh pe leeng-guh puh-roo.",
+      "category": "Animals",
+      "generated_at": "2026-09-11T02:00:15.754267"
     }
   ],
-  "last_updated": "2026-09-10T22:14:36.331792"
+  "last_updated": "2026-09-11T02:00:15.754269"
 }
