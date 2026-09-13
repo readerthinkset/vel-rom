@@ -14174,7 +14174,42 @@
       "transliteration": "Muh boo-coor suh eem-puhrt-uh-sheem, ah-chest teemp.",
       "category": "Greetings",
       "generated_at": "2026-09-13T15:37:54.527751"
+    },
+    {
+      "english": "Silent peaks, wear snow caps.",
+      "romanian": "Vârfuri tăcute, cu căciuli de nea.",
+      "transliteration": "Vur-fur tee-KOO-teh, koo KAH-choo-li deh neh-ah.",
+      "category": "Nature",
+      "generated_at": "2026-09-13T17:11:49.629300"
+    },
+    {
+      "english": "The wind, it hums a song.",
+      "romanian": "Vântul, el fredonează o melodie.",
+      "transliteration": "Vun-tool, el freh-doh-NEH-zah oh meh-loh-DEE-yeh.",
+      "category": "Nature",
+      "generated_at": "2026-09-13T17:11:49.629314"
+    },
+    {
+      "english": "Sunbeams paint, the forest floor.",
+      "romanian": "Raze de soare pictează, podeaua pădurii.",
+      "transliteration": "Rah-zeh deh SO-ah-reh peek-TEH-zah, poh-DEE-ah-wah puh-DOO-ree.",
+      "category": "Nature",
+      "generated_at": "2026-09-13T17:11:49.629316"
+    },
+    {
+      "english": "A trickling brook, finds its way.",
+      "romanian": "Un pârâu șopotind, își găsește drumul.",
+      "transliteration": "Oon puh-ROO-oo shoh-POH-teend, yeesh guh-SEH-shteh droo-MOOL.",
+      "category": "Nature",
+      "generated_at": "2026-09-13T17:11:49.629318"
+    },
+    {
+      "english": "Dusk paints, the western sky.",
+      "romanian": "Amurgul pictează, cerul vestic.",
+      "transliteration": "Ah-MOOR-gool peek-TEH-zah, CHEH-rool VES-teek.",
+      "category": "Nature",
+      "generated_at": "2026-09-13T17:11:49.629319"
     }
   ],
-  "last_updated": "2026-09-13T15:37:54.527752"
+  "last_updated": "2026-09-13T17:11:49.629321"
 }
