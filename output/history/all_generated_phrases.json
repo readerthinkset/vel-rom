@@ -14104,7 +14104,42 @@
       "transliteration": "Max-ee-lar poo-ter-neek, moosh-kah meh-rool.",
       "category": "Body Parts",
       "generated_at": "2026-09-12T21:55:58.781687"
+    },
+    {
+      "english": "The water, it's rising.",
+      "romanian": "Apa, urcă repede.",
+      "transliteration": "A-pa, oor-ka, re-pe-de.",
+      "category": "Emergency",
+      "generated_at": "2026-09-13T02:00:21.188187"
+    },
+    {
+      "english": "I need, a map, please.",
+      "romanian": "Am nevoie, de o hartă, vă rog.",
+      "transliteration": "Am ne-vo-ie, de o har-ta, va rog.",
+      "category": "Emergency",
+      "generated_at": "2026-09-13T02:00:21.188197"
+    },
+    {
+      "english": "This food, it's making me ill.",
+      "romanian": "Mâncarea asta, mă îmbolnăvește.",
+      "transliteration": "Myn-ca-rea as-ta, ma em-bol-na-veș-te.",
+      "category": "Emergency",
+      "generated_at": "2026-09-13T02:00:21.188199"
+    },
+    {
+      "english": "Can you, hear that alarm?",
+      "romanian": "Auzi, acel semnal?",
+      "transliteration": "A-oo-zi, a-tsel sem-nal?",
+      "category": "Emergency",
+      "generated_at": "2026-09-13T02:00:21.188201"
+    },
+    {
+      "english": "My bag, it's gone.",
+      "romanian": "Geanta mea, a dispărut.",
+      "transliteration": "Gen-ta mea, a dis-pa-root.",
+      "category": "Emergency",
+      "generated_at": "2026-09-13T02:00:21.188202"
     }
   ],
-  "last_updated": "2026-09-12T21:55:58.781688"
+  "last_updated": "2026-09-13T02:00:21.188204"
 }
