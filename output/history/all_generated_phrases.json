@@ -14349,7 +14349,42 @@
       "transliteration": "Minte liniștită, cer clar.",
       "category": "Inner Peace",
       "generated_at": "2026-09-14T17:42:08.243426"
+    },
+    {
+      "english": "Golden hour, paints the hills.",
+      "romanian": "Ora de aur, pictează dealurile.",
+      "transliteration": "O-ra de au-r, pic-tea-ză dea-lu-ri-le.",
+      "category": "Holidays",
+      "generated_at": "2026-09-14T18:59:57.347885"
+    },
+    {
+      "english": "Listen closely, to the wind.",
+      "romanian": "Ascultă atent, la vânt.",
+      "transliteration": "As-cult-ă a-tent, la vânt.",
+      "category": "Holidays",
+      "generated_at": "2026-09-14T18:59:57.347895"
+    },
+    {
+      "english": "Silent dawn, breaks the night.",
+      "romanian": "Zori tăcuți, sparg noaptea.",
+      "transliteration": "Zori tă-cuți, sparg noap-tea.",
+      "category": "Holidays",
+      "generated_at": "2026-09-14T18:59:57.347897"
+    },
+    {
+      "english": "New paths, beckon you.",
+      "romanian": "Căi noi, te cheamă.",
+      "transliteration": "Căi noi, te chea-mă.",
+      "category": "Holidays",
+      "generated_at": "2026-09-14T18:59:57.347898"
+    },
+    {
+      "english": "Underneath the moon, dreams grow.",
+      "romanian": "Sub lună, cresc vise.",
+      "transliteration": "Sub lu-nă, cresc vi-se.",
+      "category": "Holidays",
+      "generated_at": "2026-09-14T18:59:57.347899"
     }
   ],
-  "last_updated": "2026-09-14T17:42:08.243428"
+  "last_updated": "2026-09-14T18:59:57.347900"
 }
