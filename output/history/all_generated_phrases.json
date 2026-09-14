@@ -14314,7 +14314,42 @@
       "transliteration": "Noo-mah-rool meu no-ro-kos, eh opt.",
       "category": "Numbers",
       "generated_at": "2026-09-14T02:18:53.802925"
+    },
+    {
+      "english": "Inner calm, a gentle hum.",
+      "romanian": "Liniște interioară, un zumzet blând.",
+      "transliteration": "Liniște interioară, un zumzet blând.",
+      "category": "Inner Peace",
+      "generated_at": "2026-09-14T17:42:08.243411"
+    },
+    {
+      "english": "Breathe easy, let go.",
+      "romanian": "Respiră ușor, lasă.",
+      "transliteration": "Respiră ușor, lasă.",
+      "category": "Inner Peace",
+      "generated_at": "2026-09-14T17:42:08.243423"
+    },
+    {
+      "english": "Stillness unfolds, softly.",
+      "romanian": "Liniștea se desface, ușor.",
+      "transliteration": "Liniștea se desface, ușor.",
+      "category": "Inner Peace",
+      "generated_at": "2026-09-14T17:42:08.243424"
+    },
+    {
+      "english": "Peace blooms, in your heart.",
+      "romanian": "Pacea înflorește, în inima ta.",
+      "transliteration": "Pacea înflorește, în inima ta.",
+      "category": "Inner Peace",
+      "generated_at": "2026-09-14T17:42:08.243425"
+    },
+    {
+      "english": "Quiet mind, clear sky.",
+      "romanian": "Minte liniștită, cer clar.",
+      "transliteration": "Minte liniștită, cer clar.",
+      "category": "Inner Peace",
+      "generated_at": "2026-09-14T17:42:08.243426"
     }
   ],
-  "last_updated": "2026-09-14T02:18:53.802926"
+  "last_updated": "2026-09-14T17:42:08.243428"
 }
