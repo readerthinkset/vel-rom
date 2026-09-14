@@ -14279,7 +14279,42 @@
       "transliteration": "LA-să Ro-MÂ-ni-a să în-flo-REAS-că, în TEE-ne.",
       "category": "Purpose",
       "generated_at": "2026-09-13T22:05:36.001871"
+    },
+    {
+      "english": "The old clock struck nine.",
+      "romanian": "Ceasul vechi, a bătut ora nouă.",
+      "transliteration": "Cheasul vek, a batoot ora noo-ah.",
+      "category": "Numbers",
+      "generated_at": "2026-09-14T02:18:53.802913"
+    },
+    {
+      "english": "Just one more try, okay?",
+      "romanian": "Încă o singură încercare, da?",
+      "transliteration": "Inka o sing-oo-rah incher-kah-reh, dah?",
+      "category": "Numbers",
+      "generated_at": "2026-09-14T02:18:53.802921"
+    },
+    {
+      "english": "We met around ten.",
+      "romanian": "Ne-am văzut, pe la zece.",
+      "transliteration": "Ne-am vazoot, pe lah zeh-cheh.",
+      "category": "Numbers",
+      "generated_at": "2026-09-14T02:18:53.802922"
+    },
+    {
+      "english": "He arrived at three.",
+      "romanian": "El a sosit, la trei.",
+      "transliteration": "El ah sos-eet, lah trey.",
+      "category": "Numbers",
+      "generated_at": "2026-09-14T02:18:53.802924"
+    },
+    {
+      "english": "My lucky number, is eight.",
+      "romanian": "Numărul meu norocos, e opt.",
+      "transliteration": "Noo-mah-rool meu no-ro-kos, eh opt.",
+      "category": "Numbers",
+      "generated_at": "2026-09-14T02:18:53.802925"
     }
   ],
-  "last_updated": "2026-09-13T22:05:36.001873"
+  "last_updated": "2026-09-14T02:18:53.802926"
 }
