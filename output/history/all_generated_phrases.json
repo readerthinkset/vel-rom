@@ -14699,7 +14699,42 @@
       "transliteration": "SEEM-teh grah-MAH-tee-kah, kon-stroo-YEHSH-teeh-tsee ah-bee-lee-TAH-teh.",
       "category": "Confidence",
       "generated_at": "2026-09-16T19:53:12.414513"
+    },
+    {
+      "english": "Feeling a strange, quiet excitement.",
+      "romanian": "Simt o ciudată, liniștită emoție.",
+      "transliteration": "Simt o chiu-da-ta, lee-neesh-tee-ta eh-mo-tsee-eh.",
+      "category": "Feelings",
+      "generated_at": "2026-09-16T22:38:27.599930"
+    },
+    {
+      "english": "A little... unease, perhaps.",
+      "romanian": "O mică... neliniște, poate.",
+      "transliteration": "O mee-ka... neh-lee-neesh-teh, po-a-teh.",
+      "category": "Feelings",
+      "generated_at": "2026-09-16T22:38:27.599939"
+    },
+    {
+      "english": "Deeply moved, truly.",
+      "romanian": "Profund mișcat, sincer.",
+      "transliteration": "Pro-foond meesh-kat, seen-cher.",
+      "category": "Feelings",
+      "generated_at": "2026-09-16T22:38:27.599940"
+    },
+    {
+      "english": "Slightly… bewildered, yet intrigued.",
+      "romanian": "Puțin... nedumerit, dar curios.",
+      "transliteration": "Poo-tseen... neh-doo-meh-reet, dar koo-ree-os.",
+      "category": "Feelings",
+      "generated_at": "2026-09-16T22:38:27.599942"
+    },
+    {
+      "english": "A sudden, sharp frustration.",
+      "romanian": "O bruscă, ascuțită frustrare.",
+      "transliteration": "O broo-ska, as-koo-tsee-ta froos-tra-reh.",
+      "category": "Feelings",
+      "generated_at": "2026-09-16T22:38:27.599942"
     }
   ],
-  "last_updated": "2026-09-16T19:53:12.414515"
+  "last_updated": "2026-09-16T22:38:27.599944"
 }
