@@ -14839,7 +14839,42 @@
       "transliteration": "Ah-vets, mee-eh-reh deh preen zoh-nuh?",
       "category": "Shopping",
       "generated_at": "2026-09-17T17:54:37.871593"
+    },
+    {
+      "english": "The tiny ant, carries a crumb.",
+      "romanian": "Furnica mică, duce o firimitură.",
+      "transliteration": "Fur-nee-kah mee-kah, doo-cheh oh fee-ree-mee-too-rah.",
+      "category": "Animals",
+      "generated_at": "2026-09-17T19:59:50.027945"
+    },
+    {
+      "english": "A brave mouse, explores the cupboard.",
+      "romanian": "Un șoricel curajos, cercetează cămara.",
+      "transliteration": "Oon sho-ree-chel koo-rah-jos, cher-cheh-tah-zah kah-mah-rah.",
+      "category": "Animals",
+      "generated_at": "2026-09-17T19:59:50.027959"
+    },
+    {
+      "english": "The sleepy sloth, hangs from a branch.",
+      "romanian": "Leneșul leneș, atârnă de o creangă.",
+      "transliteration": "Leh-neh-shool leh-nesh, ah-tur-nah deh oh krahn-gah.",
+      "category": "Animals",
+      "generated_at": "2026-09-17T19:59:50.027961"
+    },
+    {
+      "english": "A curious cat, watches the butterfly.",
+      "romanian": "O pisică curioasă, privește fluturele.",
+      "transliteration": "Oh pee-see-kah koo-ree-oh-sah, pree-vesh-teh floo-too-reh-leh.",
+      "category": "Animals",
+      "generated_at": "2026-09-17T19:59:50.027963"
+    },
+    {
+      "english": "The happy dog, wags its tail.",
+      "romanian": "Câinele vesel, își mișcă coada.",
+      "transliteration": "Kee-neh-leh veh-sel, ysh meesh-kah kow-dah.",
+      "category": "Animals",
+      "generated_at": "2026-09-17T19:59:50.027964"
     }
   ],
-  "last_updated": "2026-09-17T17:54:37.871595"
+  "last_updated": "2026-09-17T19:59:50.027966"
 }
