@@ -15084,7 +15084,42 @@
       "transliteration": "A-prin-de-ti spi-ri-tul, din in-te-ri-or.",
       "category": "Courage",
       "generated_at": "2026-09-18T22:15:32.707539"
+    },
+    {
+      "english": "This apple pie, a warm hug.",
+      "romanian": "Plăcinta asta cu mere, o îmbrățișare caldă.",
+      "transliteration": "Plachinta asta coo meh-reh, oh imbraht-see-yah cal-dah.",
+      "category": "Food",
+      "generated_at": "2026-09-19T02:11:49.513990"
+    },
+    {
+      "english": "Fresh pasta, lightly dressed.",
+      "romanian": "Paste proaspete, stropite ușor.",
+      "transliteration": "Pah-steh proh-speh-teh, stroh-pee-teh oo-shohr.",
+      "category": "Food",
+      "generated_at": "2026-09-19T02:11:49.514002"
+    },
+    {
+      "english": "A fragrant basil, from the pot.",
+      "romanian": "Busuioc parfumat, din ghiveci.",
+      "transliteration": "Boo-soo-yok par-foo-mat, deen ghee-vetch.",
+      "category": "Food",
+      "generated_at": "2026-09-19T02:11:49.514004"
+    },
+    {
+      "english": "Sweet honey, golden drops.",
+      "romanian": "Miere dulce, picături aurii.",
+      "transliteration": "Mee-eh-reh dool-cheh, pee-kah-toor ow-ree-ee.",
+      "category": "Food",
+      "generated_at": "2026-09-19T02:11:49.514006"
+    },
+    {
+      "english": "Crisp lettuce, a fresh salad.",
+      "romanian": "Salată crocantă, o salată nouă.",
+      "transliteration": "Sah-lah-tah kroh-kahn-tah, oh sah-lah-tah noh-oo-ah.",
+      "category": "Food",
+      "generated_at": "2026-09-19T02:11:49.514007"
     }
   ],
-  "last_updated": "2026-09-18T22:15:32.707540"
+  "last_updated": "2026-09-19T02:11:49.514009"
 }
