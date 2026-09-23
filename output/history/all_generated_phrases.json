@@ -15749,7 +15749,42 @@
       "transliteration": "O mai-mu-ță cu-ri-oa-să, se le-a-gă-nă prin co-paci.",
       "category": "Animals",
       "generated_at": "2026-09-23T02:21:56.354469"
+    },
+    {
+      "english": "Morning light, wakes the world.",
+      "romanian": "Lumina dimineții, trezește lumea.",
+      "transliteration": "Loo-mee-nah dee-mee-nyet-see, tre-zyehshteh loo-myah.",
+      "category": "Time",
+      "generated_at": "2026-09-23T16:06:20.811444"
+    },
+    {
+      "english": "Midday sun, shines so bright.",
+      "romanian": "Soarele amiezii, strălucește tare.",
+      "transliteration": "So-ah-reh-leh ah-myee-zee, struh-loo-chehshteh tah-reh.",
+      "category": "Time",
+      "generated_at": "2026-09-23T16:06:20.811454"
+    },
+    {
+      "english": "Afternoon calm, settles in.",
+      "romanian": "Liniștea după-amiezii, se așterne.",
+      "transliteration": "Lee-neesh-tyah doo-pah-myee-zee, seh ash-tehr-neh.",
+      "category": "Time",
+      "generated_at": "2026-09-23T16:06:20.811456"
+    },
+    {
+      "english": "Dusk arrives, soft and slow.",
+      "romanian": "Amurgul vine, blând și rar.",
+      "transliteration": "Ah-moor-gool vee-neh, bluhnd shee rar.",
+      "category": "Time",
+      "generated_at": "2026-09-23T16:06:20.811458"
+    },
+    {
+      "english": "Night falls, a velvet cloak.",
+      "romanian": "Noaptea cade, un giulgiu de catifea.",
+      "transliteration": "No-ap-tyah cah-deh, oon jool-joo deh cah-tee-feh-ah.",
+      "category": "Time",
+      "generated_at": "2026-09-23T16:06:20.811459"
     }
   ],
-  "last_updated": "2026-09-23T02:21:56.354471"
+  "last_updated": "2026-09-23T16:06:20.811461"
 }
