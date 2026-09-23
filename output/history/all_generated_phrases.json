@@ -15714,7 +15714,42 @@
       "transliteration": "Loo-meh-ah shop-tesh-teh, seh-kreh-teh nes-poo-seh.",
       "category": "Daily Routine",
       "generated_at": "2026-09-22T22:43:15.558519"
+    },
+    {
+      "english": "A fluffy sheep, grazes peacefully.",
+      "romanian": "O oaie pufoasă, pasște liniștită.",
+      "transliteration": "O o-a-shye pu-foa-să, paș-te li-niș-ti-tă.",
+      "category": "Animals",
+      "generated_at": "2026-09-23T02:21:56.354452"
+    },
+    {
+      "english": "The busy beaver, builds a dam.",
+      "romanian": "Castorul harnic, construiește un baraj.",
+      "transliteration": "Cas-tor-ul har-nic, con-stru-i-eș-te un ba-raj.",
+      "category": "Animals",
+      "generated_at": "2026-09-23T02:21:56.354464"
+    },
+    {
+      "english": "A majestic eagle, surveys the land.",
+      "romanian": "Un vultur maiestuos, supraveghează ținutul.",
+      "transliteration": "Un vul-tur ma-ies-tu-os, su-pra-veg-he-a-ză țu-nu-lu-i.",
+      "category": "Animals",
+      "generated_at": "2026-09-23T02:21:56.354466"
+    },
+    {
+      "english": "The tiny ladybug, rests on a leaf.",
+      "romanian": "Gândăcelul micuț, se odihnește pe o frunză.",
+      "transliteration": "Gân-dă-ce-lul mi-cuț, se o-di-hnes-te pe o frun-ză.",
+      "category": "Animals",
+      "generated_at": "2026-09-23T02:21:56.354468"
+    },
+    {
+      "english": "A curious monkey, swings through trees.",
+      "romanian": "O maimuță curioasă, se leagănă prin copaci.",
+      "transliteration": "O mai-mu-ță cu-ri-oa-să, se le-a-gă-nă prin co-paci.",
+      "category": "Animals",
+      "generated_at": "2026-09-23T02:21:56.354469"
     }
   ],
-  "last_updated": "2026-09-22T22:43:15.558521"
+  "last_updated": "2026-09-23T02:21:56.354471"
 }
