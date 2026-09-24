@@ -15889,7 +15889,42 @@
       "transliteration": "Cuvinte romanesti, noul tau loc de joaca.",
       "category": "Confidence",
       "generated_at": "2026-09-23T22:40:14.137544"
+    },
+    {
+      "english": "Discover rhythm, in every phrase.",
+      "romanian": "Descoperă ritmul, în fiecare frază.",
+      "transliteration": "Des-ko-pehr-reh reet-moom, een keh-eh-kah-reh frah-zah.",
+      "category": "Purpose",
+      "generated_at": "2026-09-24T02:10:23.540366"
+    },
+    {
+      "english": "Taste nuances, of a culture.",
+      "romanian": "Gustă nuanțe, ale unei culturi.",
+      "transliteration": "Goos-tah noo-ahn-tseh, ah-leh oo-neh-ee kool-too-ree.",
+      "category": "Purpose",
+      "generated_at": "2026-09-24T02:10:23.540377"
+    },
+    {
+      "english": "Let words flow, like Danube.",
+      "romanian": "Lasă cuvintele să curgă, ca Dunărea.",
+      "transliteration": "Lah-sah koo-veen-teh-leh sah koor-gah, kah Doo-nah-ryah.",
+      "category": "Purpose",
+      "generated_at": "2026-09-24T02:10:23.540379"
+    },
+    {
+      "english": "Unveil charm, bit by bit.",
+      "romanian": "Dezvăluie farmec, pe rând.",
+      "transliteration": "Dez-vuh-loo-yeh far-meck, peh raund.",
+      "category": "Purpose",
+      "generated_at": "2026-09-24T02:10:23.540381"
+    },
+    {
+      "english": "Hear echoes, of history.",
+      "romanian": "Auzi ecouri, ale istoriei.",
+      "transliteration": "Ow-zee eh-koh-oo-ree, ah-leh ees-toh-ree-eh.",
+      "category": "Purpose",
+      "generated_at": "2026-09-24T02:10:23.540383"
     }
   ],
-  "last_updated": "2026-09-23T22:40:14.137546"
+  "last_updated": "2026-09-24T02:10:23.540384"
 }
