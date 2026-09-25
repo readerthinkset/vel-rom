@@ -16064,7 +16064,42 @@
       "transliteration": "Pee-kuh-toor deh ploa-yeh, bat een gyahm.",
       "category": "Weather",
       "generated_at": "2026-09-24T22:59:40.349350"
+    },
+    {
+      "english": "This bread, is it fresh?",
+      "romanian": "Pâinea asta, e proaspătă?",
+      "transliteration": "Pin-eh ah-stah, eh pro-ash-put?",
+      "category": "Restaurant",
+      "generated_at": "2026-09-25T02:27:10.776327"
+    },
+    {
+      "english": "We're ready, to order.",
+      "romanian": "Suntem gata, să comandăm.",
+      "transliteration": "Soon-tem gah-tah, sah kom-man-dom.",
+      "category": "Restaurant",
+      "generated_at": "2026-09-25T02:27:10.776336"
+    },
+    {
+      "english": "Just a coffee, please.",
+      "romanian": "Doar o cafea, vă rog.",
+      "transliteration": "Doh-ar oh kah-feh-ah, voh rog.",
+      "category": "Restaurant",
+      "generated_at": "2026-09-25T02:27:10.776338"
+    },
+    {
+      "english": "What's, for lunch, today?",
+      "romanian": "Ce e, de prânz, azi?",
+      "transliteration": "Cheh eh, deh prinz, ahz?",
+      "category": "Restaurant",
+      "generated_at": "2026-09-25T02:27:10.776339"
+    },
+    {
+      "english": "Could I, have some garlic bread?",
+      "romanian": "Pot avea, pâine cu usturoi?",
+      "transliteration": "Pot ah-veh, pin-eh koo oos-too-roy?",
+      "category": "Restaurant",
+      "generated_at": "2026-09-25T02:27:10.776341"
     }
   ],
-  "last_updated": "2026-09-24T22:59:40.349352"
+  "last_updated": "2026-09-25T02:27:10.776342"
 }
