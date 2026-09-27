@@ -16449,7 +16449,42 @@
       "transliteration": "O kahr-teh boo-nuh, ah-ven-toor-ee ahsh-tehp-tuh.",
       "category": "Happiness",
       "generated_at": "2026-09-27T16:24:07.090271"
+    },
+    {
+      "english": "The path ahead, is blocked.",
+      "romanian": "Calea în față, e blocată.",
+      "transliteration": "Cah-leh uhn fah-tsuh, eh bloh-kah-tuh.",
+      "category": "Emergency",
+      "generated_at": "2026-09-27T18:01:57.227650"
+    },
+    {
+      "english": "I've lost, my sense of direction.",
+      "romanian": "Mi-am pierdut, simțul orientării.",
+      "transliteration": "Mee-ahm pee-er-doozt, seent-sool oh-ree-en-tah-ree.",
+      "category": "Emergency",
+      "generated_at": "2026-09-27T18:01:57.227660"
+    },
+    {
+      "english": "This building, it's unstable.",
+      "romanian": "Clădirea asta, e instabilă.",
+      "transliteration": "Klah-dee-ree-ah ahs-tah, eh een-stah-bee-luh.",
+      "category": "Emergency",
+      "generated_at": "2026-09-27T18:01:57.227662"
+    },
+    {
+      "english": "My breathing, is difficult.",
+      "romanian": "Respirația mea, e dificilă.",
+      "transliteration": "Res-pee-rah-tsee-ah myah, eh dee-fee-chee-luh.",
+      "category": "Emergency",
+      "generated_at": "2026-09-27T18:01:57.227663"
+    },
+    {
+      "english": "We need, to evacuate, quickly.",
+      "romanian": "Trebuie să, evacuăm, repede.",
+      "transliteration": "Treh-boo-yeh suh, eh-vah-koo-ahm, reh-peh-deh.",
+      "category": "Emergency",
+      "generated_at": "2026-09-27T18:01:57.227664"
     }
   ],
-  "last_updated": "2026-09-27T16:24:07.090273"
+  "last_updated": "2026-09-27T18:01:57.227666"
 }
