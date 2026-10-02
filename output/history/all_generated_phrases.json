@@ -17219,7 +17219,42 @@
       "transliteration": "Flohr proh-spet-teh, ah-er par-foo-maht.",
       "category": "Joy",
       "generated_at": "2026-10-01T23:40:53.467375"
+    },
+    {
+      "english": "Breathe in, pronounce the 'ă'.",
+      "romanian": "Inspiră, pronunță 'ă'.",
+      "transliteration": "In-spee-ra, pro-noon-tsa 'uh'.",
+      "category": "Directions",
+      "generated_at": "2026-10-02T03:05:25.835270"
+    },
+    {
+      "english": "Gently roll your 'r'.",
+      "romanian": "Rotește ușor 'r'-ul.",
+      "transliteration": "Ro-teh-shteh oo-shor 'r'-ool.",
+      "category": "Directions",
+      "generated_at": "2026-10-02T03:05:25.835276"
+    },
+    {
+      "english": "Notice the soft 'ș'.",
+      "romanian": "Observă 'ș'-ul moale.",
+      "transliteration": "Ob-ser-va 'sh'-ool moa-leh.",
+      "category": "Directions",
+      "generated_at": "2026-10-02T03:05:25.835278"
+    },
+    {
+      "english": "Lengthen the vowel, slightly.",
+      "romanian": "Prelungește vocala, puțin.",
+      "transliteration": "Pre-loon-jesh-teh vo-ca-la, poo-tseen.",
+      "category": "Directions",
+      "generated_at": "2026-10-02T03:05:25.835279"
+    },
+    {
+      "english": "Touch your teeth for 'ț'.",
+      "romanian": "Atinge dinții pentru 'ț'.",
+      "transliteration": "A-teen-jeh deen-tsee per-troo 'ts'.",
+      "category": "Directions",
+      "generated_at": "2026-10-02T03:05:25.835280"
     }
   ],
-  "last_updated": "2026-10-01T23:40:53.467377"
+  "last_updated": "2026-10-02T03:05:25.835281"
 }
