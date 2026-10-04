@@ -17569,7 +17569,42 @@
       "transliteration": "Pași tăcuți, pe podea.",
       "category": "Daily Routine",
       "generated_at": "2026-10-04T03:22:14.115059"
+    },
+    {
+      "english": "This bread, so crusty, is wonderful.",
+      "romanian": "Pâinea asta, așa crocantă, e minunată.",
+      "transliteration": "Pin-ya ash-ta, ah-sha kro-kant-uh, eh mee-noo-nah-tuh.",
+      "category": "Food",
+      "generated_at": "2026-10-04T16:26:16.958909"
+    },
+    {
+      "english": "A bite of cheese, sharp and tasty.",
+      "romanian": "O bucată de brânză, iute și gustoasă.",
+      "transliteration": "O boo-kah-tuh deh brrn-zuh, yoo-tay ee goos-toh-suh.",
+      "category": "Food",
+      "generated_at": "2026-10-04T16:26:16.958918"
+    },
+    {
+      "english": "These grapes, plump and sweet.",
+      "romanian": "Strugurii ăștia, plini și dulci.",
+      "transliteration": "Stroog-goo-ree ash-tya, pleen ee doolch.",
+      "category": "Food",
+      "generated_at": "2026-10-04T16:26:16.958919"
+    },
+    {
+      "english": "My coffee, strong, wakes me up.",
+      "romanian": "Cafeaua mea, tare, mă trezește.",
+      "transliteration": "Kah-fey-ah myah, tah-ray, muh treh-zheh-shteh.",
+      "category": "Food",
+      "generated_at": "2026-10-04T16:26:16.958921"
+    },
+    {
+      "english": "This soup, so warming, feels good.",
+      "romanian": "Supă asta, atât de caldă, e bună.",
+      "transliteration": "Soop-pah ash-tuh, ah-toot deh kahld-uh, eh boon-uh.",
+      "category": "Food",
+      "generated_at": "2026-10-04T16:26:16.958922"
     }
   ],
-  "last_updated": "2026-10-04T03:22:14.115061"
+  "last_updated": "2026-10-04T16:26:16.958924"
 }
