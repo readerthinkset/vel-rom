@@ -17709,7 +17709,42 @@
       "transliteration": "Doar o gustaare, ushoara, va rog.",
       "category": "Restaurant",
       "generated_at": "2026-10-04T22:43:01.274805"
+    },
+    {
+      "english": "The sun, it's setting.",
+      "romanian": "Soarele, apune.",
+      "transliteration": "So-reh-leh, ah-poo-neh.",
+      "category": "Common Expressions",
+      "generated_at": "2026-10-05T02:58:22.816666"
+    },
+    {
+      "english": "A warm, welcome breeze.",
+      "romanian": "O adiere, plăcută.",
+      "transliteration": "Oh ah-dee-eh-reh, plah-koo-tah.",
+      "category": "Common Expressions",
+      "generated_at": "2026-10-05T02:58:22.816679"
+    },
+    {
+      "english": "Just a sip, of coffee.",
+      "romanian": "Doar o gură, de cafea.",
+      "transliteration": "Dwar oh goo-rah, deh kah-feh-ah.",
+      "category": "Common Expressions",
+      "generated_at": "2026-10-05T02:58:22.816680"
+    },
+    {
+      "english": "That old building, it's grand.",
+      "romanian": "Clădirea veche, e măreață.",
+      "transliteration": "Klah-dee-ree-ah veh-cheh, eh meh-re-ah-tsah.",
+      "category": "Common Expressions",
+      "generated_at": "2026-10-05T02:58:22.816681"
+    },
+    {
+      "english": "A quiet, little street.",
+      "romanian": "O stradă, liniștită.",
+      "transliteration": "Oh strah-dah, lee-nee-shtee-tah.",
+      "category": "Common Expressions",
+      "generated_at": "2026-10-05T02:58:22.816682"
     }
   ],
-  "last_updated": "2026-10-04T22:43:01.274806"
+  "last_updated": "2026-10-05T02:58:22.816684"
 }
