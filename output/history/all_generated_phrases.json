@@ -18199,7 +18199,42 @@
       "transliteration": "Pupila ta, se dilată, în întuneric.",
       "category": "Body Parts",
       "generated_at": "2026-10-08T03:31:19.607652"
+    },
+    {
+      "english": "Wildflowers bloom, in sunlit meadows.",
+      "romanian": "Flori sălbatice, pe câmpuri însorite.",
+      "transliteration": "Flori salbatice, pe cimpuri insorite.",
+      "category": "Nature",
+      "generated_at": "2026-10-08T18:25:32.342989"
+    },
+    {
+      "english": "Gentle breeze, through rustling leaves.",
+      "romanian": "Adiere blândă, printre frunze.",
+      "transliteration": "Adiere blinda, printre frunze.",
+      "category": "Nature",
+      "generated_at": "2026-10-08T18:25:32.342998"
+    },
+    {
+      "english": "Mountain air, so crisp and clean.",
+      "romanian": "Aer de munte, curat, proaspăt.",
+      "transliteration": "Aer de munte, curat, proaspat.",
+      "category": "Nature",
+      "generated_at": "2026-10-08T18:25:32.343000"
+    },
+    {
+      "english": "Ocean waves, crash on the shore.",
+      "romanian": "Valuri ocean, lovind țărmul.",
+      "transliteration": "Valuri ocean, lovind tarmul.",
+      "category": "Nature",
+      "generated_at": "2026-10-08T18:25:32.343001"
+    },
+    {
+      "english": "Sun dips low, painting the west.",
+      "romanian": "Soarele apune, pictează apusul.",
+      "transliteration": "Soarele apune, picteaza apusul.",
+      "category": "Nature",
+      "generated_at": "2026-10-08T18:25:32.343002"
     }
   ],
-  "last_updated": "2026-10-08T03:31:19.607654"
+  "last_updated": "2026-10-08T18:25:32.343004"
 }
