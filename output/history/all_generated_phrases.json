@@ -18619,7 +18619,42 @@
       "transliteration": "O strălucire blândă, de afecțiune.",
       "category": "Feelings",
       "generated_at": "2026-10-10T20:28:14.335378"
+    },
+    {
+      "english": "Taste the plum brandy, say 'noroc'.",
+      "romanian": "Gustă țuica, spune 'noroc'.",
+      "transliteration": "Goo-stuh tsoo-ee-kuh, spoon-eh 'no-rock'.",
+      "category": "Education",
+      "generated_at": "2026-10-10T23:12:19.463908"
+    },
+    {
+      "english": "Hear the church bells, learn a greeting.",
+      "romanian": "Auzi clopotele, învață o urare.",
+      "transliteration": "Ow-zee clop-oh-tel-eh, een-vah-tsuh oh oo-rah-reh.",
+      "category": "Education",
+      "generated_at": "2026-10-10T23:12:19.463916"
+    },
+    {
+      "english": "Walk the cobbled streets, try a question.",
+      "romanian": "Mergi pe străzile pietruite, încearcă o întrebare.",
+      "transliteration": "Merj peh streh-zee-leh pyet-roo-ee-teh, een-cher-kuh oh en-treh-bah-reh.",
+      "category": "Education",
+      "generated_at": "2026-10-10T23:12:19.463917"
+    },
+    {
+      "english": "See the painted monasteries, repeat a color.",
+      "romanian": "Vezi mănăstirile pictate, repetă o culoare.",
+      "transliteration": "Vez meh-nuh-stee-ree-leh peek-tah-teh, reh-peh-tuh oh coo-loh-reh.",
+      "category": "Education",
+      "generated_at": "2026-10-10T23:12:19.463918"
+    },
+    {
+      "english": "Smell the forest pine, whisper a word.",
+      "romanian": "Miroase a brad, șoptește un cuvânt.",
+      "transliteration": "Mee-roh-seh ah brad, shop-tesh-teh oon coo-vuhnt.",
+      "category": "Education",
+      "generated_at": "2026-10-10T23:12:19.463919"
     }
   ],
-  "last_updated": "2026-10-10T20:28:14.335380"
+  "last_updated": "2026-10-10T23:12:19.463920"
 }
