@@ -18899,7 +18899,42 @@
       "transliteration": "A-vehtz, cheh-va loo-krat ma-noo-al?",
       "category": "Shopping",
       "generated_at": "2026-10-12T20:54:20.100257"
+    },
+    {
+      "english": "A bright, juicy orange.",
+      "romanian": "O portocală, strălucitoare, zemoasă.",
+      "transliteration": "O por-to-CA-lă, stră-lu-CI-toare, ze-MOA-să.",
+      "category": "Food",
+      "generated_at": "2026-10-12T21:57:44.601588"
+    },
+    {
+      "english": "This rich, dark coffee.",
+      "romanian": "Această cafea, bogată, neagră.",
+      "transliteration": "A-CEAS-tă ca-FEA, bo-GATĂ, NEAG-ră.",
+      "category": "Food",
+      "generated_at": "2026-10-12T21:57:44.601602"
+    },
+    {
+      "english": "A perfect, ripe peach.",
+      "romanian": "O piersică, perfectă, coaptă.",
+      "transliteration": "O PIER-si-că, per-FEC-tă, COAP-tă.",
+      "category": "Food",
+      "generated_at": "2026-10-12T21:57:44.601604"
+    },
+    {
+      "english": "Sweet strawberries, a delight.",
+      "romanian": "Căpșuni dulci, o încântare.",
+      "transliteration": "Căp-ȘUNI dulci, o în-cân-TA-re.",
+      "category": "Food",
+      "generated_at": "2026-10-12T21:57:44.601606"
+    },
+    {
+      "english": "Crisp green beans, so fresh.",
+      "romanian": "Fasole verde, crocantă, proaspătă.",
+      "transliteration": "Fa-SO-le VER-de, cro-CANT-tă, PROAS-pă-tă.",
+      "category": "Food",
+      "generated_at": "2026-10-12T21:57:44.601607"
     }
   ],
-  "last_updated": "2026-10-12T20:54:20.100259"
+  "last_updated": "2026-10-12T21:57:44.601610"
 }
