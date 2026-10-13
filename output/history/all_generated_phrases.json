@@ -19039,7 +19039,42 @@
       "transliteration": "In-spi-ra ro-mu-na, ex-pi-ra in-do-i-eli.",
       "category": "Perseverance",
       "generated_at": "2026-10-13T04:29:10.491052"
+    },
+    {
+      "english": "The lion, roars its might.",
+      "romanian": "Leul, urlă cu putere.",
+      "transliteration": "Leh-ool, oor-lah koo poo-teh-reh.",
+      "category": "Animals",
+      "generated_at": "2026-10-13T18:52:44.249804"
+    },
+    {
+      "english": "A butterfly, flutters by.",
+      "romanian": "Un fluture, zboară ușor.",
+      "transliteration": "Oon floo-too-reh, zboh-ah-rah oo-shohr.",
+      "category": "Animals",
+      "generated_at": "2026-10-13T18:52:44.249816"
+    },
+    {
+      "english": "The bear, hibernates deeply.",
+      "romanian": "Ursul, iernează adânc.",
+      "transliteration": "Oor-sool, yeehr-neh-ah-zah ah-dunk.",
+      "category": "Animals",
+      "generated_at": "2026-10-13T18:52:44.249818"
+    },
+    {
+      "english": "A curious rabbit, twitches its nose.",
+      "romanian": "Un iepure curios, își mișcă nasul.",
+      "transliteration": "Oon yeh-poo-reh koh-ree-ohs, yeesh mee-shkah nah-sool.",
+      "category": "Animals",
+      "generated_at": "2026-10-13T18:52:44.249820"
+    },
+    {
+      "english": "The owl, blinks its big eyes.",
+      "romanian": "Bufnița, clipeste ochii mari.",
+      "transliteration": "Boof-neet-sah, kleep-eh-shteh oh-kee mah-ree.",
+      "category": "Animals",
+      "generated_at": "2026-10-13T18:52:44.249822"
     }
   ],
-  "last_updated": "2026-10-13T04:29:10.491054"
+  "last_updated": "2026-10-13T18:52:44.249824"
 }
