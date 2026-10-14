@@ -19214,7 +19214,42 @@
       "transliteration": "Râ-ul cur-ge, li-niș-tit.",
       "category": "Basic Phrases",
       "generated_at": "2026-10-14T02:38:45.905900"
+    },
+    {
+      "english": "My leg, it's injured badly.",
+      "romanian": "Piciorul meu, e rănit tare.",
+      "transliteration": "Pic-ee-or-ool may-oo, eh ruh-neet tah-reh.",
+      "category": "Emergency",
+      "generated_at": "2026-10-14T16:32:12.123290"
+    },
+    {
+      "english": "I think, I've been robbed.",
+      "romanian": "Cred, că am fost jefuit.",
+      "transliteration": "Kred, kuh am fost zheh-foo-eet.",
+      "category": "Emergency",
+      "generated_at": "2026-10-14T16:32:12.123300"
+    },
+    {
+      "english": "This street, it's very dark.",
+      "romanian": "Strada asta, e foarte întunecată.",
+      "transliteration": "Strah-dah ahs-tah, eh far-teh oon-too-neh-kah-tah.",
+      "category": "Emergency",
+      "generated_at": "2026-10-14T16:32:12.123302"
+    },
+    {
+      "english": "My child, is not well.",
+      "romanian": "Copilul meu, nu se simte bine.",
+      "transliteration": "Koh-pee-lool may-oo, noo seh seem-teh bee-neh.",
+      "category": "Emergency",
+      "generated_at": "2026-10-14T16:32:12.123304"
+    },
+    {
+      "english": "Is there, a police station, nearby?",
+      "romanian": "Există, o secție de poliție, aproape?",
+      "transliteration": "Ex-ees-tah, oh sek-tsee-eh deh poh-lee-tsee-eh, ah-proh-peh?",
+      "category": "Emergency",
+      "generated_at": "2026-10-14T16:32:12.123305"
     }
   ],
-  "last_updated": "2026-10-14T02:38:45.905902"
+  "last_updated": "2026-10-14T16:32:12.123308"
 }
