@@ -19424,7 +19424,42 @@
       "transliteration": "O-ra de au-r, pik-te-a-za lu-me-a.",
       "category": "Nature",
       "generated_at": "2026-10-15T16:19:08.199009"
+    },
+    {
+      "english": "A sudden chill, in the air.",
+      "romanian": "Un frig brusc, în aer.",
+      "transliteration": "Oon frig broosk, in aer.",
+      "category": "Weather",
+      "generated_at": "2026-10-15T17:57:51.566894"
+    },
+    {
+      "english": "The fog lifts, slowly.",
+      "romanian": "Ceața se ridică, ușor.",
+      "transliteration": "Chea-tza se ree-dee-cuh, oo-shor.",
+      "category": "Weather",
+      "generated_at": "2026-10-15T17:57:51.566906"
+    },
+    {
+      "english": "Sun breaks through, a golden streak.",
+      "romanian": "Soarele sparge, o dungă aurie.",
+      "transliteration": "So-a-re-le spar-ge, o doong-guh ow-ree-yeh.",
+      "category": "Weather",
+      "generated_at": "2026-10-15T17:57:51.566908"
+    },
+    {
+      "english": "Rain begins, a gentle patter.",
+      "romanian": "Ploaia începe, un susur fin.",
+      "transliteration": "Plo-a-ya in-che-pe, oon soo-soor feen.",
+      "category": "Weather",
+      "generated_at": "2026-10-15T17:57:51.566909"
+    },
+    {
+      "english": "The wind howls, a lonely sound.",
+      "romanian": "Vântul urlă, un sunet trist.",
+      "transliteration": "Veen-tool oor-luh, oon soo-net trist.",
+      "category": "Weather",
+      "generated_at": "2026-10-15T17:57:51.566911"
     }
   ],
-  "last_updated": "2026-10-15T16:19:08.199010"
+  "last_updated": "2026-10-15T17:57:51.566912"
 }
