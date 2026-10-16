@@ -19529,7 +19529,42 @@
       "transliteration": "În-țe-legi, vor-be-le me-le ne-ros-ti-te.",
       "category": "Relationships",
       "generated_at": "2026-10-15T22:53:20.708168"
+    },
+    {
+      "english": "We're exploring, the menu, slowly.",
+      "romanian": "Explorăm, meniul, încet.",
+      "transliteration": "Explo-rahm, me-ne-ul, in-tset.",
+      "category": "Restaurant",
+      "generated_at": "2026-10-16T02:11:34.042060"
+    },
+    {
+      "english": "What's, particularly good, today?",
+      "romanian": "Ce e, deosebit, azi?",
+      "transliteration": "Cheh yeh, de-oh-seh-beet, ahz?",
+      "category": "Restaurant",
+      "generated_at": "2026-10-16T02:11:34.042076"
+    },
+    {
+      "english": "My palate, is ready, for adventure.",
+      "romanian": "Palatul meu, e pregătit, de aventură.",
+      "transliteration": "Pa-la-tul meh-oo, eh pre-geh-teet, deh ah-ven-too-rah.",
+      "category": "Restaurant",
+      "generated_at": "2026-10-16T02:11:34.042078"
+    },
+    {
+      "english": "Could I, see that, again please?",
+      "romanian": "Pot să, văd asta, iarăși?",
+      "transliteration": "Pot sah, voed ah-stah, ya-rash?",
+      "category": "Restaurant",
+      "generated_at": "2026-10-16T02:11:34.042080"
+    },
+    {
+      "english": "This, looks interesting, for sure.",
+      "romanian": "Asta, pare interesant, sigur.",
+      "transliteration": "Ah-stah, pa-reh in-teh-reh-sahnt, see-goor.",
+      "category": "Restaurant",
+      "generated_at": "2026-10-16T02:11:34.042082"
     }
   ],
-  "last_updated": "2026-10-15T22:53:20.708169"
+  "last_updated": "2026-10-16T02:11:34.042084"
 }
