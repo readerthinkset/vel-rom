@@ -19809,7 +19809,42 @@
       "transliteration": "Fi-e-ca-re su-net, o u-șă no-uă.",
       "category": "Success",
       "generated_at": "2026-10-17T19:01:14.845663"
+    },
+    {
+      "english": "The village sleeps, peacefully.",
+      "romanian": "Satul doarme, liniștit.",
+      "transliteration": "Sa-tul door-meh, lee-neesh-TEET.",
+      "category": "Travel",
+      "generated_at": "2026-10-17T21:57:57.037108"
+    },
+    {
+      "english": "Let's find, a cozy inn.",
+      "romanian": "Să găsim, o pensiune drăguță.",
+      "transliteration": "Suh guh-SEEM, oh pen-SEE-oo-neh druh-TSOO-tsuh.",
+      "category": "Travel",
+      "generated_at": "2026-10-17T21:57:57.037118"
+    },
+    {
+      "english": "Such winding, ancient roads.",
+      "romanian": "Ce drumuri, vechi, șerpuite.",
+      "transliteration": "Cheh droom-oor, vehk, sher-poo-EE-teh.",
+      "category": "Travel",
+      "generated_at": "2026-10-17T21:57:57.037119"
+    },
+    {
+      "english": "The air feels, so fresh.",
+      "romanian": "Aerul pare, atât de proaspăt.",
+      "transliteration": "Ah-eh-rool pah-reh, ah-TUT deh pro-AS-put.",
+      "category": "Travel",
+      "generated_at": "2026-10-17T21:57:57.037121"
+    },
+    {
+      "english": "Can you recommend, a good restaurant?",
+      "romanian": "Recomandați, un restaurant bun?",
+      "transliteration": "Reh-koh-mahn-DAHTS, oon res-tow-RAHNT boon?",
+      "category": "Travel",
+      "generated_at": "2026-10-17T21:57:57.037122"
     }
   ],
-  "last_updated": "2026-10-17T19:01:14.845665"
+  "last_updated": "2026-10-17T21:57:57.037124"
 }
