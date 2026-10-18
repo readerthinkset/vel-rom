@@ -19844,7 +19844,42 @@
       "transliteration": "Reh-koh-mahn-DAHTS, oon res-tow-RAHNT boon?",
       "category": "Travel",
       "generated_at": "2026-10-17T21:57:57.037122"
+    },
+    {
+      "english": "Ocean breeze, calls your name.",
+      "romanian": "Briza oceanului, îți cheamă numele.",
+      "transliteration": "Bree-zah oh-tseh-ah-noo-loo-ee, yeetz tcha-mah noo-meh-le.",
+      "category": "Holidays",
+      "generated_at": "2026-10-18T02:04:13.560173"
+    },
+    {
+      "english": "Mountain peaks, touch the clouds.",
+      "romanian": "Vârfuri montane, ating norii.",
+      "transliteration": "Vur-fur mon-tah-neh, ah-teeng nor-ee.",
+      "category": "Holidays",
+      "generated_at": "2026-10-18T02:04:13.560185"
+    },
+    {
+      "english": "Forest whispers, secrets deep.",
+      "romanian": "Pădurea șoptește, secrete adânci.",
+      "transliteration": "Puh-doo-ryah shop-teesh-teh, seh-kreh-teh ah-dunzh.",
+      "category": "Holidays",
+      "generated_at": "2026-10-18T02:04:13.560186"
+    },
+    {
+      "english": "Desert sands, shift slowly.",
+      "romanian": "Nisipuri deșertice, se mișcă lent.",
+      "transliteration": "Nee-see-poor desh-er-tee-tseh, seh meesh-kah lent.",
+      "category": "Holidays",
+      "generated_at": "2026-10-18T02:04:13.560187"
+    },
+    {
+      "english": "City lights, a vibrant hum.",
+      "romanian": "Lumini urbane, un zumzet vibrant.",
+      "transliteration": "Loo-mee-nee oor-bah-neh, oon zoom-zeht vee-brahnt.",
+      "category": "Holidays",
+      "generated_at": "2026-10-18T02:04:13.560187"
     }
   ],
-  "last_updated": "2026-10-17T21:57:57.037124"
+  "last_updated": "2026-10-18T02:04:13.560189"
 }
