@@ -2,11 +2,11 @@ name: VELOCITY ROMANIAN - Daily 5x Upload
 
 on:
   schedule:
-    - cron: '0 12 * * *'
-    - cron: '0 14 * * *'
-    - cron: '0 17 * * *'
-    - cron: '0 20 * * *'
-    - cron: '0 0 * * *'
+    - cron: '28 12 * * *'
+    - cron: '28 14 * * *'
+    - cron: '28 17 * * *'
+    - cron: '28 20 * * *'
+    - cron: '28 0 * * *'
 
   workflow_dispatch:
 
