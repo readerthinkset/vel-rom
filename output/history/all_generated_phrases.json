@@ -20509,7 +20509,42 @@
       "transliteration": "Merj ee-nah-een-teh, dehsh-tept.",
       "category": "Work",
       "generated_at": "2026-10-21T23:33:06.189020"
+    },
+    {
+      "english": "The sleepy hedgehog, curls into a ball.",
+      "romanian": "Ariciul adormit, se face ghem.",
+      "transliteration": "A-ree-chul a-dor-meet, se face ghem.",
+      "category": "Animals",
+      "generated_at": "2026-10-22T05:08:43.093604"
+    },
+    {
+      "english": "A tiny ladybug, walks on a petal.",
+      "romanian": "Buburuza mică, merge pe petală.",
+      "transliteration": "Boo-boo-roo-za mee-ka, mer-je pe pe-ta-la.",
+      "category": "Animals",
+      "generated_at": "2026-10-22T05:08:43.093613"
+    },
+    {
+      "english": "The curious otter, plays in the water.",
+      "romanian": "Vidra curioasă, se joacă în apă.",
+      "transliteration": "Vee-dra koo-ree-o-sa, se joa-ka in a-pa.",
+      "category": "Animals",
+      "generated_at": "2026-10-22T05:08:43.093614"
+    },
+    {
+      "english": "A busy squirrel, hides its nuts.",
+      "romanian": "Veverița harnică, își ascunde nucile.",
+      "transliteration": "Ve-ve-ree-tsa har-nee-ka, yish a-skoon-de noo-che-le.",
+      "category": "Animals",
+      "generated_at": "2026-10-22T05:08:43.093614"
+    },
+    {
+      "english": "The colorful parrot, squawks loudly.",
+      "romanian": "Papagalul colorat, țipă tare.",
+      "transliteration": "Pa-pa-ga-lul ko-lo-rat, tee-pa ta-re.",
+      "category": "Animals",
+      "generated_at": "2026-10-22T05:08:43.093615"
     }
   ],
-  "last_updated": "2026-10-21T23:33:06.189021"
+  "last_updated": "2026-10-22T05:08:43.093616"
 }
