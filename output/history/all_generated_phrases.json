@@ -20894,7 +20894,42 @@
       "transliteration": "Usturoi parfumat, pentru gust.",
       "category": "Food",
       "generated_at": "2026-10-24T17:32:52.133423"
+    },
+    {
+      "english": "A spark of joy, igniting.",
+      "romanian": "O scânteie de bucurie, aprinzându-se.",
+      "transliteration": "O skyn-tse-eh deh boo-koo-ree-eh, ah-preen-zun-du-seh.",
+      "category": "Feelings",
+      "generated_at": "2026-10-24T19:36:45.540337"
+    },
+    {
+      "english": "A quiet hum, of anticipation.",
+      "romanian": "Un freamăt liniștit, de anticipare.",
+      "transliteration": "Oon freh-mut lee-neesh-teet, deh ahn-tee-see-pah-reh.",
+      "category": "Feelings",
+      "generated_at": "2026-10-24T19:36:45.540349"
+    },
+    {
+      "english": "A blush of shyness, creeping.",
+      "romanian": "Un roșu de timiditate, ivindu-se.",
+      "transliteration": "Oon roh-shoo deh tee-mee-dee-tah-teh, ee-veen-du-seh.",
+      "category": "Feelings",
+      "generated_at": "2026-10-24T19:36:45.540351"
+    },
+    {
+      "english": "A tremor of nervousness, just a bit.",
+      "romanian": "Un fior de nervozitate, un pic.",
+      "transliteration": "Oon fee-or deh nehr-vo-zee-tah-teh, oon peek.",
+      "category": "Feelings",
+      "generated_at": "2026-10-24T19:36:45.540352"
+    },
+    {
+      "english": "A deep sigh, of relief.",
+      "romanian": "O adâncă oftare, de ușurare.",
+      "transliteration": "O ah-dun-kuh of-tah-reh, deh oo-shoo-rah-reh.",
+      "category": "Feelings",
+      "generated_at": "2026-10-24T19:36:45.540354"
     }
   ],
-  "last_updated": "2026-10-24T17:32:52.133424"
+  "last_updated": "2026-10-24T19:36:45.540356"
 }
