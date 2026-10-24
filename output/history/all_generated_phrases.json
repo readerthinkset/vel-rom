@@ -20859,7 +20859,42 @@
       "transliteration": "Po-dul vechi, șop-teș-te po-vești.",
       "category": "Travel",
       "generated_at": "2026-10-24T16:09:17.539834"
+    },
+    {
+      "english": "Sweet plums, from the tree.",
+      "romanian": "Prune dulci, din pom.",
+      "transliteration": "Prune dulci, din pom.",
+      "category": "Food",
+      "generated_at": "2026-10-24T17:32:52.133408"
+    },
+    {
+      "english": "A smoky eggplant, grilled.",
+      "romanian": "Vinete afumate, la grătar.",
+      "transliteration": "Vinete afumate, la gratar.",
+      "category": "Food",
+      "generated_at": "2026-10-24T17:32:52.133420"
+    },
+    {
+      "english": "Flour for bread, always needed.",
+      "romanian": "Făină pentru pâine, mereu necesară.",
+      "transliteration": "Faina pentru paine, mereu necesara.",
+      "category": "Food",
+      "generated_at": "2026-10-24T17:32:52.133421"
+    },
+    {
+      "english": "This sour cherry, tart.",
+      "romanian": "Vișina asta, acrișoară.",
+      "transliteration": "Visina asta, acrisoara.",
+      "category": "Food",
+      "generated_at": "2026-10-24T17:32:52.133422"
+    },
+    {
+      "english": "A fragrant garlic, for flavor.",
+      "romanian": "Usturoi parfumat, pentru gust.",
+      "transliteration": "Usturoi parfumat, pentru gust.",
+      "category": "Food",
+      "generated_at": "2026-10-24T17:32:52.133423"
     }
   ],
-  "last_updated": "2026-10-24T16:09:17.539836"
+  "last_updated": "2026-10-24T17:32:52.133424"
 }
