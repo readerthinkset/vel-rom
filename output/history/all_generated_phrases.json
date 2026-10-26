@@ -21209,7 +21209,42 @@
       "transliteration": "A-ten-ti-e, o per-so-a-na sus-pek-ta.",
       "category": "Emergency",
       "generated_at": "2026-10-26T18:46:25.812205"
+    },
+    {
+      "english": "Sunlight warms, practice begins.",
+      "romanian": "Soarele încălzește, practica începe.",
+      "transliteration": "Soa-reh-leh een-kuhl-zehsh-teh, prah-tee-kah een-cheh-peh.",
+      "category": "Education",
+      "generated_at": "2026-10-26T20:04:45.459897"
+    },
+    {
+      "english": "A friendly nod, a new word.",
+      "romanian": "Un salut prietenos, un cuvânt nou.",
+      "transliteration": "Oon sah-loot pree-eh-teh-nohs, oon koo-vuhnt noo.",
+      "category": "Education",
+      "generated_at": "2026-10-26T20:04:45.459908"
+    },
+    {
+      "english": "Mountains beckon, learn to ask.",
+      "romanian": "Munții ne cheamă, învață să întrebi.",
+      "transliteration": "Moon-tsee neh chey-mah, een-vah-tsuh suh een-trehb.",
+      "category": "Education",
+      "generated_at": "2026-10-26T20:04:45.459910"
+    },
+    {
+      "english": "Coffee's brewing, say 'good morning'.",
+      "romanian": "Cafeaua fierbe, spune 'bună dimineața'.",
+      "transliteration": "Kah-feh-ah-wah fee-er-beh, spoon-eh 'boo-nah dee-mee-nyah-tsah'.",
+      "category": "Education",
+      "generated_at": "2026-10-26T20:04:45.459911"
+    },
+    {
+      "english": "The river flows, speak a phrase.",
+      "romanian": "Râul curge, rostește o frază.",
+      "transliteration": "Roo-ool koo-rgeh, rohs-tehsh-teh oh frah-zuh.",
+      "category": "Education",
+      "generated_at": "2026-10-26T20:04:45.459912"
     }
   ],
-  "last_updated": "2026-10-26T18:46:25.812207"
+  "last_updated": "2026-10-26T20:04:45.459914"
 }
