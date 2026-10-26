@@ -21174,7 +21174,42 @@
       "transliteration": "Ahs-kool-tah bee-neh, pow-ee res-poon-deh.",
       "category": "Confidence",
       "generated_at": "2026-10-26T05:10:18.339864"
+    },
+    {
+      "english": "Sudden dizziness, I need to sit.",
+      "romanian": "Amețeală bruscă, trebuie să mă așez.",
+      "transliteration": "Amets-eala brus-ka, tre-bu-ye sa ma as-eyz.",
+      "category": "Emergency",
+      "generated_at": "2026-10-26T18:46:25.812188"
+    },
+    {
+      "english": "Fire, over there, quickly!",
+      "romanian": "Foc, acolo, repede!",
+      "transliteration": "Fok, ak-o-lo, re-pe-de!",
+      "category": "Emergency",
+      "generated_at": "2026-10-26T18:46:25.812200"
+    },
+    {
+      "english": "My documents, are gone.",
+      "romanian": "Documentele, mele, lipsesc.",
+      "transliteration": "Do-ku-men-te-le me-le, lip-sesk.",
+      "category": "Emergency",
+      "generated_at": "2026-10-26T18:46:25.812202"
+    },
+    {
+      "english": "I can't breathe, well.",
+      "romanian": "Nu pot, să respir, bine.",
+      "transliteration": "Nu pot, sa res-pir, bi-ne.",
+      "category": "Emergency",
+      "generated_at": "2026-10-26T18:46:25.812203"
+    },
+    {
+      "english": "Alert, a suspicious person.",
+      "romanian": "Atenție, o persoană suspectă.",
+      "transliteration": "A-ten-ti-e, o per-so-a-na sus-pek-ta.",
+      "category": "Emergency",
+      "generated_at": "2026-10-26T18:46:25.812205"
     }
   ],
-  "last_updated": "2026-10-26T05:10:18.339866"
+  "last_updated": "2026-10-26T18:46:25.812207"
 }
