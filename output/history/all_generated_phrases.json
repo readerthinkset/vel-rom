@@ -21314,7 +21314,42 @@
       "transliteration": "Eh teem-pool pehn-troo roo-muh-nah, mehr-jem?",
       "category": "Greetings",
       "generated_at": "2026-10-27T00:00:14.419670"
+    },
+    {
+      "english": "Dive in, Romanian awaits.",
+      "romanian": "Scufundă-te, româna te așteaptă.",
+      "transliteration": "Scufun-duh-tuh, ro-mah-nah tuh a-shep-tuh.",
+      "category": "Success",
+      "generated_at": "2026-10-27T05:21:34.449947"
+    },
+    {
+      "english": "Little by little, grow.",
+      "romanian": "Încet, încet, crește.",
+      "transliteration": "In-chet, in-chet, cresh-te.",
+      "category": "Success",
+      "generated_at": "2026-10-27T05:21:34.449958"
+    },
+    {
+      "english": "Hear a new sound, smile.",
+      "romanian": "Auzi un sunet nou, zâmbește.",
+      "transliteration": "A-u-zi un su-net nou, zem-besh-te.",
+      "category": "Success",
+      "generated_at": "2026-10-27T05:21:34.449959"
+    },
+    {
+      "english": "This sentence, yours now.",
+      "romanian": "Această propoziție, a ta acum.",
+      "transliteration": "A-ches-tuh pro-po-zi-tsee-eh, a ta a-kum.",
+      "category": "Success",
+      "generated_at": "2026-10-27T05:21:34.449960"
+    },
+    {
+      "english": "One more word, progress.",
+      "romanian": "Încă un cuvânt, progres.",
+      "transliteration": "In-kuh un cu-vint, pro-gres.",
+      "category": "Success",
+      "generated_at": "2026-10-27T05:21:34.449961"
     }
   ],
-  "last_updated": "2026-10-27T00:00:14.419672"
+  "last_updated": "2026-10-27T05:21:34.449962"
 }
