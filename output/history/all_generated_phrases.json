@@ -21349,7 +21349,42 @@
       "transliteration": "In-kuh un cu-vint, pro-gres.",
       "category": "Success",
       "generated_at": "2026-10-27T05:21:34.449961"
+    },
+    {
+      "english": "The hour flies, quickly.",
+      "romanian": "Ora zboară, repede.",
+      "transliteration": "O-ra zbo-a-ră, re-pe-de.",
+      "category": "Time",
+      "generated_at": "2026-10-27T19:34:19.571002"
+    },
+    {
+      "english": "Soon, a new journey.",
+      "romanian": "Curând, o nouă călătorie.",
+      "transliteration": "Cu-rând, o no-uă că-lă-to-ri-e.",
+      "category": "Time",
+      "generated_at": "2026-10-27T19:34:19.571015"
+    },
+    {
+      "english": "This moment, savored.",
+      "romanian": "Acest moment, savurat.",
+      "transliteration": "A-cest mo-ment, sa-vu-rat.",
+      "category": "Time",
+      "generated_at": "2026-10-27T19:34:19.571017"
+    },
+    {
+      "english": "Time waits, for no one.",
+      "romanian": "Timpul nu așteaptă, pe nimeni.",
+      "transliteration": "Tim-pul nu a-ștea-aptă, pe ni-meni.",
+      "category": "Time",
+      "generated_at": "2026-10-27T19:34:19.571019"
+    },
+    {
+      "english": "Before long, we'll meet.",
+      "romanian": "În curând, ne vom vedea.",
+      "transliteration": "În cu-rând, ne vom ve-dea.",
+      "category": "Time",
+      "generated_at": "2026-10-27T19:34:19.571020"
     }
   ],
-  "last_updated": "2026-10-27T05:21:34.449962"
+  "last_updated": "2026-10-27T19:34:19.571022"
 }
