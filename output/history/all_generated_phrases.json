@@ -21419,7 +21419,42 @@
       "transliteration": "Sa de-le-găm, sar-ci-ni.",
       "category": "Work",
       "generated_at": "2026-10-27T21:25:36.060023"
+    },
+    {
+      "english": "This menu, is quite tempting.",
+      "romanian": "Meniul acesta, e destul de tentant.",
+      "transliteration": "Me-nyuul ches-ta, eh des-tul deh ten-tant.",
+      "category": "Restaurant",
+      "generated_at": "2026-10-27T23:56:26.191827"
+    },
+    {
+      "english": "We'd like, to try, something new.",
+      "romanian": "Am vrea, să încercăm, ceva nou.",
+      "transliteration": "Ahm vrea, săhn chehr-kuhm, cheh-va noo.",
+      "category": "Restaurant",
+      "generated_at": "2026-10-27T23:56:26.191841"
+    },
+    {
+      "english": "Is the fish, very fresh, today?",
+      "romanian": "Peștele, e foarte proaspăt, azi?",
+      "transliteration": "Pesh-teh-leh, eh foar-teh pro-as-pwt, ahz?",
+      "category": "Restaurant",
+      "generated_at": "2026-10-27T23:56:26.191842"
+    },
+    {
+      "english": "Could we, have a small salad?",
+      "romanian": "Am putea, avea o salată mică?",
+      "transliteration": "Ahm poo-teh-a, ah-ve-a o sa-la-tuh mee-kuh?",
+      "category": "Restaurant",
+      "generated_at": "2026-10-27T23:56:26.191843"
+    },
+    {
+      "english": "What's, the chef's, specialty?",
+      "romanian": "Care e, specialitatea, bucătarului?",
+      "transliteration": "Ca-reh eh, spe-chee-ah-lee-ta-teh, boo-kuh-ta-roo-loo?",
+      "category": "Restaurant",
+      "generated_at": "2026-10-27T23:56:26.191845"
     }
   ],
-  "last_updated": "2026-10-27T21:25:36.060025"
+  "last_updated": "2026-10-27T23:56:26.191853"
 }
