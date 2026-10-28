@@ -21524,7 +21524,42 @@
       "transliteration": "În-va-ță-i rit-mul, sim-te-i pul-sul.",
       "category": "Purpose",
       "generated_at": "2026-10-28T18:26:12.471749"
+    },
+    {
+      "english": "Connect, with this meaning.",
+      "romanian": "Conectează-te, cu acest sens.",
+      "transliteration": "Ko-nek-TA-te-te, koo ah-CHEST sens.",
+      "category": "Directions",
+      "generated_at": "2026-10-28T19:52:07.766182"
+    },
+    {
+      "english": "Imagine, the speaker's smile.",
+      "romanian": "Imaginează-ți, zâmbetul vorbitorului.",
+      "transliteration": "Ee-ma-jee-NA-ze-tsee, ZUM-beh-tool vor-bee-TO-roo-loo.",
+      "category": "Directions",
+      "generated_at": "2026-10-28T19:52:07.766195"
+    },
+    {
+      "english": "Let the story, begin.",
+      "romanian": "Lasă povestea, să înceapă.",
+      "transliteration": "LA-sah po-VES-teh-ah, sah en-CHE-pah.",
+      "category": "Directions",
+      "generated_at": "2026-10-28T19:52:07.766198"
+    },
+    {
+      "english": "Taste, the syllable's flavor.",
+      "romanian": "Gustă, aroma silabei.",
+      "transliteration": "GOOS-tah, ah-RO-mah see-LA-bey.",
+      "category": "Directions",
+      "generated_at": "2026-10-28T19:52:07.766200"
+    },
+    {
+      "english": "Feel, the sound's texture.",
+      "romanian": "Simte, textura sunetului.",
+      "transliteration": "SEEM-teh, teek-TOO-rah SOO-neh-too-loo.",
+      "category": "Directions",
+      "generated_at": "2026-10-28T19:52:07.766202"
     }
   ],
-  "last_updated": "2026-10-28T18:26:12.471751"
+  "last_updated": "2026-10-28T19:52:07.766204"
 }
