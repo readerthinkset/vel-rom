@@ -22189,7 +22189,42 @@
       "transliteration": "Su-ne-te-le ro-mâ-nești, de-vin a-le ta-le.",
       "category": "Confidence",
       "generated_at": "2026-11-01T06:34:09.493917"
+    },
+    {
+      "english": "My eyebrow, arches, in surprise.",
+      "romanian": "Sprânceana mea, arcuită, de uimire.",
+      "transliteration": "Sprin-che-ana me-a, ar-cu-i-ta, de u-mi-re.",
+      "category": "Body Parts",
+      "generated_at": "2026-11-01T18:01:23.094191"
+    },
+    {
+      "english": "Your teeth, chatter, from the cold.",
+      "romanian": "Dinții tăi, clănțănesc, de frig.",
+      "transliteration": "Din-tii tai, clăn-ță-nesc, de frig.",
+      "category": "Body Parts",
+      "generated_at": "2026-11-01T18:01:23.094202"
+    },
+    {
+      "english": "His chin, trembles, with emotion.",
+      "romanian": "Bărbia lui, tremură, de emoție.",
+      "transliteration": "Băr-bi-a lui, tre-mu-ră, de e-mo-ți-e.",
+      "category": "Body Parts",
+      "generated_at": "2026-11-01T18:01:23.094204"
+    },
+    {
+      "english": "Her hair, falls, on her shoulders.",
+      "romanian": "Părul ei, cade, pe umeri.",
+      "transliteration": "Pă-rul ei, ca-de, pe u-me-ri.",
+      "category": "Body Parts",
+      "generated_at": "2026-11-01T18:01:23.094205"
+    },
+    {
+      "english": "My lips, whisper, a secret.",
+      "romanian": "Buzele mele, șoptesc, un secret.",
+      "transliteration": "Bu-ze-le me-le, șopt-e-sc, un se-cret.",
+      "category": "Body Parts",
+      "generated_at": "2026-11-01T18:01:23.094206"
     }
   ],
-  "last_updated": "2026-11-01T06:34:09.493919"
+  "last_updated": "2026-11-01T18:01:23.094208"
 }
