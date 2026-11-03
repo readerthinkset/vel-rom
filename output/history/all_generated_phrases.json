@@ -22469,7 +22469,42 @@
       "transliteration": "Pee-kah-too-ree-leh, dahn-seh-zah-zuh, yoo-shor.",
       "category": "Weather",
       "generated_at": "2026-11-02T23:57:53.251217"
+    },
+    {
+      "english": "Mom, your cooking, it's the best.",
+      "romanian": "Mamă, mâncarea ta, e cea mai bună.",
+      "transliteration": "Mama, mancarea ta, e cea mai buna.",
+      "category": "Family Terms",
+      "generated_at": "2026-11-03T02:33:41.060989"
+    },
+    {
+      "english": "Dad, let's fix this together.",
+      "romanian": "Tată, hai să reparăm asta, împreună.",
+      "transliteration": "Tata, hai sa reparam asta, impreuna.",
+      "category": "Family Terms",
+      "generated_at": "2026-11-03T02:33:41.061002"
+    },
+    {
+      "english": "My sister, she's always so funny.",
+      "romanian": "Sora mea, e mereu atât de amuzantă.",
+      "transliteration": "Sora mea, e mereu atat de amuzanta.",
+      "category": "Family Terms",
+      "generated_at": "2026-11-03T02:33:41.061004"
+    },
+    {
+      "english": "Brother, want to play cards?",
+      "romanian": "Frate, vrei să jucăm cărți?",
+      "transliteration": "Frate, vrei sa jucam carti?",
+      "category": "Family Terms",
+      "generated_at": "2026-11-03T02:33:41.061006"
+    },
+    {
+      "english": "Grandma, your stories, I love them.",
+      "romanian": "Bunică, poveștile tale, le ador.",
+      "transliteration": "Bunica, povestile tale, le ador.",
+      "category": "Family Terms",
+      "generated_at": "2026-11-03T02:33:41.061007"
     }
   ],
-  "last_updated": "2026-11-02T23:57:53.251218"
+  "last_updated": "2026-11-03T02:33:41.061009"
 }
