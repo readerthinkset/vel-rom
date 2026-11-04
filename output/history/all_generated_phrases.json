@@ -22679,7 +22679,42 @@
       "transliteration": "Ajutor, sangerez, apasati aici.",
       "category": "Emergency",
       "generated_at": "2026-11-04T00:47:47.996197"
+    },
+    {
+      "english": "A seagull, skims the waves, laughing softly.",
+      "romanian": "Un pescăruș, zboară jos, peste valuri, râzând încet.",
+      "transliteration": "Un pescarush, zboara jos, peste valuri, razand incet.",
+      "category": "Animals",
+      "generated_at": "2026-11-04T06:49:03.983245"
+    },
+    {
+      "english": "A hedgehog, sniffs the leaves, then waddles on.",
+      "romanian": "Un arici, adulmecă frunzele, apoi merge clătinând.",
+      "transliteration": "Un arici, adulmeca frunzele, apoi merge clatinand.",
+      "category": "Animals",
+      "generated_at": "2026-11-04T06:49:03.983256"
+    },
+    {
+      "english": "A raccoon, washes a pebble, near the dock.",
+      "romanian": "Un raton, spală o piatră, la debarcader.",
+      "transliteration": "Un raton, spala o piatra, la debarcader.",
+      "category": "Animals",
+      "generated_at": "2026-11-04T06:49:03.983258"
+    },
+    {
+      "english": "A raven, tilts its head, listening carefully.",
+      "romanian": "Un corb, își înclină capul, ascultând atent.",
+      "transliteration": "Un corb, isi inclina capul, ascultand atent.",
+      "category": "Animals",
+      "generated_at": "2026-11-04T06:49:03.983259"
+    },
+    {
+      "english": "A partridge, pecks seeds, in the quiet grass.",
+      "romanian": "O potârniche, ciugulește semințe, prin iarba liniștită.",
+      "transliteration": "O potarniche, ciuguleste seminte, prin iarba linistita.",
+      "category": "Animals",
+      "generated_at": "2026-11-04T06:49:03.983260"
     }
   ],
-  "last_updated": "2026-11-04T00:47:47.996199"
+  "last_updated": "2026-11-04T06:49:03.983261"
 }
