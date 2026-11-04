@@ -22644,7 +22644,42 @@
       "transliteration": "Sperantele mici cresc, ca aburul, din efort.",
       "category": "Hope",
       "generated_at": "2026-11-03T22:25:45.471131"
+    },
+    {
+      "english": "Fire, behind me, please help!",
+      "romanian": "Foc, în spatele meu, vă rog ajutați-mă!",
+      "transliteration": "Foc, in spatele meu, va rog ajutati-ma!",
+      "category": "Emergency",
+      "generated_at": "2026-11-04T00:47:47.996180"
+    },
+    {
+      "english": "Stop, someone is breaking in!",
+      "romanian": "Opriți-vă, cineva sparge înăuntru!",
+      "transliteration": "OpritI-va, cineva sparge inauntru!",
+      "category": "Emergency",
+      "generated_at": "2026-11-04T00:47:47.996192"
+    },
+    {
+      "english": "Call emergency services, now, please.",
+      "romanian": "Sunați la urgențe, acum, vă rog.",
+      "transliteration": "Sunati la urgente, acum, va rog.",
+      "category": "Emergency",
+      "generated_at": "2026-11-04T00:47:47.996194"
+    },
+    {
+      "english": "I feel faint, I need air.",
+      "romanian": "Sunt pe cale să leșin, am nevoie de aer.",
+      "transliteration": "Sunt pe cale sa lesin, am nevoie de aer.",
+      "category": "Emergency",
+      "generated_at": "2026-11-04T00:47:47.996195"
+    },
+    {
+      "english": "Help, I'm bleeding, apply pressure!",
+      "romanian": "Ajutor, sângerez, apăsați aici.",
+      "transliteration": "Ajutor, sangerez, apasati aici.",
+      "category": "Emergency",
+      "generated_at": "2026-11-04T00:47:47.996197"
     }
   ],
-  "last_updated": "2026-11-03T22:25:45.471133"
+  "last_updated": "2026-11-04T00:47:47.996199"
 }
