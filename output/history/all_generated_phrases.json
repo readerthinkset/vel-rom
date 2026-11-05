@@ -22924,7 +22924,42 @@
       "transliteration": "Am nevoie de taxi, la hotel.",
       "category": "Travel",
       "generated_at": "2026-11-05T20:10:47.493888"
+    },
+    {
+      "english": "I’d like the house specialty, please",
+      "romanian": "Aș vrea specialitatea casei, vă rog",
+      "transliteration": "Ash vrea specialitatea casei, va rog",
+      "category": "Restaurant",
+      "generated_at": "2026-11-05T21:10:59.050242"
+    },
+    {
+      "english": "Is this dish spicy, or mild",
+      "romanian": "Mâncarea asta e iute, sau blândă",
+      "transliteration": "Mancarea asta e iute, sau blândă",
+      "category": "Restaurant",
+      "generated_at": "2026-11-05T21:10:59.050253"
+    },
+    {
+      "english": "What goes best with the wine here",
+      "romanian": "Cu ce merge cel mai bine vinul",
+      "transliteration": "Cu ce merge cel mai bine vinul",
+      "category": "Restaurant",
+      "generated_at": "2026-11-05T21:10:59.050255"
+    },
+    {
+      "english": "Can you bring water, without gas",
+      "romanian": "Puteți aduce apă, fără acid",
+      "transliteration": "Puteti aduce apa, fara acid",
+      "category": "Restaurant",
+      "generated_at": "2026-11-05T21:10:59.050257"
+    },
+    {
+      "english": "Do you have vegetarian options, today",
+      "romanian": "Aveți opțiuni vegetariene, astăzi",
+      "transliteration": "Aveti optiuni vegetariene, astazi",
+      "category": "Restaurant",
+      "generated_at": "2026-11-05T21:10:59.050258"
     }
   ],
-  "last_updated": "2026-11-05T20:10:47.493890"
+  "last_updated": "2026-11-05T21:10:59.050260"
 }
