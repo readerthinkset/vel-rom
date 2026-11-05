@@ -22959,7 +22959,42 @@
       "transliteration": "Aveti optiuni vegetariene, astazi",
       "category": "Restaurant",
       "generated_at": "2026-11-05T21:10:59.050258"
+    },
+    {
+      "english": "Hold your horses, time to begin, breathe in.",
+      "romanian": "Ține-ți caii, e timpul să începi, respiră.",
+      "transliteration": "Ți-ne-ți caii, e tim-pul să în-ce-pi, re-spi-ră.",
+      "category": "Time",
+      "generated_at": "2026-11-05T22:45:02.273822"
+    },
+    {
+      "english": "Set the timer, listen, count, then move.",
+      "romanian": "Pornește cronometrul, ascultă, numără, apoi pleacă.",
+      "transliteration": "Por-neș-te cro-nome-trul, as-cultă, nu-mă-ră, a-poi ple-că.",
+      "category": "Time",
+      "generated_at": "2026-11-05T22:45:02.273832"
+    },
+    {
+      "english": "Be right on time, not a minute late.",
+      "romanian": "Fii la timp, nu cu un minut mai târziu.",
+      "transliteration": "Fii la timp, nu cu un mi-nut mai târ-ziu.",
+      "category": "Time",
+      "generated_at": "2026-11-05T22:45:02.273834"
+    },
+    {
+      "english": "Minutes matter, little steps, steady pace.",
+      "romanian": "Contează minutele, pași mici, ritm constant.",
+      "transliteration": "Con-tea-ză mi-nu-te-le, pași mi-ci, ritm con-stant.",
+      "category": "Time",
+      "generated_at": "2026-11-05T22:45:02.273835"
+    },
+    {
+      "english": "Tick tock, relax your shoulders, continue.",
+      "romanian": "Tac, tic, lasă umerii, continuă.",
+      "transliteration": "Tac, tic, la-să u-me-rii, con-ti-nuă.",
+      "category": "Time",
+      "generated_at": "2026-11-05T22:45:02.273836"
     }
   ],
-  "last_updated": "2026-11-05T21:10:59.050260"
+  "last_updated": "2026-11-05T22:45:02.273838"
 }
