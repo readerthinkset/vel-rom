@@ -22889,7 +22889,42 @@
       "transliteration": "Cinci minute, exercitiu mic, rezultate mari.",
       "category": "Numbers",
       "generated_at": "2026-11-05T07:09:24.378467"
+    },
+    {
+      "english": "Excuse me, where is the train station?",
+      "romanian": "Scuzați-mă, unde este gara?",
+      "transliteration": "Skuzati-ma, unde este gara?",
+      "category": "Travel",
+      "generated_at": "2026-11-05T20:10:47.493868"
+    },
+    {
+      "english": "How much is a day pass, please?",
+      "romanian": "Cât costă un bilet de o zi?",
+      "transliteration": "Cat costa un bilet de o zi?",
+      "category": "Travel",
+      "generated_at": "2026-11-05T20:10:47.493883"
+    },
+    {
+      "english": "Is it safe, to walk here at night?",
+      "romanian": "E sigur, să mergem aici noaptea?",
+      "transliteration": "E sigur, sa mergem aici noaptea?",
+      "category": "Travel",
+      "generated_at": "2026-11-05T20:10:47.493885"
+    },
+    {
+      "english": "Do you have an English map, please?",
+      "romanian": "Aveți o hartă în engleză?",
+      "transliteration": "Aveti o harta in engleza?",
+      "category": "Travel",
+      "generated_at": "2026-11-05T20:10:47.493886"
+    },
+    {
+      "english": "I need a taxi, to the hotel.",
+      "romanian": "Am nevoie de taxi, la hotel.",
+      "transliteration": "Am nevoie de taxi, la hotel.",
+      "category": "Travel",
+      "generated_at": "2026-11-05T20:10:47.493888"
     }
   ],
-  "last_updated": "2026-11-05T07:09:24.378468"
+  "last_updated": "2026-11-05T20:10:47.493890"
 }
