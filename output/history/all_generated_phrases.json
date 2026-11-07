@@ -23169,7 +23169,42 @@
       "transliteration": "Aduna detalii mici, cladeste ceva neasteptat.",
       "category": "Creativity",
       "generated_at": "2026-11-06T22:14:24.020254"
+    },
+    {
+      "english": "How much is this, in total, please?",
+      "romanian": "Cât costă, acesta, în total, vă rog?",
+      "transliteration": "Cat costa, acesta, in total, va rog?",
+      "category": "Shopping",
+      "generated_at": "2026-11-07T00:14:04.426504"
+    },
+    {
+      "english": "Do you have it, in a different size?",
+      "romanian": "Îl aveți, în altă mărime?",
+      "transliteration": "Il aveti, in alta marime?",
+      "category": "Shopping",
+      "generated_at": "2026-11-07T00:14:04.426520"
+    },
+    {
+      "english": "Can I try it on, right now?",
+      "romanian": "Pot să-l încerc, chiar acum?",
+      "transliteration": "Pot sa-l incerc, chiar acum?",
+      "category": "Shopping",
+      "generated_at": "2026-11-07T00:14:04.426522"
+    },
+    {
+      "english": "Is it made here, locally, or imported?",
+      "romanian": "E făcut aici, local, sau importat?",
+      "transliteration": "E facut aici, local, sau importat?",
+      "category": "Shopping",
+      "generated_at": "2026-11-07T00:14:04.426523"
+    },
+    {
+      "english": "What material is this, exactly, please?",
+      "romanian": "Din ce material este, exact, vă rog?",
+      "transliteration": "Din ce material este, exact, va rog?",
+      "category": "Shopping",
+      "generated_at": "2026-11-07T00:14:04.426525"
     }
   ],
-  "last_updated": "2026-11-06T22:14:24.020256"
+  "last_updated": "2026-11-07T00:14:04.426527"
 }
