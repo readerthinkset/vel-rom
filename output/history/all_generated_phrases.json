@@ -23414,7 +23414,42 @@
       "transliteration": "Voi vorbi incet, si clar.",
       "category": "Confidence",
       "generated_at": "2026-11-08T06:27:06.973039"
+    },
+    {
+      "english": "Morning fog comes, slowly, then disappears",
+      "romanian": "Ceața de dimineață vine, încet, apoi dispare",
+      "transliteration": "Ceata de dimineata vine, incet, apoi dispare",
+      "category": "Weather",
+      "generated_at": "2026-11-08T18:00:39.725356"
+    },
+    {
+      "english": "Thunder rumbles, far away, in the mountains",
+      "romanian": "Tunetul răsună, departe, în munți",
+      "transliteration": "Tunetul rasuna, departe, in munti",
+      "category": "Weather",
+      "generated_at": "2026-11-08T18:00:39.725367"
+    },
+    {
+      "english": "The clouds drift, slow and heavy, overhead",
+      "romanian": "Norii plutesc, încet și grei, deasupra",
+      "transliteration": "Norii plutesc, incet si grei, deasupra",
+      "category": "Weather",
+      "generated_at": "2026-11-08T18:00:39.725370"
+    },
+    {
+      "english": "Rain starts again, then pauses, for a while",
+      "romanian": "Începe ploaia, apoi se oprește, pentru puțin",
+      "transliteration": "Incepe ploaia, apoi se opreste, pentru putin",
+      "category": "Weather",
+      "generated_at": "2026-11-08T18:00:39.725371"
+    },
+    {
+      "english": "A cold front arrives, quick footsteps, in wind",
+      "romanian": "Frontul rece sosește, pași rapizi, în vânt",
+      "transliteration": "Frontul rece sosește, pasi rapizi, in vant",
+      "category": "Weather",
+      "generated_at": "2026-11-08T18:00:39.725373"
     }
   ],
-  "last_updated": "2026-11-08T06:27:06.973041"
+  "last_updated": "2026-11-08T18:00:39.725375"
 }
