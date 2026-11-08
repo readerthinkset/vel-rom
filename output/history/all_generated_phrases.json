@@ -23379,7 +23379,42 @@
       "transliteration": "Cardiganul ei e cald, fara sa fie voluminos.",
       "category": "Clothes",
       "generated_at": "2026-11-07T23:49:51.376657"
+    },
+    {
+      "english": "I can do this, one sentence.",
+      "romanian": "Pot, o singură propoziție.",
+      "transliteration": "Pot, o singura propozitie.",
+      "category": "Confidence",
+      "generated_at": "2026-11-08T06:27:06.973022"
+    },
+    {
+      "english": "Mistakes happen, I keep going.",
+      "romanian": "Greșelile apar, merg mai departe.",
+      "transliteration": "Greselile apar, merg mai departe.",
+      "category": "Confidence",
+      "generated_at": "2026-11-08T06:27:06.973036"
+    },
+    {
+      "english": "I understand, a little more today.",
+      "romanian": "Înțeleg, puțin mai mult azi.",
+      "transliteration": "Inteleg, putin mai mult azi.",
+      "category": "Confidence",
+      "generated_at": "2026-11-08T06:27:06.973037"
+    },
+    {
+      "english": "Pause, breathe, then choose the word.",
+      "romanian": "Pauză, respiră, apoi aleg cuvântul.",
+      "transliteration": "Pauza, respira, apoi aleg cuvantul.",
+      "category": "Confidence",
+      "generated_at": "2026-11-08T06:27:06.973038"
+    },
+    {
+      "english": "I will speak slowly, and clearly.",
+      "romanian": "Voi vorbi încet, și clar.",
+      "transliteration": "Voi vorbi incet, si clar.",
+      "category": "Confidence",
+      "generated_at": "2026-11-08T06:27:06.973039"
     }
   ],
-  "last_updated": "2026-11-07T23:49:51.376659"
+  "last_updated": "2026-11-08T06:27:06.973041"
 }
