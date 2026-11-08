@@ -23449,7 +23449,42 @@
       "transliteration": "Frontul rece sosește, pasi rapizi, in vant",
       "category": "Weather",
       "generated_at": "2026-11-08T18:00:39.725373"
+    },
+    {
+      "english": "This nose smells fresh bread, in the morning",
+      "romanian": "Nasul miroase pâine proaspătă, dimineața",
+      "transliteration": "Nasul miroase paine proaspata, dimineata",
+      "category": "Body Parts",
+      "generated_at": "2026-11-08T18:58:43.551840"
+    },
+    {
+      "english": "My forehead creases, when I focus hard",
+      "romanian": "Fruntea se încrețește, când mă concentrez",
+      "transliteration": "Fruntea se increteste, cand ma concentrez",
+      "category": "Body Parts",
+      "generated_at": "2026-11-08T18:58:43.551851"
+    },
+    {
+      "english": "Your eye blinks slowly, after blinking lights",
+      "romanian": "Ochiul clipește încet, după lumini puternice",
+      "transliteration": "Ochiul clipeste incet, dupa lumini puternice",
+      "category": "Body Parts",
+      "generated_at": "2026-11-08T18:58:43.551853"
+    },
+    {
+      "english": "My cheek warms up, after a compliment",
+      "romanian": "Obrazul se încălzește, după un compliment",
+      "transliteration": "Obrazul se incalzeste, dupa un compliment",
+      "category": "Body Parts",
+      "generated_at": "2026-11-08T18:58:43.551855"
+    },
+    {
+      "english": "This ear listens quietly, to distant footsteps",
+      "romanian": "Urechea ascultă liniștit, pași depărtați",
+      "transliteration": "Urechea asculta linistit, pasi departati",
+      "category": "Body Parts",
+      "generated_at": "2026-11-08T18:58:43.551856"
     }
   ],
-  "last_updated": "2026-11-08T18:00:39.725375"
+  "last_updated": "2026-11-08T18:58:43.551858"
 }
