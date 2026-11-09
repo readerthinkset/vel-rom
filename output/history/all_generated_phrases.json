@@ -23554,7 +23554,42 @@
       "transliteration": "Îți apreciez, sprijinul tău contează mult.",
       "category": "Gratitude",
       "generated_at": "2026-11-08T23:54:50.231120"
+    },
+    {
+      "english": "Help, I’m trapped, please!",
+      "romanian": "Ajutor, sunt blocat, vă rog!",
+      "transliteration": "Ajutor, sunt blocat, vă rog!",
+      "category": "Emergency",
+      "generated_at": "2026-11-09T06:59:22.415147"
+    },
+    {
+      "english": "Fire spread, evacuate this floor now!",
+      "romanian": "Focul se extinde, evacuați etajul acum!",
+      "transliteration": "Focul se extinde, evacuați etajul acum!",
+      "category": "Emergency",
+      "generated_at": "2026-11-09T06:59:22.415158"
+    },
+    {
+      "english": "Call an ambulance, I’m having chest pain.",
+      "romanian": "Chemați o ambulanță, mă doare pieptul.",
+      "transliteration": "Chemați o ambulanță, mă doare pieptul.",
+      "category": "Emergency",
+      "generated_at": "2026-11-09T06:59:22.415160"
+    },
+    {
+      "english": "Stop, the door won’t open, I’m inside.",
+      "romanian": "Stai, ușa nu se deschide, sunt înăuntru.",
+      "transliteration": "Stai, ușa nu se deschide, sunt înăuntru.",
+      "category": "Emergency",
+      "generated_at": "2026-11-09T06:59:22.415161"
+    },
+    {
+      "english": "Someone is hurt, I need help immediately.",
+      "romanian": "Cineva e rănit, am nevoie de ajutor imediat.",
+      "transliteration": "Cineva e rănit, am nevoie de ajutor imediat.",
+      "category": "Emergency",
+      "generated_at": "2026-11-09T06:59:22.415163"
     }
   ],
-  "last_updated": "2026-11-08T23:54:50.231122"
+  "last_updated": "2026-11-09T06:59:22.415164"
 }
