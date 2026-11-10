@@ -23729,7 +23729,42 @@
       "transliteration": "Încetinește, respiră, apoi vorbește clar.",
       "category": "Success",
       "generated_at": "2026-11-10T02:51:49.540382"
+    },
+    {
+      "english": "I wake up, I stretch my arms",
+      "romanian": "Mă trezesc, îmi întind brațele",
+      "transliteration": "Ma trezesc, imi intind bratele",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-10T07:43:57.116585"
+    },
+    {
+      "english": "I drink water, then I open curtains",
+      "romanian": "Beau apă, apoi deschid draperiile",
+      "transliteration": "Beau apa, apoi deschid draperiile",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-10T07:43:57.116597"
+    },
+    {
+      "english": "I wash my face, quickly and calmly",
+      "romanian": "Îmi spăl fața, repede și calm",
+      "transliteration": "Imi spal fata, repede si calm",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-10T07:43:57.116598"
+    },
+    {
+      "english": "I brush my teeth, two minutes",
+      "romanian": "Îmi perie dinții, două minute",
+      "transliteration": "Imi perie dintii, doua minute",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-10T07:43:57.116600"
+    },
+    {
+      "english": "I make my bed, straighten the sheets",
+      "romanian": "Îmi aranjez patul, aliniez cearșafurile",
+      "transliteration": "Imi aranjez patul, aliniez cearsafurile",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-10T07:43:57.116601"
     }
   ],
-  "last_updated": "2026-11-10T02:51:49.540383"
+  "last_updated": "2026-11-10T07:43:57.116603"
 }
