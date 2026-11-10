@@ -23834,7 +23834,42 @@
       "transliteration": "Telefonul meu e la șapte la sută.",
       "category": "Numbers",
       "generated_at": "2026-11-10T19:04:18.706468"
+    },
+    {
+      "english": "Keep your eyes on the ball.",
+      "romanian": "Ține-ți ochii pe minge.",
+      "transliteration": "Tinee-ți ochii pe minghe.",
+      "category": "Sports",
+      "generated_at": "2026-11-10T20:41:01.514279"
+    },
+    {
+      "english": "Breathe, then sprint for the finish.",
+      "romanian": "Trage aerul, apoi accelerează spre final.",
+      "transliteration": "Trah-age aerul, apoi ake-selera-ze speh final.",
+      "category": "Sports",
+      "generated_at": "2026-11-10T20:41:01.514292"
+    },
+    {
+      "english": "Settle down, and focus on defense.",
+      "romanian": "Calmează-te, apoi concentrează-te pe apărare.",
+      "transliteration": "Ka-lmee-a-ze-te, apoi kon-tsen-tra-ze te pe a-pa-ra-re.",
+      "category": "Sports",
+      "generated_at": "2026-11-10T20:41:01.514293"
+    },
+    {
+      "english": "Pass it clean, no wasted touches.",
+      "romanian": "Dă pasa curat, fără atingeri inutile.",
+      "transliteration": "Dă pa-sa k(u)rât, fară atin-ge-ri inu-til-e.",
+      "category": "Sports",
+      "generated_at": "2026-11-10T20:41:01.514294"
+    },
+    {
+      "english": "Catch the serve, return it fast.",
+      "romanian": "Prinde serviciul, răspunde repede.",
+      "transliteration": "Prind(e) servi-ciul, răs-pun-de re-pe-de.",
+      "category": "Sports",
+      "generated_at": "2026-11-10T20:41:01.514295"
     }
   ],
-  "last_updated": "2026-11-10T19:04:18.706470"
+  "last_updated": "2026-11-10T20:41:01.514296"
 }
