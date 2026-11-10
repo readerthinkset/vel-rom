@@ -23799,7 +23799,42 @@
       "transliteration": "ri-di-kă to-nul, pu-tin la fi-nal",
       "category": "Directions",
       "generated_at": "2026-11-10T08:22:47.707975"
+    },
+    {
+      "english": "I need two tickets, please.",
+      "romanian": "Am nevoie de două bilete, vă rog.",
+      "transliteration": "Am nevoie de două bilete, vă rog.",
+      "category": "Numbers",
+      "generated_at": "2026-11-10T19:04:18.706451"
+    },
+    {
+      "english": "Give me three, not four.",
+      "romanian": "Dă-mi trei, nu patru.",
+      "transliteration": "Da-mi trei, nu patru.",
+      "category": "Numbers",
+      "generated_at": "2026-11-10T19:04:18.706463"
+    },
+    {
+      "english": "We have four apples at home.",
+      "romanian": "Avem patru mere acasă.",
+      "transliteration": "Avem patru mere acasă.",
+      "category": "Numbers",
+      "generated_at": "2026-11-10T19:04:18.706465"
+    },
+    {
+      "english": "She called me at six.",
+      "romanian": "Ea m-a sunat la șase.",
+      "transliteration": "Ea m-a sunat la șase.",
+      "category": "Numbers",
+      "generated_at": "2026-11-10T19:04:18.706467"
+    },
+    {
+      "english": "My phone is at seven percent.",
+      "romanian": "Telefonul meu e la șapte la sută.",
+      "transliteration": "Telefonul meu e la șapte la sută.",
+      "category": "Numbers",
+      "generated_at": "2026-11-10T19:04:18.706468"
     }
   ],
-  "last_updated": "2026-11-10T08:22:47.707977"
+  "last_updated": "2026-11-10T19:04:18.706470"
 }
