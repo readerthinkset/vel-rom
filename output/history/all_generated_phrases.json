@@ -24044,7 +24044,42 @@
       "transliteration": "Spu-ne da pă-cii, în li-niște.",
       "category": "Inner Peace",
       "generated_at": "2026-11-11T21:01:45.828311"
+    },
+    {
+      "english": "I feel calm, right now.",
+      "romanian": "Mă simt calm, chiar acum.",
+      "transliteration": "Ma simt calm, chiar acum",
+      "category": "Feelings",
+      "generated_at": "2026-11-11T23:23:04.213931"
+    },
+    {
+      "english": "I’m a little nervous, honestly.",
+      "romanian": "Sunt puțin nervos, sincer.",
+      "transliteration": "Sunt putin nervos, sincer",
+      "category": "Feelings",
+      "generated_at": "2026-11-11T23:23:04.213943"
+    },
+    {
+      "english": "I feel safe and relaxed.",
+      "romanian": "Mă simt în siguranță și relaxat.",
+      "transliteration": "Ma simt in siguranta si relaxat",
+      "category": "Feelings",
+      "generated_at": "2026-11-11T23:23:04.213945"
+    },
+    {
+      "english": "I feel excited, but controlled.",
+      "romanian": "Sunt încântat, dar controlat.",
+      "transliteration": "Sunt incantat, dar controlat",
+      "category": "Feelings",
+      "generated_at": "2026-11-11T23:23:04.213947"
+    },
+    {
+      "english": "I’m feeling hopeful about today.",
+      "romanian": "Am speranță pentru azi.",
+      "transliteration": "Am speranta pentru azi",
+      "category": "Feelings",
+      "generated_at": "2026-11-11T23:23:04.213949"
     }
   ],
-  "last_updated": "2026-11-11T21:01:45.828313"
+  "last_updated": "2026-11-11T23:23:04.213951"
 }
