@@ -23974,7 +23974,42 @@
       "transliteration": "Mergi la aer ku-rat, so-a-re-le a-ju-tă.",
       "category": "Health",
       "generated_at": "2026-11-11T03:20:50.846068"
+    },
+    {
+      "english": "I’ll be there soon, promise.",
+      "romanian": "Sunt acolo curând, promit.",
+      "transliteration": "Sunt a-kolo curând, promit.",
+      "category": "Time",
+      "generated_at": "2026-11-11T19:00:58.527154"
+    },
+    {
+      "english": "In two minutes, call me back.",
+      "romanian": "În două minute, sună-mă înapoi.",
+      "transliteration": "În două mi-nu-te, sună-mă în-a-poi.",
+      "category": "Time",
+      "generated_at": "2026-11-11T19:00:58.527171"
+    },
+    {
+      "english": "Wait a sec, I’m almost ready.",
+      "romanian": "Stai o secundă, sunt aproape gata.",
+      "transliteration": "Stai o se-con-dă, sunt a-proa-pe ga-ta.",
+      "category": "Time",
+      "generated_at": "2026-11-11T19:00:58.527173"
+    },
+    {
+      "english": "Let’s meet now, no more waiting.",
+      "romanian": "Hai să ne vedem acum, fără întârziere.",
+      "transliteration": "Hai să ne ve-dem a-cum, fără în-târ-zi-e-re.",
+      "category": "Time",
+      "generated_at": "2026-11-11T19:00:58.527175"
+    },
+    {
+      "english": "Not yet, we still have time.",
+      "romanian": "Încă nu, mai avem timp.",
+      "transliteration": "Încă nu, mai a-vem timp.",
+      "category": "Time",
+      "generated_at": "2026-11-11T19:00:58.527177"
     }
   ],
-  "last_updated": "2026-11-11T03:20:50.846071"
+  "last_updated": "2026-11-11T19:00:58.527180"
 }
