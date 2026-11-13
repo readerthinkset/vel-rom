@@ -24289,7 +24289,42 @@
       "transliteration": "Re-pe-tă fra-za, păs-tre-a-ză-o simplă.",
       "category": "Growth",
       "generated_at": "2026-11-13T00:47:26.111827"
+    },
+    {
+      "english": "I forgive you, and I move on.",
+      "romanian": "Te iert, și merg mai departe.",
+      "transliteration": "te iert, și merg mai departe",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-13T03:45:35.910668"
+    },
+    {
+      "english": "I drop the grudge, today.",
+      "romanian": "Las supărarea, azi.",
+      "transliteration": "las supărarea, azi",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-13T03:45:35.910683"
+    },
+    {
+      "english": "I choose peace over anger.",
+      "romanian": "Aleg pacea, nu furia.",
+      "transliteration": "a-leg pacea, nu fu-ria",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-13T03:45:35.910685"
+    },
+    {
+      "english": "You didn't mean it to hurt me.",
+      "romanian": "N-ai vrut să mă rănești.",
+      "transliteration": "n-ai vrut să mă rănești",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-13T03:45:35.910686"
+    },
+    {
+      "english": "I let it go, one breath.",
+      "romanian": "Îl las, dintr-o suflare.",
+      "transliteration": "îl las, dintr-o suflare",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-13T03:45:35.910687"
     }
   ],
-  "last_updated": "2026-11-13T00:47:26.111829"
+  "last_updated": "2026-11-13T03:45:35.910689"
 }
