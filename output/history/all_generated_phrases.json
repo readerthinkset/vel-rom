@@ -24569,7 +24569,42 @@
       "transliteration": "A-cum în-carcă să o spui TA-re.",
       "category": "Education",
       "generated_at": "2026-11-14T18:56:14.728765"
+    },
+    {
+      "english": "How much does this cost, please?",
+      "romanian": "Cât costă asta, vă rog?",
+      "transliteration": "Kat costă asta, vă rog?",
+      "category": "Shopping",
+      "generated_at": "2026-11-14T21:10:30.202271"
+    },
+    {
+      "english": "Do you have these in size M?",
+      "romanian": "Aveți astea, în mărimea M?",
+      "transliteration": "A-veți a-stea, în mă-ri-mea em.",
+      "category": "Shopping",
+      "generated_at": "2026-11-14T21:10:30.202286"
+    },
+    {
+      "english": "Can I pay by card, here?",
+      "romanian": "Pot plăti cu cardul, aici?",
+      "transliteration": "Pot plă-ti cu kar-dul, a-i-ci?",
+      "category": "Shopping",
+      "generated_at": "2026-11-14T21:10:30.202287"
+    },
+    {
+      "english": "Is there a discount today, maybe?",
+      "romanian": "E vreo reducere, azi, poate?",
+      "transliteration": "E vr-e-o re-du-ce-re, a-zi, poa-te?",
+      "category": "Shopping",
+      "generated_at": "2026-11-14T21:10:30.202288"
+    },
+    {
+      "english": "What colors are available for this?",
+      "romanian": "Ce culori aveți pentru asta?",
+      "transliteration": "Ke cu-lo-ri a-veți pen-tru a-sta?",
+      "category": "Shopping",
+      "generated_at": "2026-11-14T21:10:30.202288"
     }
   ],
-  "last_updated": "2026-11-14T18:56:14.728767"
+  "last_updated": "2026-11-14T21:10:30.202290"
 }
