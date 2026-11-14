@@ -24429,7 +24429,42 @@
       "transliteration": "blu-ză ei a-ră-tă le-jer, fă-ră să stră-lu-ceas-că prea ta-re",
       "category": "Clothes",
       "generated_at": "2026-11-13T22:25:46.789163"
+    },
+    {
+      "english": "Where is the nearest supermarket?",
+      "romanian": "Unde este cel mai apropiat supermarket?",
+      "transliteration": "Unde este cel mai aproapiat supermarkt?",
+      "category": "Basic Phrases",
+      "generated_at": "2026-11-14T00:31:52.302872"
+    },
+    {
+      "english": "I would like a coffee, please.",
+      "romanian": "Aș dori o cafea, vă rog.",
+      "transliteration": "Ash dori o ka-fe-a, va rog",
+      "category": "Basic Phrases",
+      "generated_at": "2026-11-14T00:31:52.302899"
+    },
+    {
+      "english": "Could you speak more slowly, please?",
+      "romanian": "Poți vorbi mai încet, te rog?",
+      "transliteration": "Potzi vorbi mai in-chet, te rog?",
+      "category": "Basic Phrases",
+      "generated_at": "2026-11-14T00:31:52.302901"
+    },
+    {
+      "english": "What time does it open?",
+      "romanian": "La ce oră se deschide?",
+      "transliteration": "La ke ora se des-chide?",
+      "category": "Basic Phrases",
+      "generated_at": "2026-11-14T00:31:52.302902"
+    },
+    {
+      "english": "Is there a bathroom nearby?",
+      "romanian": "Există o toaletă în apropiere?",
+      "transliteration": "Eksista o toaleta in aproapiere?",
+      "category": "Basic Phrases",
+      "generated_at": "2026-11-14T00:31:52.302904"
     }
   ],
-  "last_updated": "2026-11-13T22:25:46.789165"
+  "last_updated": "2026-11-14T00:31:52.302906"
 }
