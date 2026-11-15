@@ -24709,7 +24709,42 @@
       "transliteration": "concenTrEază-te pe un su-net, apoi conTinUă",
       "category": "Patience",
       "generated_at": "2026-11-15T18:12:46.207780"
+    },
+    {
+      "english": "Try “bună” and smile while speaking.",
+      "romanian": "Spune „bună” și zâmbește.",
+      "transliteration": "Spune „buna” si zambeste.",
+      "category": "Directions",
+      "generated_at": "2026-11-15T19:31:24.995392"
+    },
+    {
+      "english": "Say it once, then repeat right away.",
+      "romanian": "Spune o dată, apoi repetă.",
+      "transliteration": "Spune o data, apoi repeta.",
+      "category": "Directions",
+      "generated_at": "2026-11-15T19:31:24.995408"
+    },
+    {
+      "english": "Remember the stress, not the speed.",
+      "romanian": "Ține minte accentul, nu viteza.",
+      "transliteration": "Tine minte accentul, nu viteza.",
+      "category": "Directions",
+      "generated_at": "2026-11-15T19:31:24.995410"
+    },
+    {
+      "english": "Begin smoothly, keep the rhythm steady.",
+      "romanian": "Începe lin, ține ritmul constant.",
+      "transliteration": "Incepe lin, tine ritmul constant.",
+      "category": "Directions",
+      "generated_at": "2026-11-15T19:31:24.995412"
+    },
+    {
+      "english": "Speak the vowels clearly, but naturally.",
+      "romanian": "Pronunță vocalele clar, dar natural.",
+      "transliteration": "Pronunta vocalele clar, dar natural.",
+      "category": "Directions",
+      "generated_at": "2026-11-15T19:31:24.995414"
     }
   ],
-  "last_updated": "2026-11-15T18:12:46.207782"
+  "last_updated": "2026-11-15T19:31:24.995416"
 }
