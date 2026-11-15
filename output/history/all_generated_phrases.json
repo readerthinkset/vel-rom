@@ -24639,7 +24639,42 @@
       "transliteration": "As-cultă des, și u-re-chi-le în-vață și e-le.",
       "category": "Purpose",
       "generated_at": "2026-11-14T23:28:25.974158"
+    },
+    {
+      "english": "Hi, we’re looking for a table.",
+      "romanian": "Bună, căutăm o masă.",
+      "transliteration": "Bună, căutăm o masă.",
+      "category": "Restaurant",
+      "generated_at": "2026-11-15T03:21:40.198586"
+    },
+    {
+      "english": "Do you have a menu, please?",
+      "romanian": "Aveți un meniu, vă rog?",
+      "transliteration": "Av eți un meniu, vă rog?",
+      "category": "Restaurant",
+      "generated_at": "2026-11-15T03:21:40.198603"
+    },
+    {
+      "english": "We’d like to order now, please.",
+      "romanian": "Putem comanda acum, vă rog.",
+      "transliteration": "Putem comanda acum, vă rog.",
+      "category": "Restaurant",
+      "generated_at": "2026-11-15T03:21:40.198606"
+    },
+    {
+      "english": "Could we get two waters, please?",
+      "romanian": "Ne puteți aduce două ape, vă rog?",
+      "transliteration": "Ne puteți aduce două ape, vă rog?",
+      "category": "Restaurant",
+      "generated_at": "2026-11-15T03:21:40.198607"
+    },
+    {
+      "english": "Do you have sparkling water today?",
+      "romanian": "Aveți apă minerală cu gaz?",
+      "transliteration": "Aveți apă minerală cu gaz?",
+      "category": "Restaurant",
+      "generated_at": "2026-11-15T03:21:40.198609"
     }
   ],
-  "last_updated": "2026-11-14T23:28:25.974160"
+  "last_updated": "2026-11-15T03:21:40.198611"
 }
