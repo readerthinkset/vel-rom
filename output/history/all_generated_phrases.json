@@ -24674,7 +24674,42 @@
       "transliteration": "Aveți apă minerală cu gaz?",
       "category": "Restaurant",
       "generated_at": "2026-11-15T03:21:40.198609"
+    },
+    {
+      "english": "Wait, then try again slowly.",
+      "romanian": "Așteaptă, apoi încearcă iar, încet.",
+      "transliteration": "așteptează, apoi încearcă iar, încet",
+      "category": "Patience",
+      "generated_at": "2026-11-15T18:12:46.207766"
+    },
+    {
+      "english": "Pause, breathe, and listen first.",
+      "romanian": "Oprește-te, respiră, și ascultă întâi.",
+      "transliteration": "oprEște-te, respiră, și asculTă întEii",
+      "category": "Patience",
+      "generated_at": "2026-11-15T18:12:46.207778"
+    },
+    {
+      "english": "No grabby words, take your time.",
+      "romanian": "Fără grabă, folosește cuvintele încet.",
+      "transliteration": "fără grabă, folo-sește cuvintele încet",
+      "category": "Patience",
+      "generated_at": "2026-11-15T18:12:46.207779"
+    },
+    {
+      "english": "Let the sentence land in your mind.",
+      "romanian": "Lasă propoziția să se așeze în minte.",
+      "transliteration": "la-să propo-ziția să se așEze în minte",
+      "category": "Patience",
+      "generated_at": "2026-11-15T18:12:46.207780"
+    },
+    {
+      "english": "Focus on one sound, then move on.",
+      "romanian": "Concentrează-te pe un sunet, apoi continuă.",
+      "transliteration": "concenTrEază-te pe un su-net, apoi conTinUă",
+      "category": "Patience",
+      "generated_at": "2026-11-15T18:12:46.207780"
     }
   ],
-  "last_updated": "2026-11-15T03:21:40.198611"
+  "last_updated": "2026-11-15T18:12:46.207782"
 }
