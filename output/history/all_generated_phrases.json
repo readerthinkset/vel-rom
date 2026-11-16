@@ -24849,7 +24849,42 @@
       "transliteration": "umiditatea face totul sa para mai greu",
       "category": "Weather",
       "generated_at": "2026-11-16T03:23:42.086444"
+    },
+    {
+      "english": "Take one breath, keep going.",
+      "romanian": "Ia o respirație, continuă.",
+      "transliteration": "Ia o respirație, con-ti-nuă.",
+      "category": "Strength",
+      "generated_at": "2026-11-16T21:26:59.559169"
+    },
+    {
+      "english": "You can do this, step by step.",
+      "romanian": "Poți, ești capabil, pas cu pas.",
+      "transliteration": "Poți, ești ca-pa-bil, pas cu pas.",
+      "category": "Strength",
+      "generated_at": "2026-11-16T21:26:59.559187"
+    },
+    {
+      "english": "Stay calm, even when it’s messy.",
+      "romanian": "Rămâi calm, chiar și când e haos.",
+      "transliteration": "Rămâi cal-mi, chiar și cân'd e ha-os.",
+      "category": "Strength",
+      "generated_at": "2026-11-16T21:26:59.559188"
+    },
+    {
+      "english": "Keep your chin up, don’t quit.",
+      "romanian": "Ține capul sus, nu renunța.",
+      "transliteration": "Ți-ne ca-pul sus, nu re-nun-ța.",
+      "category": "Strength",
+      "generated_at": "2026-11-16T21:26:59.559190"
+    },
+    {
+      "english": "Do it scared, that’s still brave.",
+      "romanian": "Fă-o și frică, tot e curaj.",
+      "transliteration": "Fă-o și fri-că, tot e cu-raj.",
+      "category": "Strength",
+      "generated_at": "2026-11-16T21:26:59.559191"
     }
   ],
-  "last_updated": "2026-11-16T03:23:42.086446"
+  "last_updated": "2026-11-16T21:26:59.559193"
 }
