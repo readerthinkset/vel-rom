@@ -24814,7 +24814,42 @@
       "transliteration": "su-nă fru-mos, spune-mi mai mult",
       "category": "Inspiration",
       "generated_at": "2026-11-15T23:38:24.970471"
+    },
+    {
+      "english": "It’s cloudy, and the day feels dim.",
+      "romanian": "E înnorat, și ziua pare mai întunecată.",
+      "transliteration": "e- inorat, si ziua pare mai intunecata",
+      "category": "Weather",
+      "generated_at": "2026-11-16T03:23:42.086425"
+    },
+    {
+      "english": "The rain smells fresh, after the storm.",
+      "romanian": "Ploaia miroase proaspăt, după furtună.",
+      "transliteration": "ploaia miroase proaspat, dupa furtuna",
+      "category": "Weather",
+      "generated_at": "2026-11-16T03:23:42.086440"
+    },
+    {
+      "english": "Droplets gather on the leaves outside.",
+      "romanian": "Picăturile se adună pe frunze.",
+      "transliteration": "picatorile se aduna pe frunze",
+      "category": "Weather",
+      "generated_at": "2026-11-16T03:23:42.086442"
+    },
+    {
+      "english": "The clouds move fast, then settle down.",
+      "romanian": "Norii se mișcă repede, apoi se așază.",
+      "transliteration": "norii se misca repede, apoi se asaza",
+      "category": "Weather",
+      "generated_at": "2026-11-16T03:23:42.086443"
+    },
+    {
+      "english": "Humidity makes everything feel heavier today.",
+      "romanian": "Umiditatea face totul să pară mai greu.",
+      "transliteration": "umiditatea face totul sa para mai greu",
+      "category": "Weather",
+      "generated_at": "2026-11-16T03:23:42.086444"
     }
   ],
-  "last_updated": "2026-11-15T23:38:24.970473"
+  "last_updated": "2026-11-16T03:23:42.086446"
 }
