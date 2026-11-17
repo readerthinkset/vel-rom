@@ -24954,7 +24954,42 @@
       "transliteration": "Sunt recunoscator pentru bunatati mici, zilnice.",
       "category": "Happiness",
       "generated_at": "2026-11-17T00:42:33.525970"
+    },
+    {
+      "english": "Where is the nearest bus stop?",
+      "romanian": "Unde este stația de autobuz cea mai apropiată?",
+      "transliteration": "Unde este statiа de autobuz cea mai apropiata?",
+      "category": "Common Expressions",
+      "generated_at": "2026-11-17T02:41:17.907945"
+    },
+    {
+      "english": "I’d like to order something simple.",
+      "romanian": "Aș dori să comand ceva simplu.",
+      "transliteration": "As dori sa comand ceva simplu.",
+      "category": "Common Expressions",
+      "generated_at": "2026-11-17T02:41:17.907959"
+    },
+    {
+      "english": "Is it okay to pay by card?",
+      "romanian": "E în regulă să plătesc cu cardul?",
+      "transliteration": "E in regula sa platesc cu cardul?",
+      "category": "Common Expressions",
+      "generated_at": "2026-11-17T02:41:17.907961"
+    },
+    {
+      "english": "I’m looking for a pharmacy.",
+      "romanian": "Caut o farmacie.",
+      "transliteration": "Caut o farmacie.",
+      "category": "Common Expressions",
+      "generated_at": "2026-11-17T02:41:17.907963"
+    },
+    {
+      "english": "Do you have this in another size?",
+      "romanian": "Aveți asta în altă mărime?",
+      "transliteration": "Aveti asta in alta marime?",
+      "category": "Common Expressions",
+      "generated_at": "2026-11-17T02:41:17.907965"
     }
   ],
-  "last_updated": "2026-11-17T00:42:33.525973"
+  "last_updated": "2026-11-17T02:41:17.907967"
 }
