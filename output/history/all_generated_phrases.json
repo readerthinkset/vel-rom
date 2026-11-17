@@ -25024,7 +25024,42 @@
       "transliteration": "Ro-tun-jeș-te cum-pă-ră-tu-ri-le, e-co-no-mi-seș-te di-fe-ren-ța",
       "category": "Finance",
       "generated_at": "2026-11-17T05:24:02.683080"
+    },
+    {
+      "english": "I’ll send the report by end of day.",
+      "romanian": "Îți trimit raportul până la sfârșitul zilei.",
+      "transliteration": "y-te trim-it rapoartul pana la sfârshitul ziley",
+      "category": "Work",
+      "generated_at": "2026-11-17T20:14:32.739947"
+    },
+    {
+      "english": "Please share your status update now.",
+      "romanian": "Te rog, trimite acum actualizarea stadiului.",
+      "transliteration": "te rog, trimite akum actualizarea stadiului",
+      "category": "Work",
+      "generated_at": "2026-11-17T20:14:32.739963"
+    },
+    {
+      "english": "Let’s review the tasks for today.",
+      "romanian": "Să trecem prin sarcinile de azi.",
+      "transliteration": "sa trecem prin sarcinile de azi",
+      "category": "Work",
+      "generated_at": "2026-11-17T20:14:32.739967"
+    },
+    {
+      "english": "Can you confirm the meeting time?",
+      "romanian": "Poți confirma ora ședinței?",
+      "transliteration": "poți confirma ora ședintey",
+      "category": "Work",
+      "generated_at": "2026-11-17T20:14:32.739968"
+    },
+    {
+      "english": "I need the files by noon.",
+      "romanian": "Am nevoie de fișiere până la prânz.",
+      "transliteration": "am nevoie de fișiere pana la prânz",
+      "category": "Work",
+      "generated_at": "2026-11-17T20:14:32.739970"
     }
   ],
-  "last_updated": "2026-11-17T05:24:02.683081"
+  "last_updated": "2026-11-17T20:14:32.739972"
 }
