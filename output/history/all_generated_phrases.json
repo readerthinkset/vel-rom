@@ -25619,7 +25619,42 @@
       "transliteration": "Tre-buie sa cumpăr bi-lee-te di-nain-te",
       "category": "Travel",
       "generated_at": "2026-11-20T21:40:04.709090"
+    },
+    {
+      "english": "I feel a little anxious right now.",
+      "romanian": "Simt un pic de anxietate acum.",
+      "transliteration": "Simt un pic de anksietate akum.",
+      "category": "Feelings",
+      "generated_at": "2026-11-20T23:00:48.208880"
+    },
+    {
+      "english": "I’m excited, but I stay grounded.",
+      "romanian": "Sunt încântat(ă), dar rămân cu picioarele pe pământ.",
+      "transliteration": "Sunt incantat(a), dar raman ku picioarele pe pamant.",
+      "category": "Feelings",
+      "generated_at": "2026-11-20T23:00:48.208894"
+    },
+    {
+      "english": "A wave of calm settles over me.",
+      "romanian": "O undă de calm mă cuprinde.",
+      "transliteration": "O undă de calm mă kuprinde.",
+      "category": "Feelings",
+      "generated_at": "2026-11-20T23:00:48.208896"
+    },
+    {
+      "english": "I feel tense, like something’s off.",
+      "romanian": "Mă simt încordat(ă), parcă e ceva în neregulă.",
+      "transliteration": "Mă simt încordat(a), parka e ceva în neregulă.",
+      "category": "Feelings",
+      "generated_at": "2026-11-20T23:00:48.208897"
+    },
+    {
+      "english": "I’m relieved, like a weight lifted.",
+      "romanian": "Sunt ușurat(ă), parcă mi s-a luat o greutate.",
+      "transliteration": "Sunt ușurat(a), parka mi s-a luat o greutate.",
+      "category": "Feelings",
+      "generated_at": "2026-11-20T23:00:48.208899"
     }
   ],
-  "last_updated": "2026-11-20T21:40:04.709092"
+  "last_updated": "2026-11-20T23:00:48.208901"
 }
