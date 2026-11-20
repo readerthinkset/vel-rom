@@ -25584,7 +25584,42 @@
       "transliteration": "Încé-tineș-te, mo-men-tul te va gă-si.",
       "category": "Inner Peace",
       "generated_at": "2026-11-20T19:26:32.069458"
+    },
+    {
+      "english": "Where is the bus stop, please?",
+      "romanian": "Unde este stația de autobuz, vă rog?",
+      "transliteration": "Oon-de este stația de au-tobus, va rog",
+      "category": "Travel",
+      "generated_at": "2026-11-20T21:40:04.709069"
+    },
+    {
+      "english": "How do I get to the castle?",
+      "romanian": "Cum ajung la castel?",
+      "transliteration": "Kum a-jung la kas-tel",
+      "category": "Travel",
+      "generated_at": "2026-11-20T21:40:04.709085"
+    },
+    {
+      "english": "Is this the right stop for downtown?",
+      "romanian": "Acesta este stația potrivită pentru centru?",
+      "transliteration": "A-ces-ta es-te stația po-tri-vi-tă pen-tru cen-tru",
+      "category": "Travel",
+      "generated_at": "2026-11-20T21:40:04.709087"
+    },
+    {
+      "english": "What time does the museum open?",
+      "romanian": "La ce oră se deschide muzeul?",
+      "transliteration": "La che o-ra se des-chide mu-ze-ul",
+      "category": "Travel",
+      "generated_at": "2026-11-20T21:40:04.709089"
+    },
+    {
+      "english": "Do I need tickets in advance?",
+      "romanian": "Trebuie să cumpăr bilete dinainte?",
+      "transliteration": "Tre-buie sa cumpăr bi-lee-te di-nain-te",
+      "category": "Travel",
+      "generated_at": "2026-11-20T21:40:04.709090"
     }
   ],
-  "last_updated": "2026-11-20T19:26:32.069461"
+  "last_updated": "2026-11-20T21:40:04.709092"
 }
