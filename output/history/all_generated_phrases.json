@@ -25724,7 +25724,42 @@
       "transliteration": "Un suc de lămâ-ie, ver-de a-kri-șor.",
       "category": "Colors",
       "generated_at": "2026-11-21T04:26:39.679724"
+    },
+    {
+      "english": "At sunrise, the birds start singing.",
+      "romanian": "La răsărit, păsările încep să cânte.",
+      "transliteration": "La rasarit, pasarile incep sa cante.",
+      "category": "Time",
+      "generated_at": "2026-11-21T18:29:07.683146"
+    },
+    {
+      "english": "Morning is busy, take your time.",
+      "romanian": "Dimineața e plină, ia-ți timpul.",
+      "transliteration": "Dimineata e plina, ia-ti timpul.",
+      "category": "Time",
+      "generated_at": "2026-11-21T18:29:07.683159"
+    },
+    {
+      "english": "By noon, we'll decide together.",
+      "romanian": "Până la prânz, hotărâm împreună.",
+      "transliteration": "Pana la pranz, hotaram impreuna.",
+      "category": "Time",
+      "generated_at": "2026-11-21T18:29:07.683161"
+    },
+    {
+      "english": "In the evening, I slow down.",
+      "romanian": "Seara, încetinesc ritmul.",
+      "transliteration": "Seara, incetinesc ritmul.",
+      "category": "Time",
+      "generated_at": "2026-11-21T18:29:07.683163"
+    },
+    {
+      "english": "When the day ends, call me.",
+      "romanian": "Când se termină ziua, sună-mă.",
+      "transliteration": "Cand se termina ziua, suna-ma.",
+      "category": "Time",
+      "generated_at": "2026-11-21T18:29:07.683164"
     }
   ],
-  "last_updated": "2026-11-21T04:26:39.679728"
+  "last_updated": "2026-11-21T18:29:07.683165"
 }
