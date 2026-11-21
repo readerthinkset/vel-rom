@@ -25794,7 +25794,42 @@
       "transliteration": "Încearcă încă o dată, cu un ritm calm.",
       "category": "Patience",
       "generated_at": "2026-11-21T20:20:21.973578"
+    },
+    {
+      "english": "How much are these, please?",
+      "romanian": "Cât costă astea, vă rog?",
+      "transliteration": "CAT costa astea, va rog?",
+      "category": "Shopping",
+      "generated_at": "2026-11-21T22:05:06.561907"
+    },
+    {
+      "english": "Do you have it in red?",
+      "romanian": "O aveți și în roșu?",
+      "transliteration": "O aveti si in rosu?",
+      "category": "Shopping",
+      "generated_at": "2026-11-21T22:05:06.561924"
+    },
+    {
+      "english": "Is there a sale today?",
+      "romanian": "E reducere azi, cumva?",
+      "transliteration": "E reducere azi, cumva?",
+      "category": "Shopping",
+      "generated_at": "2026-11-21T22:05:06.561925"
+    },
+    {
+      "english": "Where do you ship from?",
+      "romanian": "De unde expediați?",
+      "transliteration": "De unde expediati?",
+      "category": "Shopping",
+      "generated_at": "2026-11-21T22:05:06.561927"
+    },
+    {
+      "english": "Can I check the price tag?",
+      "romanian": "Pot să văd eticheta de preț?",
+      "transliteration": "Pot sa vad eticheta de pret?",
+      "category": "Shopping",
+      "generated_at": "2026-11-21T22:05:06.561928"
     }
   ],
-  "last_updated": "2026-11-21T20:20:21.973580"
+  "last_updated": "2026-11-21T22:05:06.561930"
 }
