@@ -25934,7 +25934,42 @@
       "transliteration": "LA che o-RĂ des-chI-deți?",
       "category": "Common Expressions",
       "generated_at": "2026-11-22T18:52:00.691193"
+    },
+    {
+      "english": "My phone wakes with a glance.",
+      "romanian": "Telefonul meu se trezește dintr-o privire.",
+      "transliteration": "TEL-efonul meu se tre-zeș-te din-tr-o pri-vire",
+      "category": "Technology",
+      "generated_at": "2026-11-22T20:32:42.127970"
+    },
+    {
+      "english": "The new update feels faster today.",
+      "romanian": "Actualizarea nouă se simte mai rapid azi.",
+      "transliteration": "Ac-tu-a-li-za-rea nouă se sim-te mai ra-pid a-zi",
+      "category": "Technology",
+      "generated_at": "2026-11-22T20:32:42.127982"
+    },
+    {
+      "english": "I charge it overnight, no worry.",
+      "romanian": "O încarc peste noapte, fără griji.",
+      "transliteration": "O în-car-c pes-te noap-te, fă-ră gri-ji",
+      "category": "Technology",
+      "generated_at": "2026-11-22T20:32:42.127984"
+    },
+    {
+      "english": "My Wi‑Fi drops, then reconnects.",
+      "romanian": "Wi‑Fi-ul pică, apoi se reconectează.",
+      "transliteration": "Wi‑Fi-ul pi-că, a-poi se re-conec-tea-ză",
+      "category": "Technology",
+      "generated_at": "2026-11-22T20:32:42.127985"
+    },
+    {
+      "english": "Bluetooth pairs quickly, no drama.",
+      "romanian": "Bluetooth se potrivește repede, fără probleme.",
+      "transliteration": "Blue-tooth se po-tri-veș-te re-pe-de, fă-ră pro-ble-me",
+      "category": "Technology",
+      "generated_at": "2026-11-22T20:32:42.127987"
     }
   ],
-  "last_updated": "2026-11-22T18:52:00.691195"
+  "last_updated": "2026-11-22T20:32:42.127988"
 }
