@@ -25899,7 +25899,42 @@
       "transliteration": "Mai am cinci minute.",
       "category": "Numbers",
       "generated_at": "2026-11-22T03:40:38.142543"
+    },
+    {
+      "english": "Excuse me, where is the restroom?",
+      "romanian": "Scuzați-mă, unde e toaleta?",
+      "transliteration": "SKU-zați-mă, UN-de e TOH-a-LE-ta?",
+      "category": "Common Expressions",
+      "generated_at": "2026-11-22T18:52:00.691170"
+    },
+    {
+      "english": "How much does it cost, please?",
+      "romanian": "Cât costă, vă rog?",
+      "transliteration": "KÂT COS-tă, vă ROG?",
+      "category": "Common Expressions",
+      "generated_at": "2026-11-22T18:52:00.691188"
+    },
+    {
+      "english": "I don’t understand, can you repeat?",
+      "romanian": "Nu înțeleg, puteți repeta?",
+      "transliteration": "NU În-țe-leg, PU-teți re-pe-ta?",
+      "category": "Common Expressions",
+      "generated_at": "2026-11-22T18:52:00.691190"
+    },
+    {
+      "english": "Do you take contactless payments?",
+      "romanian": "Plătiți fără contact, aveți?",
+      "transliteration": "PLĂ-tiți FĂ-ră KON-takt, a-veți?",
+      "category": "Common Expressions",
+      "generated_at": "2026-11-22T18:52:00.691192"
+    },
+    {
+      "english": "What time do you open?",
+      "romanian": "La ce oră deschideți?",
+      "transliteration": "LA che o-RĂ des-chI-deți?",
+      "category": "Common Expressions",
+      "generated_at": "2026-11-22T18:52:00.691193"
     }
   ],
-  "last_updated": "2026-11-22T03:40:38.142545"
+  "last_updated": "2026-11-22T18:52:00.691195"
 }
