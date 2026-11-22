@@ -25864,7 +25864,42 @@
       "transliteration": "În seara asta, luminile ne conduc acasă.",
       "category": "Holidays",
       "generated_at": "2026-11-21T23:59:34.232271"
+    },
+    {
+      "english": "I need one more glass, please.",
+      "romanian": "Am nevoie de un pahar, te rog.",
+      "transliteration": "Am nevoi de un pahăr, te rog.",
+      "category": "Numbers",
+      "generated_at": "2026-11-22T03:40:38.142525"
+    },
+    {
+      "english": "Give me two spoons, please.",
+      "romanian": "Dă-mi două linguri, te rog.",
+      "transliteration": "Dă-mi două linguri, te rog.",
+      "category": "Numbers",
+      "generated_at": "2026-11-22T03:40:38.142540"
+    },
+    {
+      "english": "We’ll take three minutes, okay?",
+      "romanian": "Luăm trei minute, bine?",
+      "transliteration": "Luăm trei minute, bine?",
+      "category": "Numbers",
+      "generated_at": "2026-11-22T03:40:38.142541"
+    },
+    {
+      "english": "Turn left after four blocks.",
+      "romanian": "Fă stânga după patru străzi.",
+      "transliteration": "Faci stânga după patru străzi.",
+      "category": "Numbers",
+      "generated_at": "2026-11-22T03:40:38.142542"
+    },
+    {
+      "english": "I have five minutes left.",
+      "romanian": "Mai am cinci minute.",
+      "transliteration": "Mai am cinci minute.",
+      "category": "Numbers",
+      "generated_at": "2026-11-22T03:40:38.142543"
     }
   ],
-  "last_updated": "2026-11-21T23:59:34.232273"
+  "last_updated": "2026-11-22T03:40:38.142545"
 }
