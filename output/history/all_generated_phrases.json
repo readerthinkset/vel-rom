@@ -26074,7 +26074,42 @@
       "transliteration": "prieteni buni fac totul mai blând și mai bun.",
       "category": "Happiness",
       "generated_at": "2026-11-23T04:15:26.465792"
+    },
+    {
+      "english": "Own your strength, day after day.",
+      "romanian": "Poartă-ți puterea, zi de zi.",
+      "transliteration": "Poartă-ți puterea, zi de zi",
+      "category": "Strength",
+      "generated_at": "2026-11-23T23:04:39.911587"
+    },
+    {
+      "english": "You are stronger than your doubts.",
+      "romanian": "Ești mai puternic decât îndoielile tale.",
+      "transliteration": "Ești mai puternic decât îndoielile tale",
+      "category": "Strength",
+      "generated_at": "2026-11-23T23:04:39.911599"
+    },
+    {
+      "english": "Keep going, even when it hurts.",
+      "romanian": "Continuă, chiar dacă doare.",
+      "transliteration": "Continuă, chiar dacă doare",
+      "category": "Strength",
+      "generated_at": "2026-11-23T23:04:39.911601"
+    },
+    {
+      "english": "Courage starts with a small step.",
+      "romanian": "Curajul începe cu un pas mic.",
+      "transliteration": "Curajul începe cu un pas mic",
+      "category": "Strength",
+      "generated_at": "2026-11-23T23:04:39.911603"
+    },
+    {
+      "english": "Speak kindly to yourself, always.",
+      "romanian": "Vorbește-ți frumos, mereu.",
+      "transliteration": "Vorbește-ți frumos, mereu",
+      "category": "Strength",
+      "generated_at": "2026-11-23T23:04:39.911604"
     }
   ],
-  "last_updated": "2026-11-23T04:15:26.465794"
+  "last_updated": "2026-11-23T23:04:39.911606"
 }
