@@ -26109,7 +26109,42 @@
       "transliteration": "Vorbește-ți frumos, mereu",
       "category": "Strength",
       "generated_at": "2026-11-23T23:04:39.911604"
+    },
+    {
+      "english": "It’s raining lightly, right now.",
+      "romanian": "Plouă ușor chiar acum.",
+      "transliteration": "plouă UȘor chiAR acum",
+      "category": "Weather",
+      "generated_at": "2026-11-24T01:26:30.133989"
+    },
+    {
+      "english": "The storm clouds thicken overhead.",
+      "romanian": "Se îngroașă norii de furtună.",
+      "transliteration": "se îngroaȘĂ noRii de furTUNĂ",
+      "category": "Weather",
+      "generated_at": "2026-11-24T01:26:30.134006"
+    },
+    {
+      "english": "A drizzle wets the sidewalk quietly.",
+      "romanian": "O burniță udă trotuarul liniștit.",
+      "transliteration": "o burniȚĂ uDĂ trotuarul liNIștit",
+      "category": "Weather",
+      "generated_at": "2026-11-24T01:26:30.134007"
+    },
+    {
+      "english": "The sun hides behind thin clouds.",
+      "romanian": "Soarele se ascunde după nori subțiri.",
+      "transliteration": "soarele se asCUNde duPĂ noRii SUBțiri",
+      "category": "Weather",
+      "generated_at": "2026-11-24T01:26:30.134008"
+    },
+    {
+      "english": "I feel cooler, after the rain.",
+      "romanian": "Mă simt mai rece după ploaie.",
+      "transliteration": "mă simt mai reCE duPĂ ploaie",
+      "category": "Weather",
+      "generated_at": "2026-11-24T01:26:30.134009"
     }
   ],
-  "last_updated": "2026-11-23T23:04:39.911606"
+  "last_updated": "2026-11-24T01:26:30.134011"
 }
