@@ -26144,7 +26144,42 @@
       "transliteration": "mă simt mai reCE duPĂ ploaie",
       "category": "Weather",
       "generated_at": "2026-11-24T01:26:30.134009"
+    },
+    {
+      "english": "I’ll start with an easy sentence.",
+      "romanian": "Încep cu o propoziție ușoară.",
+      "transliteration": "in-KP cu o pro-po-zi-ție u-sioa-ra",
+      "category": "Confidence",
+      "generated_at": "2026-11-24T03:12:29.282338"
+    },
+    {
+      "english": "Use short words, I’m okay.",
+      "romanian": "Folosesc cuvinte scurte, sunt bine.",
+      "transliteration": "fo-lo-sesc cu-vinte scur-te, sunt bi-ne",
+      "category": "Confidence",
+      "generated_at": "2026-11-24T03:12:29.282358"
+    },
+    {
+      "english": "I understand more than before.",
+      "romanian": "Înțeleg mai mult ca înainte.",
+      "transliteration": "in-tre-leg mai mult ca îna-in-te",
+      "category": "Confidence",
+      "generated_at": "2026-11-24T03:12:29.282360"
+    },
+    {
+      "english": "My accent will improve over time.",
+      "romanian": "AccentuI meu se va îmbunătăți.",
+      "transliteration": "a-cen-tul meu se va im-bu-nă-tă-ți",
+      "category": "Confidence",
+      "generated_at": "2026-11-24T03:12:29.282361"
+    },
+    {
+      "english": "I can ask for help politely.",
+      "romanian": "Pot cere ajutor, politicos.",
+      "transliteration": "pot ce-re a-ju-tor po-li-ti-cos",
+      "category": "Confidence",
+      "generated_at": "2026-11-24T03:12:29.282363"
     }
   ],
-  "last_updated": "2026-11-24T01:26:30.134011"
+  "last_updated": "2026-11-24T03:12:29.282366"
 }
