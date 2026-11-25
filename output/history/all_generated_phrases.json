@@ -26424,7 +26424,42 @@
       "transliteration": "ÎN-văț, te ROG să ai RĂB-da-re",
       "category": "Growth",
       "generated_at": "2026-11-25T05:48:13.148117"
+    },
+    {
+      "english": "The fox trots through the morning grass.",
+      "romanian": "Vulpea aleargă prin iarba dimineții.",
+      "transliteration": "Vulpea alerga prin iarba diminetii.",
+      "category": "Animals",
+      "generated_at": "2026-11-25T20:52:04.586548"
+    },
+    {
+      "english": "A wolf howls softly at the moon.",
+      "romanian": "Lupul urlă încet la lună.",
+      "transliteration": "Lupul ŭrla încet la luna.",
+      "category": "Animals",
+      "generated_at": "2026-11-25T20:52:04.586560"
+    },
+    {
+      "english": "A deer pauses, listening for danger.",
+      "romanian": "Căprioara se oprește, ascultând pericolul.",
+      "transliteration": "Căprioara se opreste, ascultând pericolul.",
+      "category": "Animals",
+      "generated_at": "2026-11-25T20:52:04.586562"
+    },
+    {
+      "english": "The badger digs under the old fence.",
+      "romanian": "Bursucul sapă sub gardul vechi.",
+      "transliteration": "Bursucul sapa sub gardul vechi.",
+      "category": "Animals",
+      "generated_at": "2026-11-25T20:52:04.586564"
+    },
+    {
+      "english": "The rabbit hops closer to the carrots.",
+      "romanian": "Iepurele sare mai aproape de morcovi.",
+      "transliteration": "Iepurele sare mai aproape de morcovi.",
+      "category": "Animals",
+      "generated_at": "2026-11-25T20:52:04.586565"
     }
   ],
-  "last_updated": "2026-11-25T05:48:13.148119"
+  "last_updated": "2026-11-25T20:52:04.586567"
 }
