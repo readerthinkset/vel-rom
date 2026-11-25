@@ -26459,7 +26459,42 @@
       "transliteration": "Iepurele sare mai aproape de morcovi.",
       "category": "Animals",
       "generated_at": "2026-11-25T20:52:04.586565"
+    },
+    {
+      "english": "You’re improving, one conversation at a time.",
+      "romanian": "Îmbunătățești, pas cu pas, în conversații.",
+      "transliteration": "im-bu-nă-tățești, pas cu pas, în con-ver-sații",
+      "category": "Success",
+      "generated_at": "2026-11-25T22:53:43.158813"
+    },
+    {
+      "english": "Repeat softly, let it sink in.",
+      "romanian": "Repetă încet, lasă să se așeze.",
+      "transliteration": "re-pe-tă în-cet, la-să să se a-ze-ze",
+      "category": "Success",
+      "generated_at": "2026-11-25T22:53:43.158827"
+    },
+    {
+      "english": "Great, now answer with your own words.",
+      "romanian": "Super, răspunde acum cu cuvintele tale.",
+      "transliteration": "su-per, răs-pun-de a-cum cu cu-vi-nte-le ta-le",
+      "category": "Success",
+      "generated_at": "2026-11-25T22:53:43.158829"
+    },
+    {
+      "english": "It’s okay to pause, breathe, continue.",
+      "romanian": "E în regulă să pauzezi, respiră, mai departe.",
+      "transliteration": "e în re-gu-lă să pau-ze-zi, res-pi-ră, mai de-par-te",
+      "category": "Success",
+      "generated_at": "2026-11-25T22:53:43.158831"
+    },
+    {
+      "english": "Say it again, this time with smile.",
+      "romanian": "Spune-o iar, de data asta zâmbind.",
+      "transliteration": "spu-ne-o iar, de da-ta a-sta zâm-bind",
+      "category": "Success",
+      "generated_at": "2026-11-25T22:53:43.158832"
     }
   ],
-  "last_updated": "2026-11-25T20:52:04.586567"
+  "last_updated": "2026-11-25T22:53:43.158834"
 }
