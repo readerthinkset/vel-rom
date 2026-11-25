@@ -26389,7 +26389,42 @@
       "transliteration": "Alege aliménte integrále, simți diferența.",
       "category": "Health",
       "generated_at": "2026-11-25T03:14:12.261945"
+    },
+    {
+      "english": "Use Romanian at the shop today.",
+      "romanian": "Folosește româna azi la magazin.",
+      "transliteration": "FO-lo-sește RO-mâ-na a-zi la MA-ga-zin",
+      "category": "Growth",
+      "generated_at": "2026-11-25T05:48:13.148096"
+    },
+    {
+      "english": "I’ll try, even if it’s messy.",
+      "romanian": "Încerc, chiar dacă e mai greu.",
+      "transliteration": "ÎN-cerk, CHI-ar da-că e mai GREU",
+      "category": "Growth",
+      "generated_at": "2026-11-25T05:48:13.148111"
+    },
+    {
+      "english": "Thank you, I understand a bit.",
+      "romanian": "Mulțumesc, înțeleg puțin.",
+      "transliteration": "mul-țu-mesc, în-țe-leg PU-tin",
+      "category": "Growth",
+      "generated_at": "2026-11-25T05:48:13.148113"
+    },
+    {
+      "english": "What does this mean in Romanian?",
+      "romanian": "Ce înseamnă asta în română?",
+      "transliteration": "ce în-seam-nă a-sta în RO-mâ-nă",
+      "category": "Growth",
+      "generated_at": "2026-11-25T05:48:13.148115"
+    },
+    {
+      "english": "I’m learning, please be patient.",
+      "romanian": "Învăț, te rog să ai răbdare.",
+      "transliteration": "ÎN-văț, te ROG să ai RĂB-da-re",
+      "category": "Growth",
+      "generated_at": "2026-11-25T05:48:13.148117"
     }
   ],
-  "last_updated": "2026-11-25T03:14:12.261947"
+  "last_updated": "2026-11-25T05:48:13.148119"
 }
