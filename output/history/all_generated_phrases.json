@@ -26634,7 +26634,42 @@
       "transliteration": "Te poți sprijini pe mine, oricând.",
       "category": "Relationships",
       "generated_at": "2026-11-26T20:43:08.777106"
+    },
+    {
+      "english": "I feel happy, surprisingly calm.",
+      "romanian": "Mă simt fericit, surprinzător de calm.",
+      "transliteration": "Ma simt fericit, surprinzator de calm",
+      "category": "Feelings",
+      "generated_at": "2026-11-26T22:43:50.309791"
+    },
+    {
+      "english": "Something feels tender, inside me.",
+      "romanian": "Simt ceva tandru în mine.",
+      "transliteration": "Simt ceva tandru in mine",
+      "category": "Feelings",
+      "generated_at": "2026-11-26T22:43:50.309803"
+    },
+    {
+      "english": "I’m feeling proud, but not loud.",
+      "romanian": "Simt mândrie, dar fără să exagerez.",
+      "transliteration": "Simt mandrie, dar fara sa exagerez",
+      "category": "Feelings",
+      "generated_at": "2026-11-26T22:43:50.309805"
+    },
+    {
+      "english": "A cozy feeling settles in my chest.",
+      "romanian": "O senzație caldă se așază în piept.",
+      "transliteration": "O senzatie calda se așază in piept",
+      "category": "Feelings",
+      "generated_at": "2026-11-26T22:43:50.309807"
+    },
+    {
+      "english": "My thoughts feel clear, finally.",
+      "romanian": "Gândurile mele sunt clare, în sfârșit.",
+      "transliteration": "Gandurile mele sunt clare, in sfarsit",
+      "category": "Feelings",
+      "generated_at": "2026-11-26T22:43:50.309808"
     }
   ],
-  "last_updated": "2026-11-26T20:43:08.777108"
+  "last_updated": "2026-11-26T22:43:50.309810"
 }
