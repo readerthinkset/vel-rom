@@ -26690,7 +26690,28 @@
       "transliteration": "Plătește integral, ca să eviți dobânda",
       "category": "Finance",
       "generated_at": "2026-11-27T11:36:43.569238"
+    },
+    {
+      "english": "Good evening. May we sit here?",
+      "romanian": "Bună seara. Putem să stăm aici?",
+      "transliteration": "Bună seara. Putem sa stam aici?",
+      "category": "Restaurant",
+      "generated_at": "2026-11-27T19:23:19.564974"
+    },
+    {
+      "english": "Could we see the wine list, please?",
+      "romanian": "Putem vedea lista de vinuri, vă rog?",
+      "transliteration": "Putem vedea lista de vinuri, vă rog?",
+      "category": "Restaurant",
+      "generated_at": "2026-11-27T19:23:19.564987"
+    },
+    {
+      "english": "What do you recommend for tonight?",
+      "romanian": "Ce recomandați pentru azi seara?",
+      "transliteration": "Ce recomandati pentru azi seara?",
+      "category": "Restaurant",
+      "generated_at": "2026-11-27T19:23:19.564988"
     }
   ],
-  "last_updated": "2026-11-27T11:36:43.569240"
+  "last_updated": "2026-11-27T19:23:19.564993"
 }
