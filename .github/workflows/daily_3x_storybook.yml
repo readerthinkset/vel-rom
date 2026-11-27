@@ -2,9 +2,9 @@ name: Velocity Romanian - Storybook Publish
 
 on:
   schedule:
-    - cron: '00:03 * * *'
-    - cron: '08:03 * * *'
-    - cron: '16:03 * * *'
+    - cron: '3 0 * * *'
+    - cron: '3 8 * * *'
+    - cron: '3 16 * * *'
   workflow_dispatch:
     inputs:
       category:
